@@ -9,6 +9,6 @@
 ### How do I pitch my idea?
 
 ### What do I have to offer?
-workshops
-co-design sessions
+- workshops
+- co-design sessions
 
