@@ -8,4 +8,5 @@
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [What is the most effective way to document a project?](what_is_the_most_effective_way_to_document_a_proje.md)
+* Resources
 
