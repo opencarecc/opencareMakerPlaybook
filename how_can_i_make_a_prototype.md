@@ -13,6 +13,21 @@
 
 ## What kind of technologies can I use?
 
+### Microcontrollers (Arduino & friends)
+
+### 3D printing
+
+### Laser cutting
+
+### Milling
+
+
+
+
+
+
+
+
 
 
 
