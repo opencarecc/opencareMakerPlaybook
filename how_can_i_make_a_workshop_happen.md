@@ -3,7 +3,7 @@
 
 ## Educational workshop
 
-## Ideation workshop?
+## Ideation workshop
 
 ## Experiential workshop
 
