@@ -11,6 +11,7 @@ check doc by Manzini
 check doc by Manzini
 
 ## What is the value of community participation?
+mention co-design here
 
 ## I just have simple ideas in my mind and I don’t have a team, can I even start?
 
