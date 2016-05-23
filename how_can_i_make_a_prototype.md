@@ -12,6 +12,7 @@
 
 
 ## What kind of technologies can I use?
+Rapid prototyping techniques
 
 ### Microcontrollers (Arduino & friends)
 
