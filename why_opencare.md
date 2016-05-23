@@ -5,10 +5,10 @@
 
 
 ## What is care?
-
+check doc by Manzini
 
 ## What is open?
-
+check doc by Manzini
 
 ## What is the value of community participation?
 
