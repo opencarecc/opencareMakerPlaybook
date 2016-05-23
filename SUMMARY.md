@@ -6,5 +6,5 @@
 * [How to involve an online community?](how_to_involve_an_online_community.md)
 * [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.md)
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
-* How can I make a prototype?
+* [How can I make a prototype?](how_can_i_make_a_prototype.md)
 
