@@ -2,7 +2,18 @@
 
 
 ## Where does the idea come from?
+Since the beginning of human history, care has been exchanged (given and received) inside homogeneous, durable and relatively closed groups of individuals: families, clans, village communities, urban neighborhoods ...
 
+In the past century, in parallel to that, care has been delivered also by dedicated institutions: hospitals, kindergartens, elderly residences...
+
+Today, for several reasons, the demand of care is growing and becoming more complex, while both the traditional and the modern offer of care are less and less capable to cope with it.
+Actually, in the contemporary fluid, hyper individualized societies, families, village communities and urban neighborhoods are weakening (if not totally disappearing) and individuals, given their life structure, have less and less practical possibilities to take care of others (even when, in principle, they would do it).
+
+In turn, care institutions, which were supposed to substitute the traditional community’s and individual’s care, have less and less economic resources (and often political will) to do it.
+
+The gap between the growing demand and the shrinking offer of care is the basis of the present care crisis: a lack of care that is not only practical (the caring system do not succeed in coping with the care demand), but also psychological (the sense of loneliness deriving by the lack of sense of care throughout the whole society).
+
+To overcome this crisis a brand new care systems has to be imagined and enhanced. To move in this direction, a first step is to better understand caring activities, considering their nature and diversity.
 
 ## What is care?
 Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
