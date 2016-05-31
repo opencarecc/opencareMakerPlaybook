@@ -26,10 +26,14 @@ A.
 B.
 *Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
 
-
-
 ## What is opencare then?
-check doc by Manzini
+Considering the different meanings of “care” and “open” there is a clear correlation between 1 and A, and between 2 and B:
+
+A1.
+*Open care refers to the final result.* That is, it refers to the characteristics of the care system we intend to create: a care system where different actors (experts and non experts) are in condition to play a relevant role.
+
+B2.
+*Open care refers to the design/production process.* That is, it refers to the characteristics of a co-design and co-production process: the process leading to the realization of the products and services on which an aimed care system is based.
 
 ## What is the value of community participation?
 mention co-design here
