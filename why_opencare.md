@@ -14,7 +14,7 @@ Aside from being a word that we use regularly, the meaning of "care" might have 
 ## What is open?
 *Open source, open data, open knowledge, open mind...* What exactly is the meaning of "open" in the contemporary world?
 
-A succinct summary from the Open Definition website ([http://opendefinition.org/](http://opendefinition.org/)):
+A succinct summary from the *Open Definition* website ([http://opendefinition.org/](http://opendefinition.org/)):
 
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
 
