@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "webpd"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
