@@ -20,9 +20,11 @@ A succinct summary from the Open Definition website ([http://opendefinition.org/
 
 Starting from this assumption, "open" could gain a more complex meaning withing the field of care:
 
-A. *Open referred to the care system:* a system is open when different actors have the possibility to play a role. This can happen when the whole activity package is opened and divided into parts with the possibility, for these different parts, to be distributed among different actors.
+A.
+*Open referred to the care system:* a system is open when different actors have the possibility to play a role. This can happen when the whole activity package is opened and divided into parts with the possibility, for these different parts, to be distributed among different actors.
 
-B. *Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
+B.
+*Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
 
 
 
