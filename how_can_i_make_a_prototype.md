@@ -21,7 +21,7 @@ Rapid prototyping techniques
 
 ### Milling
 
-## Where do you go next?
+## Where do I go next?
 ###Scale up!
 
 
