@@ -1,4 +1,4 @@
-# How can I make a prototype?
+# How can I make a prototype? [Alessandro]
 
 ## Is there a process I can follow?
 design process, what it is, why it's powerful, how you can use it for prototyping
@@ -20,6 +20,9 @@ Rapid prototyping techniques
 ### Laser cutting
 
 ### Milling
+
+## Where do you go next?
+###Scale up!
 
 
 
