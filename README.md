@@ -9,6 +9,3 @@ You can read the full book in your browser at this page: https://wemakecc.gitboo
 Or download it as a:
 - PDF (link coming soon)
 - ePub (link coming soon)
-
-
-prova
