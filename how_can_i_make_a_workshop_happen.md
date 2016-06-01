@@ -8,5 +8,6 @@ you learn how to use a tool
 you use a technology or technique to come up with ideas
 
 ## Experiential workshop
-
+?
 ## Innovation workshop
+?
