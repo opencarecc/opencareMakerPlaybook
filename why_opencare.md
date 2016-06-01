@@ -2,6 +2,7 @@
 
 
 ## Where does the idea come from?
+[by Manzini]
 Since the beginning of human history, care has been exchanged (given and received) inside homogeneous, durable and relatively closed groups of individuals: families, clans, village communities, urban neighborhoods ...
 
 In the past century, in parallel to that, care has been delivered also by dedicated institutions: hospitals, kindergartens, elderly residences...
@@ -17,6 +18,7 @@ To overcome this crisis a brand new care systems has to be imagined and enhanced
 
 ## What is care?
 Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
+[by Manzini]
 1. 
 *Care referred to a special kind of human interaction*: someone (the care giver) gives attention to, and takes action for, someone else (the care receiver).
 2. 
@@ -30,7 +32,7 @@ A succinct summary from the *Open Definition* website ([http://opendefinition.or
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
 
 Starting from this assumption, "open" could gain a more complex meaning withing the field of care:
-
+[by Manzini]
 A.
 *Open referred to the care system:* a system is open when different actors have the possibility to play a role. This can happen when the whole activity package is opened and divided into parts with the possibility, for these different parts, to be distributed among different actors.
 
@@ -38,6 +40,7 @@ B.
 *Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
 
 ## What is *opencare* then?
+[by Manzini]
 Considering the different meanings of “care” and “open” there is a clear correlation between 1 and A, and between 2 and B:
 
 A1.
