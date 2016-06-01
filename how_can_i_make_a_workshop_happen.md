@@ -11,6 +11,8 @@ There are many different kind of workshops you can offer, but mostly they can be
 
 Workshops can be approached in different ways according to the category they belong to, but there are common issues and best practices that we can cover and analyze independently:
 ### Space
+lalala
+test conflict
 ### Material
 ### Coaches
 ### Communication
