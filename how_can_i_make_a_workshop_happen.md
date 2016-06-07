@@ -1,9 +1,9 @@
 # How can I make a workshop happen? [Alessandro]
 
 A hands-on workshop is usually a very good way to engage local communities and to find people interested in the project.
-A workshop is also usually time intensive and requires a lot of effort in terms of research, planning, logistics and communication.
+However organizing a workshop is also usually time intensive and requires a lot of effort in terms of research, planning, logistics and communication.
 
-There are many different kind of workshops you can offer, but mostly they can be grouped in four main categories:
+There are many different kinds of workshops you can offer, but mostly they can be grouped in four main categories:
 - Educational workshop
 - Ideation workshop
 - Experiential workshop
