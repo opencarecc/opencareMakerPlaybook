@@ -9,7 +9,7 @@ There are many different kinds of workshops you can offer, but mostly they can b
 - Experiential workshop
 - Innovation workshop
 
-Workshops can be approached in different ways according to the category they belong to, but there are common issues and best practices that we can cover and analyze independently:
+Workshops can be approached in different ways according to the category they belong to, but there are common issues and best practices that we can cover and analyze separately:
 ### Space
 
 ### Material
