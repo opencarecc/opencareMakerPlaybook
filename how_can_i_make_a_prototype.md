@@ -15,9 +15,9 @@ Rapid prototyping techniques
 
 ### Microcontrollers (Arduino & friends)
 
-### 3D printing
+### 3D printing  (Moushira can add)
 
-### Laser cutting
+### Laser cutting (Moushira can add)
 
 ### Milling
 
