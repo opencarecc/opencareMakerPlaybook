@@ -1,10 +1,6 @@
 # How can I structure a co-design session?
 
-# [Silvia and Chiara]
-
-
-
-
+[Silvia & Chiara]
 
 ### Introduction
 * Why we used/made a co-design (advantages-risks-exc)
