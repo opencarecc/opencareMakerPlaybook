@@ -1,4 +1,4 @@
-# OpenCarePlaybook
+# OpenCarePlaybook [ko cristina]
 The Playbook is a collection of notes, tools, tips and tricks about the [opencare.cc](http://opencare.cc) project. 
 
 It is a work in progress and it's organized in such a way so that everyone can start from here to replicate the opencare project.
