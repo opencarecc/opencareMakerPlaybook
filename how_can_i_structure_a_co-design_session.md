@@ -35,3 +35,9 @@
 
 ### Overview
 
+| 0:0 | PRE | DAY 1 | DAY 2 | POST |
+| -- | -- | -- | -- | -- |
+| TOOLS | 1:2 | 2:2 | 3:2 | 4:2 |
+| INGREDIENTS | 1:3 | 2:3 | 3:3 | 4:3 |
+| EXECUTION | 1:4 | 2:4 | 3:4 | 4:4 |
+
