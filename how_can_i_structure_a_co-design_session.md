@@ -11,6 +11,7 @@
 ### Tips
 
 - Pay attention to the context // VARIETY - TONE OF VOICE - LANGUAGE
+
 *think about the community you are involving (nota bene...)*
 
 - Point out the desired outcomes // GOALS
