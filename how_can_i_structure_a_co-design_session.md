@@ -36,6 +36,8 @@
 - Keep the interest alive II // FEEDBACKS - UPDATES
 *once you get the involvement of the community you should do your best to keep them involved even after the session.*
 
+---
+
 ### Overview
 
 | 0:0 | PRE | DAY 1 | DAY 2 | POST |
