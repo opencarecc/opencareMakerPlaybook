@@ -1,8 +1,6 @@
 # How can I structure a co-design session? [silvia and chiara]
 
 
-[Silvia & Chiara]
-
 ### Introduction
 * Why we used/made a co-design (advantages-risks-exc)
 * How we structured this chapter (intro-tips-examples-general overview)
