@@ -40,7 +40,7 @@
 
 | 0:0 | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
 | -- | -- | -- | -- | -- |
-| TOOLS | 1:2 | 2:2 | 3:2 | 4:2 |
-| INGREDIENTS | 1:3 | 2:3 | 3:3 | 4:3 |
-| EXECUTION | 1:4 | 2:4 | 3:4 | 4:4 |
+| TOOLS | Meetings, Workshops, Events / Face to face presentations / Newsletter and blog posts| 2:2 | 3:2 | 4:2 |
+| FUNDAMENTALS | 1:3 | 2:3 | 3:3 | 4:3 |
+| GOALS | 1:4 | 2:4 | 3:4 | 4:4 |
 
