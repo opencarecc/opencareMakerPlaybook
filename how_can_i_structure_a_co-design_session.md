@@ -44,7 +44,7 @@
 | **STRATEGIES:** |   |   |   |   |   |
 |   | **> TOOLS** (passive) | Face to face presentation, newsletter, blog-posts | Posters, stickers, slide presentation | Slide presentation | Slide presentation |
 |   | **(?)** | Meetings, events, workshops | *Mini-workshop* | *mini-workshop* | aperitif |
-| 0:6 | 1:6 | 2:6 | 3:6 | 4:6 | 5:6 |
+|   | > TOOLS (active) | 2:6 | 3:6 | 4:6 | 5:6 |
 | 0:7 | 1:7 | 2:7 | 3:7 | 4:7 | 5:7 |
 | 0:8 | 1:8 | 2:8 | 3:8 | 4:8 | 5:8 |
 | 0:9 | 1:9 | 2:9 | 3:9 | 4:9 | 5:9 |
