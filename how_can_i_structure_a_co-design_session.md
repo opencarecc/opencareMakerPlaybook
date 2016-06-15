@@ -40,11 +40,11 @@
 
 |   |   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
 | -- | -- | -- | -- | -- | -- |
-| **GOALS** | 1:2 | 2:2 | 3:2 | 4:2 | 5:2 |
+| **GOALS** |  | *Create **awareness**, catch the **attention**, create **empathy*** | *Make people feel **valuable** and comfortable* | Make people able to be **active** and productive | Give and receive **feedbacks**, make people more into it |
 | **STRATEGIES:** |   |   |   |   |   |
 |   | **> TOOLS** (passive) | Face to face presentation, newsletter, blog-posts | Posters, stickers, slide presentation | Slide presentation | Slide presentation |
-|   | **(?)** | Meetings, events, workshops | *Mini-workshop* | *mini-workshop* | aperitif |
-|   | > TOOLS (active) | 2:6 | 3:6 | 4:6 | 5:6 |
+|   | **> (?)** | Meetings, events, workshops | *Mini-workshop* | *mini-workshop* | aperitif |
+|   | **> TOOLS** (active) | / | Issue sheet | 4:6 | 5:6 |
 | 0:7 | 1:7 | 2:7 | 3:7 | 4:7 | 5:7 |
 | 0:8 | 1:8 | 2:8 | 3:8 | 4:8 | 5:8 |
 | 0:9 | 1:9 | 2:9 | 3:9 | 4:9 | 5:9 |
