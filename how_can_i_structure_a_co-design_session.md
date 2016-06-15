@@ -38,10 +38,17 @@
 
 ### Overview / Survival table of contents for a co-design session
 
-|   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
-| -- | -- | -- | -- | -- |
-| **METHODS** | Meetings, Workshops, Events // Face to face presentations // Newsletter and blog posts| Posters // Stickers // Slide presentation  | Slide presentation | 4:2 |
-| **TOOLS** (for participants) | -- | Issue sheet | Evaluation indicators sheet // Project sheet // Phrase sheet | -- |
-| **/!\ FUNDAMENTALS** | Local communities // Attendance sheet | Attendance sheet // Privacy sheet // Reward | Audience // Attendance sheet // Privacy sheet // Availability sheet // Reward | 4:3 |
-| **GOALS** | Create **awareness** / Catch the attention / Create **empathy** | Make people feel **valuable** and comfortable | Make people able to be **active** and productive | 4:4 |
+|   |   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
+| -- | -- | -- | -- | -- | -- |
+| **GOALS** | 1:2 | 2:2 | 3:2 | 4:2 | 5:2 |
+| **STRATEGIES:** |   |   |   |   |   |
+|   | **> TOOLS** (passive) | Face to face presentation, newsletter, blog-posts | Posters, stickers, slide presentation | Slide presentation | Slide presentation |
+|   | **(?)** | Meetings, events, workshops | *Mini-workshop* | *mini-workshop* | aperitif |
+| 0:6 | 1:6 | 2:6 | 3:6 | 4:6 | 5:6 |
+| 0:7 | 1:7 | 2:7 | 3:7 | 4:7 | 5:7 |
+| 0:8 | 1:8 | 2:8 | 3:8 | 4:8 | 5:8 |
+| 0:9 | 1:9 | 2:9 | 3:9 | 4:9 | 5:9 |
+| 0:10 | 1:10 | 2:10 | 3:10 | 4:10 | 5:10 |
+| 0:10 | 1:10 | 2:10 | 3:10 | 4:10 | 5:10 |
+
 
