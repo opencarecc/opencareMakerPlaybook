@@ -36,11 +36,12 @@
 
 ---
 
-### Overview / Survival table of contents for a co-design 
+### Overview / Survival table of contents for a co-design session
 
 |   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
 | -- | -- | -- | -- | -- |
-| **TOOLS** | Meetings, Workshops, Events / Face to face presentations / Newsletter and blog posts| Posters / Stickers / Slide presentation | 3:2 | 4:2 |
-| **/!\ FUNDAMENTALS** | Local communities | Audience / Attendance sheet / Privacy sheet / Issue sheet / Reward | 3:3 | 4:3 |
-| **GOALS** | Create **awareness** / Catch the attention / Create **empathy** | To make people feel **valuable** and comfortable | 3:4 | 4:4 |
+| **METHODS** | Meetings, Workshops, Events // Face to face presentations // Newsletter and blog posts| Posters // Stickers // Slide presentation  | Slide presentation | 4:2 |
+| **TOOLS** (for participants) | -- | Issue sheet | Evaluation indicators sheet // Project sheet // Phrase sheet | -- |
+| **/!\ FUNDAMENTALS** | Local communities // Attendance sheet | Attendance sheet // Privacy sheet // Reward | Audience // Attendance sheet // Privacy sheet // Availability sheet // Reward | 4:3 |
+| **GOALS** | Create **awareness** / Catch the attention / Create **empathy** | Make people feel **valuable** and comfortable | Make people able to be **active** and productive | 4:4 |
 
