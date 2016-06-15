@@ -26,7 +26,7 @@
 *make the community interested and involved, give them updates and make them feel valuable (explain how we involve/engage people and why, for example: local communities > awareness > newsletter)*
 
 - Don't understimate the details // DAY SCHEDULE
-*schedule in advance team meetings to define the tight schedules of the sessions, keep in mind some relax/free moments*
+*schedule in advance team meetings to define the tight schedules of the sessions, keep in mind some relax/free moments be sure that someone will show up* 
 
 - Have fun but don't lose the focus // CLARITY - OPEN TRANSARENCY
 *make the participants feel comfortable, offer them some rewards for their efforts and involvement, but be sure to reach your goals (nota bene... be not repetitive, exc)*
@@ -38,9 +38,9 @@
 
 ### Overview / Survival table of contents for a co-design 
 
-| 0:0 | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
+|   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
 | -- | -- | -- | -- | -- |
-| TOOLS | Meetings, Workshops, Events / Face to face presentations / Newsletter and blog posts| 2:2 | 3:2 | 4:2 |
-| FUNDAMENTALS | 1:3 | 2:3 | 3:3 | 4:3 |
-| GOALS | 1:4 | 2:4 | 3:4 | 4:4 |
+| **TOOLS** | Meetings, Workshops, Events / Face to face presentations / Newsletter and blog posts| Posters / Stickers / Slide presentation | 3:2 | 4:2 |
+| **/!\ FUNDAMENTALS** | Local communities | Audience / Attendance sheet / Privacy sheet / Issue sheet / Reward | 3:3 | 4:3 |
+| **GOALS** | Create **awareness** / Catch the attention / Create **empathy** | To make people feel **valuable** and comfortable | 3:4 | 4:4 |
 
