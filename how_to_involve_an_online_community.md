@@ -19,7 +19,7 @@ Once you have one or more of the above established, you need to focus on:
 3.
 
 ### How to target?
-Now assuming that you have already built one of more of the online foot prints above.  You need to focus on your messaging.  Some hints on this:
+Now assuming that you have already built one of more of the online foot prints above. You need to focus on your messaging.  Some hints on this:
 1. Make sure you highlight the** WHY **of your project
 2. **Tell your full story**: Make sure you emphasis the different sides of activities that your project has.  For example, don't put all your focus on the technology side, or the social side. Make sure you tell the full story. You want a developer looking for gig to knock your door, as much as you need a hobbyist who wants to become a beta tester.
 3. **Don't waste your time**.  If a strategy isn't working and you aren't getting followers and there are no signs of growth after 2 weeks, then, change your strategy immediately. 
