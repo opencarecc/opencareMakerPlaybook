@@ -42,3 +42,9 @@ Reaching out is the first step towards engaging people. However, you need to ana
 1. **Make it clear where help is needed** if you need tech support, make it clear that your project is planning a next phase and collaborators are welcome. If you need replicators or testers, make it clear that you are here to help them throughout replication process
 2. **Acknowledge**  Acknowledge all support that your receive.  Post and share all replicators' work. Thank people publicly and regularly. Not only does it bring good Karma, but it helps people stay engaged with your project.
 3. **Invest in relations** Dedicate time to follow up with replicators, past workshop attendees. Stay connected with your grassroot community.  Over them components for free if you can afford it.
+
+## Examples to learn from (could be saved for second iteration)
+###Reprap (Q&A with Joseph Prusa)
+###Ultimaker (Q&A with Sander)
+###Rishalaser?
+
