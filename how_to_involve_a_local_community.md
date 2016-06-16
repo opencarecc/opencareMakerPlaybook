@@ -1,4 +1,4 @@
-# How to involve a local community? [Moushira]
+# How to involve a local community? [Christina/Moushira]
 
 ## Why a local community?
 
