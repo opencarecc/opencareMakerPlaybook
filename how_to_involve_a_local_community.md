@@ -31,3 +31,14 @@ If your project is inspired by an idea that helps your local community, make sur
 2. **Relate to your community problems**, present your project from the scope of the local community
 If you are replicating/localizing an existing global project make sure your localize your materials to make it easy to involve your local community.
 **3.Understand your local community: ** Spend time understanding why they are interested in your project.  Make sure you engage them in the scope they are interested in, for example: A geek who wants to tinker has a different interest from a person who wants to eventually use your project/product
+
+####Find your Friends?
+1.Which **makerspaces** can help you work on your project?
+2.If there is no makerspace nearby, can you host sessions in a near **coworking** space?
+3.If you don't have makerpaces or co-working or any modern facility, can you meet at the library or community center in the **neighbouhood?** (with this approach, however, you need to have existing team and community to start with)
+4.If your project relates to a medical cause, or industrial, or elderly, etc, layout the scope of your project, and reach out to related organizations, or groups 
+
+What activities to that help grow a local community?
+Depending on which stage your project is in, there are a number of activities that you can carry out:
+1. **An ideation workshop**,  A workshop where people share their thoughts around similar solutions of the project/product you are producing.
+2. **A Hackathon** A
