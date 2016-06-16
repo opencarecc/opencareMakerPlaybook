@@ -42,3 +42,4 @@ What are the activities  that help grow a local community?
 Depending on which stage your project is in, there are a number of activities that you can carry out:
 1. **An ideation workshop**,  A workshop where people share their thoughts around similar solutions of the project/product you are producing.
 2. **A Hackathon** if you have a list of tasks that need to be added to your project you may want to organize an event and ask people to contribute specific things.
+3. **A testing workhoshop**: A session where you test early prototypes with the community, let them use it, take notes and learn from their feedback.
