@@ -13,8 +13,10 @@ Building an online project footprint (have a reference about your project online
 3. Social media accounts. If you have already kicked off some activities on the ground, even if a simple meeting, the you need to announce and document those on your FB and Twitter handle
 
 Once you have one or more of the above established, you need to focus on:
-1. Finding your online friends.  Here we don't mean finding people whom you know, but finding accounts for projects that are aligned with your efforts, target them and ask them to re-tweet, share, collaborate, etc.  When you find a like-minded, make sure you reach out to their audience.
-2. 
+1. **Finding your online friends**.  Here we don't mean finding people whom you know, but finding accounts for projects that are aligned with your efforts, target them and ask them to re-tweet, share, collaborate, etc.  When you find a like-minded, make sure you reach out to their audience.
+2. **Design your messaging.** Make sure your align your messaging with the stage of your project.  An early stage requires different messaging from messaging after 3 month of running your projects, for example.
+2.** Build your network: **Reach out individually to people who have liked to shared your project
+3.
 
 ### How to target?
 Now assuming that you have already built one of more of the online foot prints above.  You need to focus on your messaging.  Some hints on this:
