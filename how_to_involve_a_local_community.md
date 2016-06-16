@@ -47,6 +47,6 @@ Depending on which stage your project is in, there are a number of activities th
 ####Connecting the dots:
 1. Make sure you **build connections** between the community of the makerspace and the new community that your bring for your project.
 2. Ensure that the local community can **work together** nicely.
-3. In tech projects, **female participation **is could be challenging. Make sure females on your project are welcomed, trusted and can participate in areas that they are interested in.
+3. In tech projects, **female participation ** could be challenging. Make sure females in your project are welcomed, trusted and can participate freely in areas that they are interested in.
 4. **Follow up after the meeting**: Whether you have a facebook group, or another online venue that the local community is found together on, make sure you follow up and remain in contact.
 
