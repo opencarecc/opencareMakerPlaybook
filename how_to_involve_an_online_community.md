@@ -1,7 +1,7 @@
 # How to involve an online community? [Moushira]
 
 ## Why an online community?
-There is a number of reasons why you would want to consider having an online community for your project, as it allows room for different experiences and levels of tech expertise to be involved in your project. The level of involvement of your online community depends on the stage of your project. An established project with existing team, that seeks replicators, would need a different strategy from a starting project that is seeking team members. In the scenario below, we assume that you have a very small team on the ground and that the project is at a very early stage of development.
+There is a number of reasons why you would want to consider having an online community for your project, mainl because it allows room for different experiences, and levels of tech expertise to be involved in your project. The level of involvement of your online community depends on the stage of your project. An established project with existing team, that seeks replicators, would need a different strategy from a starting project that is seeking team members. In the scenario below, we assume that you have a very small team on the ground and that the project is at a very early stage of development.
 
 
 
@@ -11,7 +11,10 @@ Building an online project footprint (have a reference about your project online
 1. A simple landing page with About and team sections.  Where you elaborate on why you are building your project, what problem are you solving, and what resources do you need.
 2. An account on one of the documentation platforms. Depending on familiarity and level of comfort, this could be an instrucatbels page or a github manual.
 3. Social media accounts. If you have already kicked off some activities on the ground, even if a simple meeting, the you need to announce and document those on your FB and Twitter handle
-4. Find your online friends.  Here we don't mean finding people whom you know, but finding accounts for projects that are aligned with your efforts, target them and ask them to re-tweet, share, collaborate, etc.  When you find a like-minded, make sure you reach out to their audience.
+
+Once you have one or more of the above established, you need to focus on:
+1. Finding your online friends.  Here we don't mean finding people whom you know, but finding accounts for projects that are aligned with your efforts, target them and ask them to re-tweet, share, collaborate, etc.  When you find a like-minded, make sure you reach out to their audience.
+2. 
 
 ### How to target?
 Now assuming that you have already built one of more of the online foot prints above.  You need to focus on your messaging.  Some hints on this:
