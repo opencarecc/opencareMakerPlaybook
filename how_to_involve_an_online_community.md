@@ -27,10 +27,13 @@ Now assuming that you have already built one of more of the online foot prints a
 It should be clear in your mind who are your audience. Which people are you trying to reach to, and at which stage? If you are seeking beta testers, then design your simple outreach online strategy to help you find them. If you need tech collaborators, then you need to think of a different strategy:
 1. **Language.**  Ask yourself which languages you need to keep your communication in order to help you reach to your audience. If your local language isn't English, and you need online audience to join your next workshop, on the ground. Simple, don't write in English :). If you need a broad audience that can help replicate and tinker your project, then keep your outreach in as many languages as you can.
 2. **Clear messaging**. Your are building an online community because you need people to backup your project on kickstarter? Or because you are building a networked opensource project? Or because you need to build a team?  Align your messaging to achieve your target.
-3. **Where is your audience?** Social media works well for general outreach. But if you need arduino tinkerers to know about your project, then maybe you need to drop a line at the Arduino forum, for example.
+3. **Where is your audience?** Social media works well for general outreach. But if you need Arduino tinkerers to know about your project, then maybe you need to drop a line at the Arduino forum, for example.
   
-
-Now, assuming that you have a clear reasoning for your project, a full story, documentation, and you are responsive to the audience you have so far. Your
+Now that you have reach out, how to keep the audience engaged?
 
 ## How to engage people?
 
+Reaching out is the first step towards engaging people. However, you need to analyze your audience's different needs, in order to ensure that people will actually continue to be involved in your project.
+1. **Make it clear where help is needed** if you need tech support, make it clear that your project is planning a next phase and collaborators are welcome. If you need replicators or testers, make it clear that you are here to help them throughout replication process
+2. **Acknowledge**  Acknowledge all support that your receive.  Post and share all replicators' work. Thank people publicly and regularly. Not only does it bring good Karma, but it helps people stay engaged with yoru project.
+3. **Invest in relations** Dedicate time to fllo
