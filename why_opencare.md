@@ -63,6 +63,7 @@ mention co-design here
 
 ## I just have simple ideas in my mind and I don’t have a team, can I even start?
 
+
 ## Do I have to be a maker to grow a community around my idea?
 
 
