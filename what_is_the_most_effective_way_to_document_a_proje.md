@@ -1,4 +1,5 @@
-et # What is the most effective way to document a project? [Alessandro]/[Moushira]
+# What is the most effective way to document a project? 
+Moushira & Alessandro
 
 ## Real time
 Your documentation starts from day one of your project.  You need to document your activity to help you build and engage your community, and you need to document the process of thinking and developing your project.  As far as activities are concerned here are some helpful tips:
