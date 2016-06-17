@@ -48,3 +48,5 @@ Reaching out is the first step towards engaging people. However, you need to ana
 ###Ultimaker (Q&A with Sander)
 ###Rishalaser?
 
+
+## A visual flow of a project timeline in community cycle  
