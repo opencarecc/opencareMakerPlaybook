@@ -13,7 +13,7 @@ design process, what it is, why it's powerful, how you can use it for prototypin
 ## What kind of technologies can I use?
 Rapid prototyping techniques
 
-### Microcontrollers (Arduino & friends)
+### Microcontrollers (Arduino, friends & cousins)
 
 ### 3D printing  (Moushira can add)
 
