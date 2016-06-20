@@ -1,7 +1,7 @@
 # How to involve a local community? [Christina/Moushira]
-
+Intro citizen & capability
 ## Why a local community?
-
+Why community - 
 ## How to engage people?
 
 ### How do I reach local communities?
