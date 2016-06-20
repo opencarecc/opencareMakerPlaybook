@@ -4,8 +4,11 @@
 ### Introduction
 1) What is a co-design session?
 * Definition
+https://docs.google.com/document/d/1LaPE32tJvh4fBrnF1z4487J0V_UOhhvEpdiqunwDTPQ/edit#heading=h.no662ft74q99
 * Typologies/approaches
+See Design Probes and Alessandro's gdoc (see above)
 * Characteristics
+Participatory, exploratory, empathic, empowering
 
 2) Our co-design session - overview
 
