@@ -2,19 +2,23 @@
 
 
 ### Introduction
-1) What is a co-design session?
+1) How is this chapter structured? (explain that tools are the ones used in our co-design)
+
+2) What is a co-design session?
 * Definition
 https://docs.google.com/document/d/1LaPE32tJvh4fBrnF1z4487J0V_UOhhvEpdiqunwDTPQ/edit#heading=h.no662ft74q99
+See Design Probes pag. 25
 * Typologies/approaches
+
 See Design Probes and Alessandro's gdoc (see above)
 * Characteristics
+
 Participatory, exploratory, empathic, empowering
 
-2) Our co-design session - overview
+3) Our co-design session - overview (workshops, meetings, events, dates, actors)
 
-3) Why did we organize a co-design session?
+4) Why did we organize a co-design session? (relation with care)
 
-4) How is this chapter structured?
 
 ---
 
