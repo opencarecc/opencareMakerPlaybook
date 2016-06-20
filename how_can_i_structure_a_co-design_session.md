@@ -2,9 +2,16 @@
 
 
 ### Introduction
-* Why we used/made a co-design (advantages-risks-exc)
-* How we structured this chapter (intro-tips-examples-general overview)
-* Note: The examples are the real tools used during the first co-design experience made in WeMake (few details) - Don't try this at home! 
+1) What is a co-design session?
+* Definition
+* Typologies/approaches
+* Characteristics
+
+2) Our co-design session - overview
+
+3) Why did we organize a co-design session?
+
+4) How is this chapter structured?
 
 ---
 
