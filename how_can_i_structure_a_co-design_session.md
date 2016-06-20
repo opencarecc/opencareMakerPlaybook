@@ -19,6 +19,7 @@ Participatory, exploratory, empathic, empowering
 
 4) Why did we organize a co-design session? (relation with care)
 
+(Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
 ---
 
@@ -30,19 +31,24 @@ Participatory, exploratory, empathic, empowering
 - Point out the desired outcomes // GOALS
 *try to understand clearly your goals and what you want to achieve* 
 
+(add situations/aims of Design Probes: find new ways to differentiate a product from competitors' inventions, develop new solutions, implement a project, experiment, learn and stimulate creativity - participation, inspiration, information, dialogue)
+
 - Define the elements/features // MODERATOR ROLES DATES
-*establish the lenght, the number of sessions, the place, exc (nota bene...)*
+*establish the length, the number of sessions, the place, exc (nota bene...)*
 
 - Find the right tools // CARDS - METHODOLOGIES 
-*give a look to the existing co-design tools, in the case they don't fit your need design your own (our tools: [https://docs.google.com/document/d/1xwAI5ErUduFMCBR-aqrXbruB3aEabt_L1xGUSluKv8g/edit#](https://docs.google.com/document/d/1xwAI5ErUduFMCBR-aqrXbruB3aEabt_L1xGUSluKv8g/edit#))*
+*give a look to the existing co-design tools, in the case they don't fit your need design your own (our tools: [https://docs.google.com/document/d/1xwAI5ErUduFMCBR-aqrXbruB3aEabt_L1xGUSluKv8g/edit#](https://docs.google.com/document/d/1xwAI5ErUduFMCBR-aqrXbruB3aEabt_L1xGUSluKv8g/edit#))* - give an explanation to each tool
 
 - Keep the interest alive // NEWSLETTER - BLOGPOSTS
 *make the community interested and involved, give them updates and make them feel valuable (explain how we involve/engage people and why, for example: local communities > awareness > newsletter)*
 
-- Don't understimate the details // DAY SCHEDULE
-*schedule in advance team meetings to define the tight schedules of the sessions, keep in mind some relax/free moments be sure that someone will show up* 
+- Don't underestimate the details // DAY SCHEDULE
+*schedule in advance team meetings to define the tight schedules of the sessions, keep in mind some relax/free moments be sure that someone will show up*  (talk about EventBrite) https://docs.google.com/document/d/11ZQrQnrQbt4luXITNsmfzNd3wNHFqYwmQn8ZcsqRI1U/edit
 
-- Have fun but don't lose the focus // CLARITY - OPEN TRANSARENCY
+- Be clear and complete about the project/meeting/outcomes // CLARITY - OPEN TRANSPARENCY
+*explain clearly the roles, schedule of activities, project characteristics, goals, and answer in a complete way to every question/doubt of participants*
+
+- Have fun but don't lose the focus // REWARD - BREAK - RELAXED ATMOSPHERE
 *make the participants feel comfortable, offer them some rewards for their efforts and involvement, but be sure to reach your goals (nota bene... be not repetitive, exc)*
 
 - Keep the interest alive II // FEEDBACKS - UPDATES
