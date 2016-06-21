@@ -100,7 +100,7 @@ In the last six months we went through, step by step:
 * then an **Ideation phase**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
 * an **Implementation phase**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-As you can see, 
+As you can see, according to the strategic design approach, we have organized and divided our timetable into three main phases: PRE (inspiration), DURING (ideation - implementation), POST (feedbacks - until now). 
 
 #### 4) Why we decided to organize a co-design session
 (relation with care)
