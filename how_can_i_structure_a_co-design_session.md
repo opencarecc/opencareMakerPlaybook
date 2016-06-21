@@ -96,11 +96,11 @@ How are we going to face them? Easy, by using a so-called **strategic design** a
 
 In the last six months we went through, step by step: 
 
-* an **Inspiration phase**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
-* then an **Ideation phase**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
-* an **Implementation phase**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
+* an **"Inspiration phase"**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
+* then an **"Ideation phase"**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
+* an **"Implementation phase"**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-As you can see, according to the strategic design approach, we have organized and divided our timetable into three main phases: PRE (inspiration), DURING (ideation - implementation), POST (feedbacks - until now). 
+As you can see, we have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). During these phases, **WeMake's stuff** had to perform various tasks and roles according to the different situations. For example, during the first phase (PRE - inspiration), WeMake, together with **Municipality of Milan**, organized a lot of meetings and event in order to meet and to get in touch with people and their different communities.
 
 #### 4) Why we decided to organize a co-design session
 (relation with care)
