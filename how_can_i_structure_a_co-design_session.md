@@ -85,7 +85,7 @@ Even though following subchapters will regard the specific situation of **openca
 
 Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread the two-year research project to design and prototype new care services in Milan, Italy.
 
-As **WeMake**, we are going to approach many different challenges, such as:
+As **WeMake**, we are going to approach different challenges, such as:
 					
 * collect experiences of community-driven care services;
 * validate them through open discussion, both online and offline;
