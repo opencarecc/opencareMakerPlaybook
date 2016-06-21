@@ -100,7 +100,56 @@ In the last six months we went through, step by step:
 * then an **"Ideation phase"**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
 * an **"Implementation phase"**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-As you can see, we have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). During these phases, **WeMake's stuff** had to perform various tasks and roles according to the different situations. For example, during the first phase (PRE - inspiration), WeMake, together with **Municipality of Milan**, organized a lot of meetings and event in order to meet and to get in touch with people and their different communities.
+As you can see, we have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). During these phases, **WeMake's stuff** had to perform various tasks and roles according to the different situations. For example, during the first phase (PRE - inspiration), WeMake, together with **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities. 
+
+Here there is a list of all the **meetings** with local communities:
+
+**1. Mare Culturale Milano - March 12th, 2016** // meeting
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_mare-e1465658354542.png)
+
+The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance. It took place at Circolo ARCI Olmi, via degli Ulivi 2, Milan.
+
+The event is organized by WeMake and Municipality of Milan in collaboration with [Mare Culturale Urbano](http://maremilano.org).
+
+**2. Villa Pallavicini - March 17th, 2016** // meeting
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_villa.png)
+
+It was a meeting with a **group of young new comers** at Villa Pallavicini, via Privata Antonio Meucci3 , Milano. During wich they had the possibility to look over the new methodologies about digital manufacturing and to approach for the first time to the **opencare** project.
+
+**3. Fa’ la Cosa Giusta - March 18th, 2016** // workshop
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_falacosagiusta.png)
+
+The first **workshop** holded during Fa' La Cosa Giusta, a fair of critical consumption and sustainable lifestyles. The participants realized, in few hours, an opensource remote monitoring and caring IoT service.
+
+**4. XVivaio - March 30th, 2016** // meeting
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_xvivaio.png)
+
+In this meeting we presented the **opencare** project to the comminity of **parents** of boys and girls with **special needs**. The meeting was organized at WeMake thanks to the collaboration with the Municipality of Milan.
+
+**5. Genuino Day - April 2nd, 2016** // event
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_genuinoday.png)
+
+Introduction of the **opencare** project, and its state-of-the-art, during the **Genuino Day** event. Genuino Day is an anniversary event of the most famous Italian open source platform in the world.
+
+**6. Forum delle Politiche Sociali - April 7th, 2016 ** // workshop
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_informagiovani.png)
+
+Our **second workshop** organized by WeMake and the Municipality of Milan at Forum delle Politiche Sociali. During this workshop, the participants were divided in different two-people groups. They were asked to idealize and **prototype**, in just few hours, an opensource remote monitoring and caring IoT service.
+
+**7. Social Street San Gottardo - April 19th, 2016  ** // meeting
+
+![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_socialstreet.png)
+
+Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education.
+
+The meeting 
+L’appuntamento si è svolto in Corso San Gottardo, 41, Milano.
 
 #### 4) Why we decided to organize a co-design session
 (relation with care)
