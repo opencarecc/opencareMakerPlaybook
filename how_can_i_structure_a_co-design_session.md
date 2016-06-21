@@ -148,7 +148,9 @@ Our **second workshop** organized by WeMake and the Municipality of Milan at For
 
 Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. The meeting was holded in Corso San Gottardo 41, Milan.
 
-During these encounters, our **stuff** had to perform various tasks and **roles** according to the different situations and audience. For example, we had to manage 
+During these encounters, our **stuff** had to perform various tasks and **roles** according to the different situations. For example, we had to manage and set the speech every time according to the audience (once composed by elderly people and another one composed by tinkerer or new comers), we had to provide tools, assistance and **specific capabilities** during the workshops or we had to fulfill such a kind of **mentor role** during the co-design session by means of supporting the participants and their group talking.  We always must to take into account the emphatic 
+
+
 
 
 #### 4) Why and how we decided to organize a co-design session
