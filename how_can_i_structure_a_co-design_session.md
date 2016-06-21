@@ -39,9 +39,11 @@ Participatory, exploratory, empathic, empowering
 See Design Probes and Alessandro's gdoc (see above)
 
 
-#### 3) Our co-design session - overview (workshops, meetings, events, dates, actors)
+#### 3) Our co-design session - overview
+(workshops, meetings, events, dates, actors)
 
-#### 4) Why did we organize a co-design session? (relation with care)
+#### 4) Why we decided to organize a co-design session
+(relation with care)
 
 (Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
