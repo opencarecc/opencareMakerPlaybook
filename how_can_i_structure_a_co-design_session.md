@@ -48,30 +48,28 @@ Therefore we will have different steps (referred to a standardized co-design pro
 - **Deliver** (open and hierarchical): anyone can contribute but the final decision about the project to deliver is in the hands of the person/company/organization in charge.
 
 We can state that a phase of a project can be:
-open, when the subject area is not well defined;
-closed, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project;
+- **open**, when the subject area is not well defined;
+- **closed**, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project;
 
-In addition, the governance of collaboration, in order to be successful, requires the participants to agree on same goals (flat), or have their own goals within the hierarchy (hierarchical).
+In addition, the governance of collaboration, in order to be successful, requires the participants to agree on same goals (**flat**), or have their own goals within the hierarchy (**hierarchical**).
 
 [http://www.designingcollaboration.com/]
 
-Furthermore, generally speaking, we can distinguish two different types of approach, which are characterized by different levels of innovation and exploration:
+* Typologies/approaches
 
-A “passive” approach
-Co-design is often used by trained designers who recognize the difficulty in properly understanding the cultural, societal, or usage scenarios encountered by their user. [https://en.wikipedia.org/wiki/Participatory_design#Co-design]
+Furthermore, generally speaking, we can distinguish two different types of **approach**, which are characterized by different levels of innovation and exploration:
+
+#####A “passive” approach
+*Co-design is often used by trained designers who recognize the difficulty in properly understanding the cultural, societal, or usage scenarios encountered by their user.* [https://en.wikipedia.org/wiki/Participatory_design#Co-design]
 
 This is more similar to the “classic” design thinking approach: the designer approaches the user trying to understand better the issues and to observe the user to gain more insights about the user environment. It follows a rework of the notes by the designer, a brainstorm for solutions, and only then proposing possible solutions to the user. After this phase the iterative process comes into play feeding back the idea with test results, coming to the best possible deliverable (for the user and the designer as well).
 
-An “active” approach
-...the key attribute of participatory design, a process which allows multiple voices to be heard and involved in the design, resulting in outcomes which suite a wider range of users. As planning affects everyone it is believed that ‘those whose livelihoods, environments and lives are at stake should be involved in the decisions which affect them’
+#####An “active” approach
+*[...] the key attribute of participatory design, a process which allows multiple voices to be heard and involved in the design, resulting in outcomes which suite a wider range of users. As planning affects everyone it is believed that ‘those whose livelihoods, environments and lives are at stake should be involved in the decisions which affect them.*
 [https://en.wikipedia.org/wiki/Participatory_design#Community_planning_and_placemaking]
 
 This approach is probably harder to implement when compared to the “classic” design thinking approach. It involves a concentrated activity where any of the involved actors can share and discuss their problems (and solution in some cases) and understand the other participants’ point of view.
 A moderated collective discussion will follow trying to shape the stream of thoughts into deliverables for the start of the prototyping session. The participants will be involved in the user testing session(s) and possibly in the prototyping phase as well.
-
-* Typologies/approaches
-
-See Design Probes and Alessandro's gdoc (see above)
 
 
 #### 3) Our co-design session - overview
