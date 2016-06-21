@@ -77,7 +77,7 @@ Whatever your reason is going to be, always keep in mind that collaborative desi
 - **information** (it is useful to frame challenges);
 -  **dialogue** (it is a powerful way to create a conversation among organizations and not only).
 
-Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, exc.
+Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
 Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
 
 #### 3) Our co-design session - overview
