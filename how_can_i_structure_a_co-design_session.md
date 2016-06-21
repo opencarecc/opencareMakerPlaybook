@@ -14,7 +14,7 @@ Therefore, first of all you will have the possibility to understand **What is a 
 Once you will have got the essence of the topic, you can read throughout the different **Characteristics** of the collaborative design discipline.
 We will then complete the methodological section by listing the different and peculiar **Typologies and approaches** of co-design.
 
-In order to make you understand in an efficient way the theory we will move to a practical example, **Our co-design session - overview**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why we organized a co-design session**.
+In order to make you understand in an efficient way the theory we will move to a practical example, **Our experience in co-design matter**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why and how we organized a co-design session**.
 
 Once you will have completed the Introduction you will have a basic knowledge of collaborative design activity.
 
@@ -100,9 +100,9 @@ In the last six months we went through, step by step:
 * then an **"Ideation phase"**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
 * an **"Implementation phase"**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-As you can see, we have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). During these phases, **WeMake's stuff** had to perform various tasks and roles according to the different situations. For example, during the first phase (PRE - inspiration), WeMake, together with **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities. 
+We have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). In order to engage and to reach many *qualitative* people as possibile, during the first PRE - inspiration phase, WeMake, together with the **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities.
 
-Here there is a list of all the **meetings** with local communities:
+Here there is a list of all the **meetings/workshops/events** that we holded with local communities:
 
 **1. Mare Culturale Milano - March 12th, 2016** // meeting
 
@@ -146,12 +146,12 @@ Our **second workshop** organized by WeMake and the Municipality of Milan at For
 
 ![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_socialstreet.png)
 
-Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education.
+Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. The meeting was holded in Corso San Gottardo 41, Milan.
 
-The meeting 
-L’appuntamento si è svolto in Corso San Gottardo, 41, Milano.
+During these encounters, our **stuff** had to perform various tasks and **roles** according to the different situations and audience. For example, we had to manage 
 
-#### 4) Why we decided to organize a co-design session
+
+#### 4) Why and how we decided to organize a co-design session
 (relation with care)
 
 (Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
