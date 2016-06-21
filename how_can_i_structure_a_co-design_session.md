@@ -8,12 +8,15 @@
 * Definition
 https://docs.google.com/document/d/1LaPE32tJvh4fBrnF1z4487J0V_UOhhvEpdiqunwDTPQ/edit#heading=h.no662ft74q99
 See Design Probes pag. 25
-* Typologies/approaches
 
-See Design Probes and Alessandro's gdoc (see above)
 * Characteristics
 
 Participatory, exploratory, empathic, empowering
+
+* Typologies/approaches
+
+See Design Probes and Alessandro's gdoc (see above)
+
 
 3) Our co-design session - overview (workshops, meetings, events, dates, actors)
 
