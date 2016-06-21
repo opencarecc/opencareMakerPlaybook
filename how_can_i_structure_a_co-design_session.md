@@ -25,7 +25,7 @@ Each Tip will be divided in two: a general/theoretical description and a practic
 
 In the end, in order to sum up all the contents mentioned above, we will provide a **Survival table of contents for a co-design session**, based on our **opencare** experience.
 
-2) What is a co-design session?
+#### 2) What is a co-design session?
 * Definition
 https://docs.google.com/document/d/1LaPE32tJvh4fBrnF1z4487J0V_UOhhvEpdiqunwDTPQ/edit#heading=h.no662ft74q99
 See Design Probes pag. 25
@@ -39,9 +39,9 @@ Participatory, exploratory, empathic, empowering
 See Design Probes and Alessandro's gdoc (see above)
 
 
-3) Our co-design session - overview (workshops, meetings, events, dates, actors)
+#### 3) Our co-design session - overview (workshops, meetings, events, dates, actors)
 
-4) Why did we organize a co-design session? (relation with care)
+#### 4) Why did we organize a co-design session? (relation with care)
 
 (Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
