@@ -14,7 +14,7 @@ Therefore, first of all you will have the possibility to understand **What is a 
 Once you will have got the essence of the topic, you can read throughout the different **Characteristics** of the collaborative design discipline.
 We will then complete the methodological section by listing the different and peculiar **Typologies and approaches** of co-design.
 
-In order to make you understand in an efficient way the theory we will move to a practical example, **Our experience in co-design matter**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why and how we organized a co-design session**.
+In order to make you understand in an efficient way the theory we will move to a practical example, **Our experience in co-design field**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why and how we organized a co-design session**.
 
 Once you will have completed the Introduction you will have a basic knowledge of collaborative design activity.
 
@@ -80,10 +80,10 @@ Whatever your reason is going to be, always keep in mind that collaborative desi
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
 Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
 
-#### 3) Our experience in co-design matter
+#### 3) Our experience in co-design field
 *(workshops, meetings, events, dates, actors)*
 
-Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread the two-year research project to design and prototype new care services in Milan, Italy.
+Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread a two-year research project, aiming to design and prototype new care services in Milan, Italy.
 
 As **WeMake**, we are going to approach different challenges, such as:
 					
@@ -97,12 +97,12 @@ How are we going to face them? Easy, by using a so-called **strategic design** a
 In the last six months we went through, step by step: 
 
 * an **"Inspiration phase"**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
-* then an **"Ideation phase"**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
-* an **"Implementation phase"**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
+* an **"Ideation phase"**: once we had identified the communities, we defined what kind of communication and interactions we want to test in the next phase and, according to them, we designed new tools and materials for the two co-design sessions;
+* an **"Implementation phase"**: called also co-design session, in which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-We have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). In order to engage and to reach many *qualitative* people as possibile, during the first PRE - inspiration phase, WeMake, together with the **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities.
+As you can see, we have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). In order to engage and to reach many *qualitative* people as possibile, during the first PRE - inspiration phase, WeMake, together with the **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities.
 
-Here there is a list of all the **meetings/workshops/events** that we holded with local communities:
+Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:
 
 **1. Mare Culturale Milano - March 12th, 2016** // meeting
 
