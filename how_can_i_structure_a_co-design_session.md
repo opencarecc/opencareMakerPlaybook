@@ -3,7 +3,7 @@
 
 ### Introduction
 
-### 1) How is this chapter structured?
+#### 1) How is this chapter structured?
 
 The aim of this chapter is to produce a general but at the same time complete overview on participatory design activities.
 In the **Introduction** we will provide the methodology, we will explain the details and we will show you how we have applied the theory to a practical/real life example.
