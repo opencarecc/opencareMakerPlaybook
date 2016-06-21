@@ -98,9 +98,9 @@ In the last six months we went through, step by step:
 
 * an **Inspiration phase**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
 * then an **Ideation phase**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
-* an **Implementation phase**: 
+* an **Implementation phase**: during which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-It is time now to tell you about our experience in the co-design matter. 
+As you can see, 
 
 #### 4) Why we decided to organize a co-design session
 (relation with care)
