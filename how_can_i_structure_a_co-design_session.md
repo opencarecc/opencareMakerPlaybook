@@ -10,7 +10,7 @@ In the **Introduction** we will provide the methodology, we will explain the det
 
 (Beware: all the theoretical information is fundamental, especially if this is the first time that you are bumping into the co-design world.)
 
-Therefore, first of all you will have the possibility to understand **What is a co-design session**, by reading its definition and reflecting on its real meaning.
+Therefore, first of all you will have the possibility to understand **What is a co-design session**, by reading its **Definition** and reflecting on its real meaning.
 Once you will have got the essence of the topic, you can read throughout the different **Characteristics** of the collaborative design discipline.
 We will then complete the methodological section by listing the numerous and peculiar **Typologies and approaches** of co-design.
 
