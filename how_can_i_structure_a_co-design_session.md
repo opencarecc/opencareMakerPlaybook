@@ -96,8 +96,9 @@ How are we going to face them? Easy, by using a so-called **strategic design** a
 
 In the last six months we went through, step by step: 
 
-* an **Inspiration phase** (both online -  we went around and we talked with people, we builded relations and interactions,  and offline - we searched for past and current methodologies and strategies)
-* then a toolkit development to 
+* an **Inspiration phase**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
+* then an **Ideation phase**: we identified the communities, defining what kind of communication and interactions we want to test in the next phase and we designed new tools and materials for the two co-design sessions;
+* an **Implementation phase**: 
 
 It is time now to tell you about our experience in the co-design matter. 
 
