@@ -92,7 +92,12 @@ As **WeMake**, we are going to approach different challenges, such as:
 * augment them with state-of-the-art maker technology (3D printing, laser cutting, biohacking...);
 * combine everything we learn into the design and prototype of next generation community driven care services. 
 
-How are we going to face them? Easy, by testing and trying different tools and methodologies.
+How are we going to face them? Easy, by using a so-called **strategic design** approach. 
+
+In the last six months we went through, step by step: 
+
+* an **Inspiration phase** (both online -  we went around and we talked with people, we builded relations and interactions,  and offline - we searched for past and current methodologies and strategies)
+* then a toolkit development to 
 
 It is time now to tell you about our experience in the co-design matter. 
 
