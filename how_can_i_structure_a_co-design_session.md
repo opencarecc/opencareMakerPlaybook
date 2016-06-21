@@ -12,7 +12,7 @@ In the **Introduction** we will provide the methodology, we will explain the det
 
 Therefore, first of all you will have the possibility to understand **What is a co-design session**, by reading its **Definition** and reflecting on its real meaning.
 Once you will have got the essence of the topic, you can read throughout the different **Characteristics** of the collaborative design discipline.
-We will then complete the methodological section by listing the numerous and peculiar **Typologies and approaches** of co-design.
+We will then complete the methodological section by listing the different and peculiar **Typologies and approaches** of co-design.
 
 In order to make you understand in an efficient way the theory we will move to a practical example, **Our co-design session - overview**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why we organized a co-design session**.
 
