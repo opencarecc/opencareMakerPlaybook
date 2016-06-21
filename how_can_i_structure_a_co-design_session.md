@@ -83,6 +83,17 @@ Even though following subchapters will regard the specific situation of **openca
 #### 3) Our co-design session - overview
 (workshops, meetings, events, dates, actors)
 
+Thanks to opencare, since January 2016, we had the great opportunity to launch and spread the two-year research project to design and prototype new care services in Milan, Italy.
+
+As WeMake we have to approach different challenges, such as:
+					
+collect experiences of community-driven care services
+validate them through open discussion, both online and offline.
+augment them with state-of-the-art maker technology (3D printing, laser cutting, biohacking...)
+combine everything we learn into the design and prototype of next generation community driven care services. 
+
+It is time now to tell you about our experience in the co-design matter. 
+
 #### 4) Why we decided to organize a co-design session
 (relation with care)
 
