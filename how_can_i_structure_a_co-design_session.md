@@ -80,10 +80,10 @@ Whatever your reason is going to be, always keep in mind that collaborative desi
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
 Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
 
-#### 3) Our co-design session - overview
+#### 3) Our experience in co-design matter
 *(workshops, meetings, events, dates, actors)*
 
-Thanks to **opencare**, since January 2016, we had the great opportunity to launch and spread the two-year research project to design and prototype new care services in Milan, Italy.
+Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread the two-year research project to design and prototype new care services in Milan, Italy.
 
 As **WeMake**, we are going to approach many different challenges, such as:
 					
@@ -92,6 +92,7 @@ As **WeMake**, we are going to approach many different challenges, such as:
 * augment them with state-of-the-art maker technology (3D printing, laser cutting, biohacking...);
 * combine everything we learn into the design and prototype of next generation community driven care services. 
 
+How are we going to face them? Easy, by testing and trying different tools and methodologies.
 
 It is time now to tell you about our experience in the co-design matter. 
 
