@@ -26,8 +26,7 @@ Each Tip will be divided in two: a general/theoretical description and a practic
 In the end, in order to sum up all the contents mentioned above, we will provide a **Survival table of contents for a co-design session**, based on our **opencare** experience.
 
 #### 2) What is a co-design session?
-* Definition
-
+####// Definition
 As we can read in the research essay *The Dynamics of Collaborative Design *(written by specialists from Massachusetts Institute of Technology and New England Complex Systems Institute):
 
 *Collaborative design is performed by multiple participants (representing individuals, teams or even entire organizations), each potentially capable of proposing values for design issues and/or evaluating these choices from their own particular perspective.*
@@ -37,8 +36,7 @@ Therefore we understand that in this participatory act all the different actors 
 
 The design process can be defined collaborative when the closed and hierarchical mechanism is replaced by an **open** and **flat** one, taking distance from the exclusivity of designers, researchers and developers, in order to involve some or all the people that the research is directly or indirectly concerning.
 
-* Characteristics
-
+####// Characteristics
 A complete collaborative process, however, is characterized by an alternation of moments, which can be close/open and hierarchical/flat. Even though participative activities are meant to be open and extended, the core and substantial decisions have to been taken by the research/design/development team since they may require tighter control in order to meet the project deliverable.
 
 Therefore we will have different steps (referred to a standardized co-design process):
@@ -55,9 +53,8 @@ In addition, the governance of collaboration, in order to be successful, require
 
 [http://www.designingcollaboration.com/]
 
-* Typologies/approaches
-
-Furthermore, generally speaking, we can distinguish two different types of **approach**, which are characterized by different levels of innovation and exploration:
+####// Typologies/approaches
+Generally speaking, we can distinguish two different types of **approach**, which are characterized by different levels of innovation and exploration:
 
 #####A “passive” approach
 *Co-design is often used by trained designers who recognize the difficulty in properly understanding the cultural, societal, or usage scenarios encountered by their user.* [https://en.wikipedia.org/wiki/Participatory_design#Co-design]
