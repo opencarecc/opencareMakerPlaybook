@@ -27,6 +27,7 @@ In the end, in order to sum up all the contents mentioned above, we will provide
 
 #### 2) What is a co-design session?
 * Definition
+
 As we can read in the research essay *The Dynamics of Collaborative Design *(written by specialists from Massachusetts Institute of Technology and New England Complex Systems Institute):
 
 *Collaborative design is performed by multiple participants (representing individuals, teams or even entire organizations), each potentially capable of proposing values for design issues and/or evaluating these choices from their own particular perspective.*
