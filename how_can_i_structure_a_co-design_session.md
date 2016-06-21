@@ -68,6 +68,17 @@ This is more similar to the “classic” design thinking approach: the designer
 This approach is probably harder to implement when compared to the “classic” design thinking approach. It involves a concentrated activity where any of the involved actors can share and discuss their problems (and solution in some cases) and understand the other participants’ point of view.
 A moderated collective discussion will follow trying to shape the stream of thoughts into deliverables for the start of the prototyping session. The participants will be involved in the user testing session(s) and possibly in the prototyping phase as well.
 
+These two approaches are trying to cluster a number of shades that, unfortunately, it is impossible to explode and analyze here one by one.
+You may want to commit yourself to participatory activities because you want to **differentiate** your product from competitors’ invention; or because you want to develop **new solutions**, drastically different and powerfully innovated; or still because you want to **implement** a project; or just because you want to **experiment**, learn or stimulate creativity.
+
+Whatever your reason is going to be, always keep in mind that collaborative design has 4 main potentials:
+- **participation** (it empowers the user to create innovation);
+- **inspiration** (it manages to stimulate creativity of designers);
+- **information** (it is useful to frame challenges);
+-  **dialogue** (it is a powerful way to create a conversation among organizations and not only).
+
+Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, exc.
+Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
 
 #### 3) Our co-design session - overview
 (workshops, meetings, events, dates, actors)
