@@ -27,8 +27,14 @@ In the end, in order to sum up all the contents mentioned above, we will provide
 
 #### 2) What is a co-design session?
 * Definition
-https://docs.google.com/document/d/1LaPE32tJvh4fBrnF1z4487J0V_UOhhvEpdiqunwDTPQ/edit#heading=h.no662ft74q99
-See Design Probes pag. 25
+As we can read in the research essay *The Dynamics of Collaborative Design *(written by specialists from Massachusetts Institute of Technology and New England Complex Systems Institute):
+
+*Collaborative design is performed by multiple participants (representing individuals, teams or even entire organizations), each potentially capable of proposing values for design issues and/or evaluating these choices from their own particular perspective.*
+[http://necsi.edu/research/engineering/ceraj-02.pdf]
+
+Therefore we understand that in this participatory act all the different actors try to move through an **innovation process**. Every person has the potential and the capability of exploring and defining problems, as well as focusing on solutions and evaluations.
+
+The design process can be defined collaborative when the closed and hierarchical mechanism is replaced by an **open** and **flat** one, taking distance from the exclusivity of designers, researchers and developers, in order to involve some or all the people that the research is directly or indirectly concerning.
 
 * Characteristics
 
