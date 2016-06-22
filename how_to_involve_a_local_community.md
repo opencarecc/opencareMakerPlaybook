@@ -8,6 +8,12 @@ Communities are groups of citizens who decide to share their time in real and vi
 Developing a local community is necessary to focus the strategy on deep human connections among participants using an empathetic and narrative approach. And it’s possible only with a face to face collaborative action.
 Engaging citizens in the development of care solutions, in particular, designing and testing solutions in real life settings with target users should help make those solutions more effective. Furthermore, working with citizens, drawing on and developing their assets and capabilities, helps support society’s resilience and capacity to act. 
 
+##Why building a local community in a Fablab?
+
+The Fablabs are open innovative places . Who enters into a FabLab is always the right person: you do not need technical requirements, qualifications, specific skills. The communities that develop inside the Fablab are" learning communities". They are founded on the sharing of experiences and knowledge.
+In a Fablab citizens will produce light but meaningful social ties. Contexts in which light ties assume value generate inclusion and cohesion:  sharing of time and thoughts becomes significant . The awareness of acting in this context urges citizens to express themselves more freely ,in trust . Everyone learns something, increasing capability and empowerment.
+
+
 
 ## How to engage people?
 
