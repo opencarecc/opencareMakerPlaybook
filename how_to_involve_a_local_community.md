@@ -36,8 +36,8 @@ In the meeting we must provide time for the presentation:
 - Why did you choose that community
 - How you intend to achieve your goal
 
-
-Where I organize the event? If possible it is best that the organizers should be identified in the community to present their project.
+####Where I organize the event?
+If possible it is best that the organizers should be identified in the community to present their project.
 
 
 
