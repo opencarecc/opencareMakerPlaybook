@@ -21,9 +21,17 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 the people involved in the community have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
-
-### How do I reach local communities?
 The first step to involve citizens of different communities is inform and share goals, methods and tools.
+
+#### Why involve citizens in a participatory process?
+
+
+####What are my goals?
+If the goal is to encourage citizens in the emergence of needs or obstacles in their life, then it is necessary to organize events where you have the solutions to problems identified by other citizens.
+
+
+####What are my methodology?
+
 ### How do I pitch my idea?
 
 ### What do I have to offer?
