@@ -19,6 +19,7 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 
 ###Your Greatest Resources
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
+the people involved in the community have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
 
 
