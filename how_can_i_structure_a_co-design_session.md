@@ -80,7 +80,7 @@ Whatever your reason is going to be, always keep in mind that collaborative desi
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
 Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
 
-#### 3) Our experience in co-design field - *first steps*
+#### 3) Our experience in co-design field
 
 Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread a two-year research project, aiming to design and prototype new care services in Milan, Italy.
 
@@ -93,15 +93,22 @@ As **WeMake**, we are going to approach different challenges, such as:
 
 How are we going to face them? Easy, by using a so-called **strategic design** approach. 
 
-####// What we have done
+During the last **six months** we organized and divided our **timetable** into four main phases: 
 
-In the last six months we went through, step by step: 
+1. **Inspiration** phase; 
+2. **Ideation** phase;
+3. **Implementation** phase;
+3. **Recognition** phase. 
+
+
+In order to engage and to reach many *qualitative* people as possibile, during the first PRE - inspiration phase, WeMake, together with the **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities.
+
 
 * an **"Inspiration phase"**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
 * an **"Ideation phase"**: once we had identified the communities, we defined what kind of communication and interactions we want to test in the next phase and, according to them, we designed new tools and materials for the two co-design sessions;
 * an **"Implementation phase"**: called also co-design session, in which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-As you can see, we have organized and divided our **timetable** into three main phases: **PRE** (inspiration), **DURING** (ideation - implementation) and **POST** (feedbacks - until now). In order to engage and to reach many *qualitative* people as possibile, during the first PRE - inspiration phase, WeMake, together with the **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities.
+As you can see, 
 
 Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:
 
