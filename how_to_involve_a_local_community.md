@@ -46,17 +46,17 @@ In the meeting we must provide time for the presentation:
 - How you intend to achieve your goal
 
 ####Location
-
+The first event can be hosted by the community you have contacted. The first event could be hosted by the community you have contacted. You have to offer food, drinks, music or whatever
 
 ####Timing
 
 
 
-####Keep in toch
+####Keep in touch
 
 
 
-What tool should I use to contact citizens? How do I maintain contact?
+What tool should I use to contact citizens? 
 
 
 
