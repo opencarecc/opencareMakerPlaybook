@@ -29,10 +29,8 @@ This will help to start citizen engagement process and create a new local commun
 - The type of output
 
 
-
-
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
-the people involved in the community have the greatest skills in listening, and are used to collaborative practices.
+the people involved in communities have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, methods and tools.
 
