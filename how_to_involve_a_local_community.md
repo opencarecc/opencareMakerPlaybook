@@ -1,7 +1,8 @@
 # How to involve a local community? [Christina/Moushira]
 Citizen involvement is a key part of the development of social innovations. Citizens are best placed to frame and articulate the nature of the social challenges they experience, so it is important that they are brought into any process of understanding needs. 
 ## Why a local community?
-Why community - 
+### Why we talk about community?
+
 ## How to engage people?
 
 ### How do I reach local communities?
