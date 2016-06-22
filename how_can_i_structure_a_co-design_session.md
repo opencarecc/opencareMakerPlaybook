@@ -80,7 +80,7 @@ Whatever your reason is going to be, always keep in mind that collaborative desi
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
 Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
 
-#### 3) Our experience in co-design field
+#### 3) Our experience in co-design field - *first steps*
 
 Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread a two-year research project, aiming to design and prototype new care services in Milan, Italy.
 
@@ -153,13 +153,10 @@ Last but not least, we had a meeting with the community named Social Street San 
 
 During these encounters, our **stuff** had to perform various tasks and **roles** according to the different situations. For example, we had to manage and set the speech every time according to the audience (once composed by elderly people and another one composed by tinkerer or new comers), we had to provide tools, assistance and **specific capabilities** during the workshops or we had to fulfill such a kind of **mentor role** during the co-design session by means of supporting the participants and their group talking.  
 
-We always must to take into account the **emphatic approach**, since it allows us to gain a better understanding about other people's feelings, emotions, needs, exc. Moreover, we might be able to be **flexible**: once we have to be more like a **teacher**, another time like a **phsycologist** or a **friend**, once more we have just to be a **silent auditor**. 
-
-
-
+We always must to take into account the **emphatic approach**, since it allows us to gain a better understanding about other people's feelings, emotions, needs, exc. Moreover, we might be able to be **flexible**: once we have to be more like a **teacher**, another time like a **phsycologist** or a **friend**, once more we have just to be a **silent auditor**.
 
 #### 4) Why and how we decided to organize a co-design session
-(relation with care)
+(how we structured the two days co-design session + relation with care + empathic approach)
 
 (Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
