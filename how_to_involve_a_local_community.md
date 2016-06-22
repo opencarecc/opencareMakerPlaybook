@@ -45,18 +45,20 @@ In the meeting we must provide time for the presentation:
 - Why did you choose that community
 - How you intend to achieve your goal
 
+In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
+
 ####Location
-The first event can be hosted by the community you have contacted. The first event could be hosted by the community you have contacted. You have to offer food, drinks, music or whatever
+The first event can be hosted by the community you have contacted. The first event could be hosted by the community you have contacted. You have to offer food, drinks, music or whatever. 
+
+In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
 ####Timing
 
 
 
-####Keep in touch
 
 
 
-What tool should I use to contact citizens? 
 
 
 
@@ -82,11 +84,11 @@ it is necessary to organize events where you have the solutions to problems iden
 
 
 
+####Keeping in touch
 
 
-### How do I pitch my idea?
 
-### What do I have to offer?
+
 ####workshops
 Why is a workshop good for the community?
 - it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
