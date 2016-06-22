@@ -14,7 +14,6 @@ The Fablabs are open innovative places . Who enters into a FabLab is always the 
 In a Fablab citizens will produce light but meaningful social ties. Contexts in which light ties assume value generate inclusion and cohesion:  sharing of time and thoughts becomes significant . The awareness of acting in this context urges citizens to express themselves more freely ,in trust . Everyone learns something, increasing capability and empowerment.
 
 
-
 ## How to engage people in local community?
 
 ###Your Greatest Resources
@@ -34,7 +33,7 @@ Then you have to choose four or five communities with different characteristics.
 
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
-In OpenCare project 
+In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
 
 
