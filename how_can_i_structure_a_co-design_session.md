@@ -189,25 +189,23 @@ During the second meeting, we hosted altogether **(?)** participants. First of a
 *  an **explanation** about the **tools** that they were going to use during the session;
 *  a **general overview **about the **evaluation matrix** that the stuff will use for selecting the project to prototype. 
 
-Then, the participants were divided into three groups according to their interest in one isssue instead of the other ones. Then, the participants were asked to collaborate and work together in order to define better their idea and **concept** through the tools. Obviously, they were supported by the mentor. 
+Then, the participants were divided into three groups according to their interest in one isssue instead of the other ones. Then, the participants were asked to collaborate and work together in order to define better their idea and **concept** through the tools. Obviously, they were supported by the mentor. *Don't be afraid to get your hands dirty!*
 
 As the first session, in this second one there was the **planery session** as well, during which one member per group explained to the other groups its concept. Moreover, the break-time was combined with the teamwork time, since the participants were very into it. 
 
 
 #### 4) Why and how we decided to organize a co-design session
 
-Since our first challenge in the **opencare** project is to *collect experiences of community-driven care services*, after many researches, we realized that a co-design session would have been perfect to accomplish our main purpose. This because, as explained above in **"What is a co-design session?"** subchapter, 
+Since our first effort in the **opencare** project is to *collect experiences of community-driven care services*, after many researches, we realized that a co-design session would have been perfect to accomplish our main purpose. This because, as explained above in **"What is a co-design session?"** subchapter, collaborative design is an **innovative process** which has all the characteristics useful and necessary for discovering, defining, developing and delivering **new product service systems** realized by means of collaborations between common people and professionals. 
 
+Collaborative design allowed us to get in touch with real people, with real issues and needs. It gave us the possibility to **perform various tasks and roles** according to the different situations. 
+We were asked to make people/participants feel active and involved in the process, from the beginning to the end of it. We were asked to be able to ask questions and listen all the answers and amazing thoughts. We were, sometimes, like a **teacher**, other time more like a **psychologist** or a ***friend*** and still other times we were just **silent auditors**. 
 
+We must to take always into account the so-called **empathic approach**. But that is not all, through co-design and empathic approach we didn't just put ourselves in someone's shoes, we gained a better understanding about other people's feelings, emotions, needs in order to make THEM (the participants, the citizens, the people) able to visualize and propose an **effective solution**, and its concept, to an existing "care" issue. 
 
+Well, nuff said, if you want to organize a your own co-design session, don't be afraid of it. Read the following tips and you will be able to customize your own one. 
 
- from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
-
-During these encounters, our **stuff** had to perform various tasks and **roles** according to the different situations. For example, we had to manage and set the speech every time according to the audience (once composed by elderly people and another one composed by tinkerer or new comers), we had to provide tools, assistance and **specific capabilities** during the workshops or we had to fulfill such a kind of **mentor role** during the co-design session by means of supporting the participants and their group talking.  
-
-We always must to take into account the **emphatic approach**, since it allows us to gain a better understanding about other people's feelings, emotions, needs, exc. Moreover, we might be able to be **flexible**: once we have to be more like a **teacher**, another time like a **phsycologist** or a **friend**, once more we have just to be a **silent auditor**.
-
-(Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
+But keep in mind: *DO NOT TRY THIS AT HOME!*
 
 ---
 
