@@ -34,7 +34,7 @@ Then you have to choose four or five communities with different characteristics.
 
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
-In OpenCare project
+In OpenCare project 
 
 
 
