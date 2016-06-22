@@ -36,14 +36,18 @@ In the meeting we must provide time for the presentation:
 - Why did you choose that community
 - How you intend to achieve your goal
 
-####Where I organize the event?
+####Location
+
+
+####Timing
+
 
 
 
 
 What tool should I use to contact citizens? How do I maintain contact?
 
-How many people I have to contact ?
+###How many people I have to contact?
 
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 the people involved in communities have the greatest skills in listening, and are used to collaborative practices.
@@ -53,7 +57,7 @@ The first step to involve citizens of different communities is inform and share 
 
 In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
-#### Target - how many/what kind of/ people 
+
 
 #### Goals - Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
