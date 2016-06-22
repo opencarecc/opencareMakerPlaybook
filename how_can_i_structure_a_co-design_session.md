@@ -102,11 +102,11 @@ During the last **six months** we organized and divided our **timetable** into f
 
 ####// Inspiration phase
 
-During this first step, we did a lot of research at the same time both online and offline. On one hand, we searched for the most popular **methodologies** and **strategies** used and known in **co-design discipline**, in order to build a general background material and information about what is alredy done and what can be customized for our specific experience; on the other hand we organized, thanks also to the **Municipality of Milan**, a lot of **meetings, workshops **and **events** in order to engage and reach many *qualitative* people as possibile. It gave us the possibilty have face-to-face meetings and to get in touch with different kind of citizens and their communities.
+During this first step, we did a lot of research at the same time both online and offline. On one hand, we searched for the most popular **methodologies** and **strategies** used and known in **co-design discipline**, in order to build a general background material and information about what is alredy done and what can be customized for our specific experience; on the other hand we organized, thanks also to the **Municipality of Milan**, a lot of **meetings, workshops **and **events** in order to engage and reach many *qualitative* people as possibile. It gave us the possibilty have face-to-face meetings and to get in touch with different kind of **citizens** and their **communities**.
 
 ######*(see "How to involve a local community" chapter for more details)*
 
-~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:
+~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:~~
 
 ~~**1. Mare Culturale Milano - March 12th, 2016** // meeting~~
 
@@ -152,12 +152,11 @@ During this first step, we did a lot of research at the same time both online an
 
 ~~Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. The meeting was holded in Corso San Gottardo 41, Milan.~~
 
-####// Actors and roles
+####// Ideation Phase
+
+Once we had identified the communities, we defined what kind of communication and interactions we want to test in the next phase and, according to them, we designed new tools and materials for the two co-design sessions
 
 
-
-
-* an **"Ideation phase"**: once we had identified the communities, we defined what kind of communication and interactions we want to test in the next phase and, according to them, we designed new tools and materials for the two co-design sessions;
 * an **"Implementation phase"**: called also co-design session, in which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
 
