@@ -177,13 +177,21 @@ We divided the session into three main parts:
 * The second part was more **collective**, since participants were asked to “validate” their issues/needs through a **group discussion** and choose one for each group;
 * Then, the third part was a **plenary session**, in which one member per group were asked to present the concept of the selected need.
 
-After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by (?). It gave all the participants and the operational stuff to relax and enjoy the time spent together. 
+After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by **(?)**. It gave all the participants and the operational stuff to relax and enjoy the time spent together. 
 
 Audio and video of the meeting has been integrally recorded.
 
 **2. Second co-design session** - May 11th, 2016
 
+During the second meeting, we hosted altogether **(?)** participants. First of all, there was a **tight slide presentation** with:
 
+* a list of the **different issues**, revealed form the first session and divided into three macro-areas;
+*  an **explanation** about the **tools** that they were going to use during the session;
+*  a **general overview **about the **evaluation matrix** that the stuff will use for selecting the project to prototype. 
+
+Then, the participants were divided into three groups according to their interest in one isssue instead of the other ones. Then, the participants were asked to collaborate and work together in order to define better their idea and **concept** through the tools. Obviously, they were supported by the mentor. 
+
+As the first session, even in this second one there was the **planery session** in which one member per group explained to the other groups their concept. Moreover, the break-time was included in the teamwork, since the participants were very into it. 
 
 
 #### 4) Why and how we decided to organize a co-design session
