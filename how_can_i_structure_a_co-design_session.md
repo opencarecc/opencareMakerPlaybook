@@ -14,7 +14,7 @@ Therefore, first of all you will have the possibility to understand **What is a 
 Once you will have got the essence of the topic, you can read throughout the different **Characteristics** of the collaborative design discipline.
 We will then complete the methodological section by listing the different and peculiar **Typologies and approaches** of co-design.
 
-In order to make you understand in an efficient way the theory we will move to a practical example, **Our experience in co-design field**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why and how we organized a co-design session**.
+In order to make you understand in an efficient way the theory we will move to a practical example, **Our experience in co-design field**. In this subchapter we will introduce our tangible experience and right after it we will explain the reason **Why we organized a co-design session**.
 
 Once you will have completed the Introduction you will have a basic knowledge of collaborative design activity.
 
@@ -194,7 +194,7 @@ Then, the participants were divided into three groups according to their interes
 As the first session, in this second one there was the **planery session** as well, during which one member per group explained to the other groups its concept. Moreover, the break-time was combined with the teamwork time, since the participants were very into it. 
 
 
-#### 4) Why and how we decided to organize a co-design session
+#### 4) Why we decided to organize a co-design session
 
 Since our first effort in the **opencare** project is to *collect experiences of community-driven care services*, after many researches, we realized that a co-design session would have been perfect to accomplish our main purpose. This because, as explained above in **"What is a co-design session?"** subchapter, collaborative design is an **innovative process** which has all the characteristics useful and necessary for discovering, defining, developing and delivering **new product service systems** realized by means of collaborations between common people and professionals. 
 
