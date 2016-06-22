@@ -19,10 +19,11 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 
 ###Your Greatest Resources
 
-Starting citizen engagement:
-- Identify the minimum number of people who want to be involved (this shows nuomero contacts that I will turn on and the kind of promotion that I'll have to activate)
-- The type of citizen who intends to involve (
-- The venues of the meetings (one, more than one, with such features)
+This will help to start citizen engagement process and create a new local community care-centered:
+
+- Identify the minimum number of people who want to be involved (this shows number of contacts that I will turn on and the kind of promotion that I'll have to activate)
+- The type of citizen who intends to involve (young, female,  with specific characteristics...)
+- The venues of the meetings (one, more than one, openspace, pubblic area... )
 - The type of activity to be made in every place (presentation, needs analysis, solution identification, early design ideas draft)
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
 - The type of output
