@@ -154,10 +154,20 @@ During this first step, we did a lot of research at the same time both online an
 
 ####// Ideation Phase
 
-Once we had identified the communities, we defined what kind of communication and interactions we want to test in the next phase and, according to them, we designed new tools and materials for the two co-design sessions
+Once we had identified the communities, we defined what kind of **communication** and **interactions** we want to test in the next phases and, according to them, we designed **new tools** and **materials**. 
+
+######*(see "Tips" subchapter for more details)*
+
+####// Implementation Phase
+
+It is time now to test and use in real time the tools and the schedule that we designed for our **first co-design experience**. During the two co-design sessions, we have the possibility to dialogue and work with people from many different Milanese communities and with different interests, issues and needs. For example, some of them were interested in caring and **everyday well-being**, others in **tinkering stuff** and, still, others in more **health issues**.
+
+Our aim was to create a **temporary community** composed by different kind of citizens. So, we decided to divide the co-design in two main sessions (May 4th - 11th, 2016) 
 
 
-* an **"Implementation phase"**: called also co-design session, in which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
+
+
+ from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
 
 
