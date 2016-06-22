@@ -27,6 +27,24 @@ This will help to start citizen engagement process and create a new local commun
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
 - The type of output
 
+###What kind of event I have to organize to facilitate the participation of citizens?
+The first meeting with the citizens has to be an informal event: party, happy hour, an evening of dancing, an experiential workshop. The goal must be to present yourself and the goal for which you require the participation. An informal meeting facilitates interaction and trust-building between people.
+
+In the meeting we must provide time for the presentation:
+- who are you
+- what do you want
+- Why did you choose that community
+- How you intend to achieve your goal
+
+
+Where I organize the event? If possible it is best that the organizers should be identified in the community to present their project.
+
+
+
+What tool should I use to contact citizens? How do I maintain contact?
+
+How many people I have to contact ?
+
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 the people involved in communities have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
@@ -35,7 +53,7 @@ The first step to involve citizens of different communities is inform and share 
 
 In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
-
+#### Target - how many/what kind of/ people 
 
 #### Goals - Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
@@ -45,15 +63,20 @@ To involve citizens it is necessary to establish a relation of trust and answer 
 4. To design a new service or product 
 5. ...
 
+In OpenCare project the goals is to encourage:
+* citizens in the emergence of their needs or obstacles in their life
+* the process of co-design through engagement of citizens in the creation of solutions to respond to individual or collective local problems.
+
+
 
 ####What are my methodology?
 
 
+it is necessary to organize events where you have the solutions to problems identified by other citizens.
 
-If the goal is to encourage citizens in the emergence of needs or obstacles in their life, then it is necessary to organize events where you have the solutions to problems identified by other citizens.
 
 
-####What are my methodology?
+
 
 ### How do I pitch my idea?
 
