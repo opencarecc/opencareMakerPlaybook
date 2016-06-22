@@ -202,8 +202,6 @@ As the first session, in this second one there was the **planery session** as we
 
  from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
-
-
 During these encounters, our **stuff** had to perform various tasks and **roles** according to the different situations. For example, we had to manage and set the speech every time according to the audience (once composed by elderly people and another one composed by tinkerer or new comers), we had to provide tools, assistance and **specific capabilities** during the workshops or we had to fulfill such a kind of **mentor role** during the co-design session by means of supporting the participants and their group talking.  
 
 We always must to take into account the **emphatic approach**, since it allows us to gain a better understanding about other people's feelings, emotions, needs, exc. Moreover, we might be able to be **flexible**: once we have to be more like a **teacher**, another time like a **phsycologist** or a **friend**, once more we have just to be a **silent auditor**.
