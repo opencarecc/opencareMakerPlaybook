@@ -28,13 +28,17 @@ This will help to start citizen engagement process and create a new local commun
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
 - The type of output
 
-
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 the people involved in communities have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
-The first step to involve citizens of different communities is inform and share goals, methods and tools.
 
-#### Why involve citizens in a participatory process this time?
+The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
+
+In OpenCare project
+
+
+
+#### Goals - Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
 1. to test a new methodology
 2. to inform people about something and collect their opinions
@@ -43,7 +47,10 @@ To involve citizens it is necessary to establish a relation of trust and answer 
 5. ...
 
 
-####What are my goals?
+####What are my methodology?
+
+
+
 If the goal is to encourage citizens in the emergence of needs or obstacles in their life, then it is necessary to organize events where you have the solutions to problems identified by other citizens.
 
 
