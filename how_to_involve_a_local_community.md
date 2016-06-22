@@ -18,6 +18,18 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 ## How to engage people in local community?
 
 ###Your Greatest Resources
+
+Starting citizen engagement:
+- Identify the minimum number of people who want to be involved (this shows nuomero contacts that I will turn on and the kind of promotion that I'll have to activate)
+- The type of citizen who intends to involve (
+- The venues of the meetings (one, more than one, with such features)
+- The type of activity to be made in every place (presentation, needs analysis, solution identification, early design ideas draft)
+- The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
+- The type of output
+
+
+
+
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 the people involved in the community have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
@@ -25,10 +37,11 @@ The first step to involve citizens of different communities is inform and share 
 
 #### Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
-- To test a new methodology
-- To inform people about something and collect their opinions
-- to test a process or a product
-- To design a new service or product ...
+1. to test a new methodology
+2. to inform people about something and collect their opinions
+3. to test a process or a product
+4. To design a new service or product 
+5. ...
 
 
 ####What are my goals?
