@@ -181,6 +181,15 @@ After this **teamwork** experience, the Municipality of Milan offered a deliciou
 
 Audio and video of the meeting has been integrally recorded.
 
+**2. Second co-design session** - May 11th, 2016
+
+
+
+
+#### 4) Why and how we decided to organize a co-design session
+(how we structured the two days co-design session + relation with care + empathic approach)
+
+(Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
  from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
@@ -190,10 +199,7 @@ During these encounters, our **stuff** had to perform various tasks and **roles*
 
 We always must to take into account the **emphatic approach**, since it allows us to gain a better understanding about other people's feelings, emotions, needs, exc. Moreover, we might be able to be **flexible**: once we have to be more like a **teacher**, another time like a **phsycologist** or a **friend**, once more we have just to be a **silent auditor**.
 
-#### 4) Why and how we decided to organize a co-design session
-(how we structured the two days co-design session + relation with care + empathic approach)
 
-(Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
 ---
 
