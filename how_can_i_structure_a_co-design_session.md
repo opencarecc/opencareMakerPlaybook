@@ -98,13 +98,20 @@ During the last **six months** we organized and divided our **timetable** into f
 1. **Inspiration** phase; 
 2. **Ideation** phase;
 3. **Implementation** phase;
-3. **Recognition** phase. 
+4. **Recognition** phase. 
+
+####// Inspiration phase
+
+During this first step, we did a lot of research at the same time both online and offline. On one hand we searched for the most popular **methodologies** and **strategies** used and known in co-design discipline, in order to have a general idea about what is alredy done and what can be customized for our specific experience; on the other hand the **Municipality of Milan** and us organized a lot of meetings, workshops and events in order to engage and reach many *qualitative* people as possibile. 
+
+######*(see "How to involve a local community" chapter for more details)*
 
 
-In order to engage and to reach many *qualitative* people as possibile, during the first PRE - inspiration phase, WeMake, together with the **Municipality of Milan**, organized a lot of meetings, workshops and events in order to meet and to get in touch, face to face, with people and their different communities.
+
+in order to meet and to get in touch, face to face, with people and their different communities.
 
 
-* an **"Inspiration phase"**: we did a reasearch both offline -  we went around, talking with people and building relations - and online - we searched for the most popular methodologies and strategies used in co-design discipline;
+
 * an **"Ideation phase"**: once we had identified the communities, we defined what kind of communication and interactions we want to test in the next phase and, according to them, we designed new tools and materials for the two co-design sessions;
 * an **"Implementation phase"**: called also co-design session, in which we had the possibility to dialogue and work with people from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
