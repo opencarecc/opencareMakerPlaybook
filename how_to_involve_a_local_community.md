@@ -23,7 +23,12 @@ the people involved in the community have the greatest skills in listening, and 
 Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, methods and tools.
 
-#### Why involve citizens in a participatory process?
+#### Why involve citizens in a participatory process this time?
+To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
+- To test a new methodology
+- To inform people about something and collect their opinions
+- to test a process or a product
+- To design a new service or product ...
 
 
 ####What are my goals?
