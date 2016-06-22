@@ -1,4 +1,5 @@
 # How to involve citizens in a local community? [Christina/Moushira]
+
 Citizen involvement is a key part of the development of social innovations. Citizens are best placed to frame and articulate the nature of the social challenges they experience, so it is important that they are brought into any process of understanding needs. 
 
 ## Why we talk about community?
@@ -23,9 +24,17 @@ This will help to start citizen engagement process and create a new local commun
 - Identify the minimum number of people who want to be involved (this shows number of contacts that I will turn on and the kind of promotion that I'll have to activate)
 - The type of citizen who intends to involve (young, female,  with specific characteristics...)
 - The venues of the meetings (one, more than one, openspace, pubblic area... )
-- The type of activity to be made in every place (presentation, needs analysis, solution identification, early design ideas draft)
+- The type of activity to be made in every place (presentation, needs analysis, solution identification, early design - ideas draft)
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
 - The type of output
+
+###How many people I have to contact?
+We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
+The citizens involved in communities have the greatest skills in listening, and are used to collaborative practices.
+Then you have to choose four or five communities with different characteristics.
+The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
+
+In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
 ###What kind of event I have to organize to facilitate the participation of citizens?
 The first meeting with the citizens has to be an informal event: party, happy hour, an evening of dancing, an experiential workshop. The goal must be to present yourself and the goal for which you require the participation. An informal meeting facilitates interaction and trust-building between people.
@@ -43,19 +52,12 @@ In the meeting we must provide time for the presentation:
 
 
 
+####Keep in toch
+
 
 
 What tool should I use to contact citizens? How do I maintain contact?
 
-###How many people I have to contact?
-
-We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
-the people involved in communities have the greatest skills in listening, and are used to collaborative practices.
-Then you have to choose four or five communities with different characteristics.
-
-The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
-
-In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
 
 
