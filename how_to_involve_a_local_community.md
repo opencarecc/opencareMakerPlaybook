@@ -18,6 +18,9 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 ## How to engage people in local community?
 
 ###Your Greatest Resources
+We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
+Then you have to choose four or five communities with different characteristics.
+
 
 
 ### How do I reach local communities?
