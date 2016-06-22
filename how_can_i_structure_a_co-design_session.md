@@ -112,9 +112,9 @@ During this first step, we did a lot of research at the same time both online an
 
 ![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_mare-e1465658354542.png)
 
-~~The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance. It took place at Circolo ARCI Olmi, via degli Ulivi 2, Milan.
+~~The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance. It took place at Circolo ARCI Olmi, via degli Ulivi 2, Milan.~~
 
-The event is organized by WeMake and Municipality of Milan in collaboration with [Mare Culturale Urbano](http://maremilano.org).~~
+~~The event is organized by WeMake and Municipality of Milan in collaboration with [Mare Culturale Urbano](http://maremilano.org).~~
 
 ~~**2. Villa Pallavicini - March 17th, 2016** // meeting~~
 
