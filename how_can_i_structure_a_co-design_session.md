@@ -26,6 +26,7 @@ Each Tip will be divided in two: a general/theoretical description and a practic
 In the end, in order to sum up all the contents mentioned above, we will provide a **Survival table of contents for a co-design session**, based on our **opencare** experience.
 
 #### 2) What is a co-design session?
+
 ####// Definition
 As we can read in the research essay *The Dynamics of Collaborative Design *(written by specialists from Massachusetts Institute of Technology and New England Complex Systems Institute):
 
@@ -160,7 +161,6 @@ While we were typing this playbook, we found very useful to distinguish the desi
 
 ######*(see "Tips" and "Survival table of content" subchapters for more details)*
 
-
 ####// Implementation Phase
 
 It is time now to test and use in real time the tools and the schedule designed for our **first co-design experience**. During the two co-design sessions, we have the possibility to dialogue and work with people from many different Milanese communities and with different interests, issues and needs. For example, some of them were interested in caring and **everyday well-being**, others in **tinkering stuff** and, still, others in more **health issues**.
@@ -196,9 +196,10 @@ As the first session, in this second one there was the **planery session** as we
 
 #### 4) Why and how we decided to organize a co-design session
 
-(how we structured the two days co-design session + relation with care + empathic approach)
+Since our first challenge in the **opencare** project is to *collect experiences of community-driven care services*, after many researches, we realized that a co-design session would have been perfect to accomplish our main purpose. This because, as explained above in **"What is a co-design session?"** subchapter, 
 
-(Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
+
+
 
  from many different Milanese communities, making them feel active participants, asking and listening their issues and needs - *don't be afraid to get your hands dirty!*
 
@@ -206,7 +207,7 @@ During these encounters, our **stuff** had to perform various tasks and **roles*
 
 We always must to take into account the **emphatic approach**, since it allows us to gain a better understanding about other people's feelings, emotions, needs, exc. Moreover, we might be able to be **flexible**: once we have to be more like a **teacher**, another time like a **phsycologist** or a **friend**, once more we have just to be a **silent auditor**.
 
-
+(Frase ad effetto: DO NOT TRY THIS AT HOME o buon divertimento)
 
 ---
 
