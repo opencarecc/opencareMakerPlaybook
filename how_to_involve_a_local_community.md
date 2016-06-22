@@ -15,7 +15,9 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 
 
 
-## How to engage people?
+## How to engage people in local community?
+
+
 
 ### How do I reach local communities?
 
