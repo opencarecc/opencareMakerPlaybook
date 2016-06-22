@@ -19,6 +19,7 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 
 ###Your Greatest Resources
 
+
 ### How do I reach local communities?
 
 ### How do I pitch my idea?
