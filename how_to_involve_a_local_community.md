@@ -5,7 +5,7 @@ Citizen involvement is a key part of the development of social innovations. Citi
 Communities are groups of citizens who decide to share their time in real and virtual spaces for different purposes. They are therefore citizens who have decided to develop social ties. When you start a collective participation process the advice is to start presenting the issues, challenges, projects in different communities to engage citizens who are more readily willing to participate. The goal will be to create a new community ready to share experiences, knowledge and skills.
 
 ## Why a local community?
-Developing a local community is necessary to focus the strategy on deep human connections among participants using an empathetic and narrative approach. And it’s possible only with a face to face collaborative action.
+Developing a local community is necessary to focus the strategy on deep human connections among participants using an empathetic and narrative approach. And it’s possible with a face to face collaborative action.
 Engaging citizens in the development of care solutions, in particular, designing and testing solutions in real life settings with target users should help make those solutions more effective. Furthermore, working with citizens, drawing on and developing their assets and capabilities, helps support society’s resilience and capacity to act. 
 
 ##Why building a local community in a Fablab?
@@ -17,7 +17,7 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 
 ## How to engage people in local community?
 
-
+###Your Greatest Resources
 
 ### How do I reach local communities?
 
