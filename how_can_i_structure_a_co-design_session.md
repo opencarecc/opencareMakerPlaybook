@@ -162,7 +162,7 @@ Once we had identified the communities, we defined what kind of **communication*
 
 It is time now to test and use in real time the tools and the schedule that we designed for our **first co-design experience**. During the two co-design sessions, we have the possibility to dialogue and work with people from many different Milanese communities and with different interests, issues and needs. For example, some of them were interested in caring and **everyday well-being**, others in **tinkering stuff** and, still, others in more **health issues**.
 
-Our aim was to create a **temporary community** composed by different kind of citizens. So, we decided to divide the co-design in two main sessions (May 4th - 11th, 2016) 
+Our aim was to create a **temporary community** composed by different kind of citizens. So, we decided to divide the co-design into two main sessions (May 4th and 11th, 2016) lasting maximum 4 hours each (from 6 pm to 21 pm). This because we wanted to receive as many participations as possibile, since most of the people were parents or workers. 
 
 
 
