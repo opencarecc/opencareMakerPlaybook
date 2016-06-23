@@ -13,7 +13,15 @@ Documenting your actual project depends on the nature of the project.  Do you ha
 2. If your project is opensource, it is helpful to document your **early trials**, and even things that didn't go wrong. Use diagrams to help explain your decisions.
 3. **Keep things visual**, when possible, add diagrams and drawings to your tutorials
 4. **Talk to newbies** don't assume every reader knows about hacking.  Make things super simple, introduce every concept and technology and add references to read more about it.
-5. 
+
+## Tool to use:
+
+There is a variety of tools and platforms that you can depend on, in order to document your projects.  Here is a sample of a few:
+
+1. https://wordpress.com.  A simple blogging tool that has free template which can help you create an initial landing page for your project.  You can easily install it on your server through your domain provider. You can link your blog to your social media accounts where you post images and videos about meetings and progress.
+2. http://www.instructables.com.  An open community of people who make things.  You can find projects shared by others and an easy way to document your project step by step.
+3. http://hackaday.com another place that can host your tutorials and work on progress.  It is good to use different online documentation platforms as it helps you grow your online community base.
+4. https://forum.arduino.cc/ If you are Arduino base, make sure you drop a line about your project in the Arduino form.  Something along the lines of "Hey, I am currently building this" or ask for help or simple ask for feedback.
 
 
 
