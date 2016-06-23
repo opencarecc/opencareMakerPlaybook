@@ -201,7 +201,7 @@ Since our first effort in the **opencare** project is to *collect experiences of
 Collaborative design allowed us to get in touch with real people, with real issues and needs. It gave us the possibility to **perform various tasks and roles** according to the different situations. 
 We were asked to make people/participants feel active and involved in the process, from the beginning to the end of it. We were asked to be able to ask questions and listen all the answers and amazing thoughts. We were, sometimes, like a **teacher**, other time more like a **psychologist** or a ***friend*** and still other times we were just **silent auditors**. 
 
-We must to take always into account the so-called **empathic approach**. But that is not all, through co-design and empathic approach we didn't just put ourselves in someone's shoes, we gained a better understanding about other people's feelings, emotions, needs in order to make THEM (the participants, the citizens, the people) able to visualize and propose an **effective solution**, and its concept, to an existing "care" issue. 
+We must take always into account the so-called **empathic approach**. But that is not all, through co-design and empathic approach we didn't just put ourselves in someone's shoes, we gained a better understanding about other people's feelings, emotions, needs in order to make THEM (the participants, the citizens, the people) able to visualize and propose an **effective solution**, and its concept, to an existing "care" issue. 
 
 Well, nuff said, if you want to organize a your own co-design session, don't be afraid of it. Read the following tips and you will be able to customize your own one. 
 
