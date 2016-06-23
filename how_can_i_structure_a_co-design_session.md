@@ -177,7 +177,7 @@ We divided the session into three main parts:
 * The second part was more **collective**, since participants were asked to “validate” their issues/needs through a **group discussion** and choose one for each group;
 * Then, the third part was a **plenary session**, in which one member per group were asked to present the concept of the selected need.
 
-After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by **(?)**. It gave all the participants and the operational stuff the possibility to relax and enjoy the time spent together. 
+After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by **(?)**. It gave all the participants and the operational staff the possibility to relax and enjoy the time spent together. 
 
 Audio and video of the meeting has been integrally recorded.
 
