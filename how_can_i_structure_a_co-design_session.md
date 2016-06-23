@@ -157,7 +157,7 @@ During this first step, we did a lot of research at the same time both online an
 
 Once we had identified the communities, we defined what kind of **communication** and **interactions** we want to test in the next phases and, according to them, we designed **new tools** and **materials**. 
 
-While we were typing this playbook, we found very useful to distinguish the designed tools into two categories: **passive** and **active** tools. The first ones, are more about the tools used by the **WeMake's stuff** in order to show, explain and get in touch with the different audience; the second ones are those tools and materials used by the **participants** during the two co-design sessions. 
+While we were typing this playbook, we found very useful to distinguish the designed tools into two categories: **passive** and **active** tools. The first ones, are more about the tools used by the **WeMake's staff** in order to show, explain and get in touch with the different audience; the second ones are those tools and materials used by the **participants** during the two co-design sessions. 
 
 ######*(see "Tips" and "Survival table of content" subchapters for more details)*
 
