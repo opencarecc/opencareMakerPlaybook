@@ -187,7 +187,7 @@ During the second meeting, we hosted altogether **(?)** participants. First of a
 
 * a list of the **different issues**, revealed form the first session and divided into three macro-areas;
 *  an **explanation** about the **tools** that they were going to use during the session;
-*  a **general overview **about the **evaluation matrix** that the stuff will use for selecting the project to prototype. 
+*  a **general overview **about the **evaluation matrix** that the staff will use for selecting the project to prototype. 
 
 Then, the participants were divided into three groups according to their interest in one isssue instead of the other ones. Then, the participants were asked to collaborate and work together in order to define better their idea and **concept** through the tools. Obviously, they were supported by the mentor. *Don't be afraid to get your hands dirty!*
 
