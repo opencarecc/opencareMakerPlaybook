@@ -24,7 +24,7 @@ There is a variety of tools and platforms that you can depend on, in order to do
 4. https://forum.arduino.cc/ If you are Arduino base, make sure you drop a line about your project in the Arduino form.  Something along the lines of "Hey, I am currently building this" or ask for help or simple ask for feedback.
 
 //add notes on microslicer
-//add notes on Piccola.cc
+//add notes on Piccola.cc 
 //add notes on rishalaser?
 //notes on https://www.wevolver.com/home
 //notes on commenting in code
