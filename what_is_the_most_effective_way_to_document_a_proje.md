@@ -25,6 +25,8 @@ There is a variety of tools and platforms that you can depend on, in order to do
 
 //add notes on microslicer
 //add notes on Piccola.cc
+//add notes on rishalaser?
+//
 
 
 
