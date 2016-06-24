@@ -4,7 +4,7 @@ Moushira & Alessandro
 ## Real time
 Your documentation starts from day one of your project.  You need to document your activity to help you build and engage your community, and you need to document the process of thinking and developing your project.  As far as activities are concerned here are some helpful tips:
 1. Take **pictures** of your event (but check if your attendees are OK with it)
-2. Keep your pics of **low resolutio**n (unless you need high resolution) so that you save time converting them for online usage afterwards. 
+2. Keep your pics of **low resolution**(unless you need high resolution) so that you save time converting them for online usage afterwards. 
 3. **Videos** are great if possible.  You can also make a video of your pics if video editing is a hassle.
 4.Keep things **short, but continuous**. You don't have to write the most elaborate blog, but it is great to blog something after every event and in planning
 
