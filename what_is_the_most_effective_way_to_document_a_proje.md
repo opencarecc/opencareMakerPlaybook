@@ -23,7 +23,9 @@ There is a variety of tools and platforms that you can depend on, in order to do
 3. http://hackaday.com another place that can host your tutorials and work on progress.  It is good to use different online documentation platforms as it helps you grow your online community base.
 4. https://forum.arduino.cc/ If you are Arduino base, make sure you drop a line about your project in the Arduino form.  Something along the lines of "Hey, I am currently building this" or ask for help or simple ask for feedback.
 
+//add notes on microslicer
 //add notes on Piccola.cc
+
 
 
 
