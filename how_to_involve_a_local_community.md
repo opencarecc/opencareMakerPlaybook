@@ -48,7 +48,7 @@ In the meeting we must provide time for the presentation:
 In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
 ####Location
-The first event can be hosted by the community you have contacted. The first event could be hosted by the community you have contacted. You have to offer food, drinks, music or whatever. 
+The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
 
 In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
