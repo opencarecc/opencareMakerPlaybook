@@ -9,7 +9,7 @@ Your documentation starts from day one of your project.  You need to document yo
 4.Keep things **short, but continuous**. You don't have to write the most elaborate blog, but it is great to blog something after every event and in planning
 
 Documenting your actual project depends on the nature of the project.  Do you have a hardware prototype? It is a social initiate? A platform?  In any case, make sure you have the following:
-1. **Language**.  Make a clear  and early decision of your language. If you are running a local initiative, there is no need to document in english unless it is your first language.
+1. **Language**.  Make a clear  and early decision of your language. If you are running a local initiative, there is no need to document in English unless it is your first language.
 2. If your project is opensource, it is helpful to document your **early trials**, and even things that didn't go wrong. Use diagrams to help explain your decisions.
 3. **Keep things visual**, when possible, add diagrams and drawings to your tutorials
 4. **Talk to newbies** don't assume every reader knows about hacking.  Make things super simple, introduce every concept and technology and add references to read more about it.
@@ -23,6 +23,7 @@ There is a variety of tools and platforms that you can depend on, in order to do
 3. http://hackaday.com another place that can host your tutorials and work on progress.  It is good to use different online documentation platforms as it helps you grow your online community base.
 4. https://forum.arduino.cc/ If you are Arduino base, make sure you drop a line about your project in the Arduino form.  Something along the lines of "Hey, I am currently building this" or ask for help or simple ask for feedback.
 
+//add notes on Piccola.cc
 
 
 
