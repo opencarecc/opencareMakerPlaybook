@@ -21,7 +21,7 @@ The file format for your files needs to be in STL, which you can generate using 
 
 ### Laser cutting [Moushira]
 Laser cutting is a technology used for cutting flat surfaces of wood, plastic, or cardboard and paper.  Metal and resins (and of course mirrors!) are not materials that you can use laser technology with, to work with those you can explore other technologies like milling.   Depending on the laser power of the machine you are using (form 40W to 100W mostly) you can adjust the laser power and speed to for perfect results with your material thickness.  Adjusting speed and power we can also use laser for engraving or itching, which is simply used for drawing on a surface. 
-The machine operator is familiar with the adjustments needed for each machine based on experience, and guidebook. If you are using the machine for the first time, allow time for trial and error.    Laser cutting uses 2D files in different formats.  Below are a few links that include tips on how to use and fine tune your machine:
+The machine operator is familiar with the adjustments needed for each machine based on experience, and guidebook. If you are using the machine for the first time, allow time for trial and error.    Laser cutting uses 2D files in different formats.  Below are a few links that include tips on how to use and fine tune your operation:
 * http://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/
 * http://www.instructables.com/id/How-to-Use-a-Laser-Cutter/
 
