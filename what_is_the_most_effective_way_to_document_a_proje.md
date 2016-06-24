@@ -27,6 +27,7 @@ There is a variety of tools and platforms that you can depend on, in order to do
 //add notes on Piccola.cc
 //add notes on rishalaser?
 //notes on https://www.wevolver.com/home
+//notes on commenting in code
 
 
 
