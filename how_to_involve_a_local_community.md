@@ -53,9 +53,23 @@ In the meeting we must provide time for the presentation:
 - Why did you choose that community
 - How you intend to achieve your goal
 
+#### Goals - Why involve citizens in a participatory process this time?
+To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
+1. to test a new methodology
+2. to inform people about something and collect their opinions
+3. to test a process or a product
+4. To design a new service or product 
+5. ...
+
+In OpenCare project the goals is to encourage:
+* citizens in the emergence of their needs or obstacles in their life
+* the process of co-design through engagement of citizens in the creation of solutions to respond to individual or collective local problems.
+
+#### Methodology - How involve citizens in a participatory process?
+
 You should not use technical language or too difficult. Express yourself in an easy way. The presentation should be short and possibly not frontal. Then you should sit down with the people and talk to them and verify that they have understood what you have said. We recommend using storytelling and bringing them solutions that can be touched to facilitate communication and to encourage an empathetic approach.
 
-
+The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
 
 
 ~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:~~
@@ -104,35 +118,9 @@ You should not use technical language or too difficult. Express yourself in an e
 
 ~~Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. The meeting was holded in Corso San Gottardo 41, Milan.~~
 
-In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
-
-####Location
-The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
-
-In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
-
-####Timing
 
 
 
-
-
-
-
-
-
-
-#### Goals - Why involve citizens in a participatory process this time?
-To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
-1. to test a new methodology
-2. to inform people about something and collect their opinions
-3. to test a process or a product
-4. To design a new service or product 
-5. ...
-
-In OpenCare project the goals is to encourage:
-* citizens in the emergence of their needs or obstacles in their life
-* the process of co-design through engagement of citizens in the creation of solutions to respond to individual or collective local problems.
 
 
 
@@ -144,6 +132,7 @@ it is necessary to organize events where you have the solutions to problems iden
 
 
 ####Keeping in touch
+
 
 
 
