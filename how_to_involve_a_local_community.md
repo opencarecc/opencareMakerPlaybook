@@ -64,9 +64,9 @@ To involve citizens it is necessary to establish a relation of trust and answer 
 4. To design a new service or product 
 5. ...
 
-In OpenCare project the goals is to encourage:
-* citizens in the emergence of their needs or obstacles in their life
-* the process of co-design through engagement of citizens in the creation of solutions to respond to individual or collective local problems.
+In OpenCare project the goals is to involve citizens in co-design session to encorage citizens:
+* to emergence of their needs or obstacles in their life
+* to define solutions to respond to individual or collective local problems.
 
 ### Methodology - How involve citizens in a participatory process?
 
