@@ -26,7 +26,10 @@ This will help to start citizen engagement process and create a new local commun
 - The venues of the meetings (one, more than one, openspace, pubblic area... )
 - The type of activity to be made in every place (presentation, needs analysis, solution identification, early design - ideas draft)
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
-- The type of output
+- The type of output 
+
+######*(see "General notes" subchapters for more details)*
+
 
 ###How many people I have to contact?
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
@@ -70,6 +73,15 @@ In OpenCare project the goals is to encourage:
 You should not use technical language or too difficult. Express yourself in an easy way. The presentation should be short and possibly not frontal. Then you should sit down with the people and talk to them and verify that they have understood what you have said. We recommend using storytelling and bringing them solutions that can be touched to facilitate communication and to encourage an empathetic approach.
 
 The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
+
+####tips and tricks
+
+Every person who has an interest in, or who could be affected by, the issues under discussion must be encouraged to take part.
+Be clear at the start about what changes your project can or cannot promise and be clear about the mechanisms of the decision-making processes
+Be sure you give people as much information as possible and explain where information is missing or is uncertain.
+Show respect for diverse views and cultures by making sure that minority views are taken on board. This is your opportunity to build trust by being courteous,empathic and helpful.
+Use existing channels to make sure that you report back to all interested people as fully and as quickly as possible.
+Put final decisions into action as soon as possible. This will strengthen participants’ belief that their involvement was worthwhile.
 
 
 ~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:~~
