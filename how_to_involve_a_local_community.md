@@ -37,8 +37,6 @@ The citizens involved in communities have the greatest skills in listening, and 
 Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
-In OpenCare project we met “active” communities in Milan in order to engage citizens: citizen/groups of people used to collaborate in order to find solutions to emergent social needs or care-related solutions.
-
 Opencare local team (WeMake and Municipality of Milan) contacts four communities
 
 Elderly people with a common passion: dancing 
@@ -64,9 +62,10 @@ To involve citizens it is necessary to establish a relation of trust and answer 
 4. To design a new service or product 
 5. ...
 
-In OpenCare project the goals is to involve citizens in co-design session to encorage citizens:
-* to emergence of their needs or obstacles in their life
-* to define solutions to respond to individual or collective local problems.
+In OpenCare project the goals is to involve citizens in co-design sessions to encorage citizens:
+* to bring out their needs or obstacles in life
+* to define solutions to respond to individual or collective problems.
+
 
 ### Methodology - How involve citizens in a participatory process?
 
@@ -146,19 +145,7 @@ Put final decisions into action as soon as possible. This will strengthen partic
 
 
 
-####workshops
-Why is a workshop good for the community?
-- it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
-- it makes people collaborate to solve concrete problems
-- it makes people feel empowered when facing again at issues in their everyday life
 
-Why is a workshop good for you?
-- it creates trust in you by the community
-- it makes the people in the community understand the limits of what you are planning to do
-- it gives you an opportunity to spot people interested in developing or testing the project
-- people might share their experience creating a natural amplification channel for the communication of the project
-
-######*(see "How can I make a workshop happen?" chapter for more details)*
 
 ####co-design
 
