@@ -37,12 +37,12 @@ The citizens involved in communities have the greatest skills in listening, and 
 Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
-Opencare local team (WeMake and Municipality of Milan) contacts four communities
+Opencare local team (WeMake and Municipality of Milan) contacted four communities:
 
-Elderly people with a common passion: dancing 
-Parents of disabled childrens
-Migrants 
-A “Social street”
+1. Elderly people with a common passion: dancing 
+2. Parents of disabled childrens
+3. Migrants 
+4. A “Social street”
 
 
 ###What kind of event I have to organize to facilitate the participation of citizens?
@@ -95,18 +95,17 @@ Why is a workshop good for you?
 
 ######*(see "How can I make a workshop happen?" chapter for more details)*
 
+###Engagement in Opencare project:
 
-~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:~~
+Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:
 
-~~**1. Mare Culturale Milano - March 12th, 2016** // meeting~~
+**1. Mare Culturale Milano - March 12th, 2016** // meeting
 
 ![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_mare-e1465658354542.png)
 
-~~The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance. It took place at Circolo ARCI Olmi, via degli Ulivi 2, Milan.~~
+The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance. It took place at Circolo ARCI Olmi, via degli Ulivi 2, Milan. The event is  organized by WeMake and Municipality of Milan in collaboration with [Mare Culturale Urbano](http://maremilano.org).
 
-~~The event is organized by WeMake and Municipality of Milan in collaboration with [Mare Culturale Urbano](http://maremilano.org).~~
-
-~~**2. Villa Pallavicini - March 17th, 2016** // meeting~~
+**2. Villa Pallavicini - March 17th, 2016** // meeting
 
 ![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_villa.png)
 
@@ -140,7 +139,7 @@ Why is a workshop good for you?
 
 ![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_socialstreet.png)
 
-~~Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. The meeting was holded in Corso San Gottardo 41, Milan.~~
+~~Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. The meeting was holded in Corso San Gottardo 41, Milan.~~~~~~~~
 
 
 
