@@ -38,7 +38,6 @@ Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
 Opencare local team (WeMake and Municipality of Milan) contacted four communities:
-
 1. Elderly people with a common passion: dancing 
 2. Parents of disabled childrens
 3. Migrants 
