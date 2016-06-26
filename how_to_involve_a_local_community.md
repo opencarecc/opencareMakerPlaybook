@@ -20,7 +20,6 @@ In a Fablab citizens will produce light but meaningful social ties. Contexts in 
 ###Your Greatest Resources
 
 This will help to start citizen engagement process and create a new local community care-centered:
-
 - Identify the minimum number of people who want to be involved (this shows number of contacts that I will turn on and the kind of promotion that I'll have to activate)
 - The type of citizen who intends to involve (young, female,  with specific characteristics...)
 - The venues of the meetings (one, more than one, openspace, pubblic area... )
@@ -45,15 +44,18 @@ Opencare local team (WeMake and Municipality of Milan) contacted four communitie
 
 
 ##What kind of event I have to organize to facilitate the participation of citizens?
-The first meeting with the citizens has to be an informal event: party, happy hour, an evening of dancing, an experiential workshop. 
 
+Different approaches are needed to outreach and engage a wider public, including migrants, the elderly, disabled people and other social groups. 
+To engage effectively with citizens, one needs to ensure that the process is genuinely open to heterogeneous groups, not only the digitally confident. This must be organically embedded from the beginning. 
+
+The first meeting with the citizens has to be an informal event: party, happy hour, an evening of dancing, an experiential workshop, a game...
 
 ### Methodology - How involve citizens in a participatory process?
 
 The goal must be to present yourself and the goal for which you require the participation. An informal meeting facilitates interaction and trust-building between people. 
 
-In the meeting we must provide time for the presentation:
-- who are you
+In the meeting we must provide time for talk about:
+- who you are
 - what do you want
 - Why did you choose that community
 - How you intend to achieve your goal
@@ -81,7 +83,7 @@ In OpenCare project the goals is to involve citizens in co-design sessions to en
 * to bring out their needs or obstacles in life
 * to define solutions to respond to individual or collective problems.
 
-####Workshops - Why is a workshop good for the community and for you?
+###Workshops - Why is a workshop good for the community and for you?
 Why is a workshop good for the community?
 - it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
 - it makes people collaborate to solve concrete problems
