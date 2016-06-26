@@ -34,7 +34,15 @@ The citizens involved in communities have the greatest skills in listening, and 
 Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
-In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
+In OpenCare project we met “active” communities in Milan in order to engage citizens: citizen/groups of people used to collaborate in order to find solutions to emergent social needs or care-related solutions.
+
+Opencare local team (WeMake and Municipality of Milan) contacts four communities
+
+Elderly people with a common passion: dancing 
+Parents of disabled childrens
+Migrants 
+A “Social street”
+
 
 ###What kind of event I have to organize to facilitate the participation of citizens?
 The first meeting with the citizens has to be an informal event: party, happy hour, an evening of dancing, an experiential workshop. The goal must be to present yourself and the goal for which you require the participation. An informal meeting facilitates interaction and trust-building between people.
@@ -44,6 +52,7 @@ In the meeting we must provide time for the presentation:
 - what do you want
 - Why did you choose that community
 - How you intend to achieve your goal
+
 
 In OpenCare project blablabla  riportare quanto scritto da Silvia e adattarlo al contesto
 
