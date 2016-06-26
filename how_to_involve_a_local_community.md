@@ -144,15 +144,15 @@ Our **second workshop** organized by WeMake and the Municipality of Milan at For
 Last but not least, we had a meeting with the community named Social Street San Gottardo, a community of **citizens** who decided to live the neighborhood by re-activating and improving the social relationships towards a better liveability through exchange initiatives, entertainment and education. 
 
 
-###Keeping in touch
+###Keep the interest alive - how to keep the people involved?
+Once citizens have agreed to participate, you will keep them connected. Regular communication about your project is important. It can keep your issue fresh and your meetings in the minds of the people, and improve the community’s credibility. Following are several ways to maintain open lines of communication with citizens:
+Newsletter
+Blogpost
+Social network
+Maililing list
+...
 
-Keep the interest alive // NEWSLETTER - BLOGPOSTS
-*make the community interested and involved, give them updates and make them feel valuable (explain how we involve/engage people and why, for example: local communities > awareness > newsletter)*
-
-
-
-
-
+Regular communication give them updates and make them feel valuable (explain how we involve/engage people and why.
 
 
 ### General notes
