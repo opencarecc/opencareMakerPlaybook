@@ -53,6 +53,10 @@ In the meeting we must provide time for the presentation:
 - Why did you choose that community
 - How you intend to achieve your goal
 
+You should not use technical language or too difficult. Express yourself in an easy way. The presentation should be short and possibly not frontal. Then you should sit down with the people and talk to them and verify that they have understood what you have said. We recommend using storytelling and bringing them solutions that can be touched to facilitate communication and to encourage an empathetic approach.
+
+
+
 
 ~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:~~
 
