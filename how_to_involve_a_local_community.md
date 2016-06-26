@@ -73,6 +73,20 @@ You should not use technical language or too difficult. Express yourself in an e
 
 The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
 
+####workshops - Why is a workshop good for the community?
+- it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
+- it makes people collaborate to solve concrete problems
+- it makes people feel empowered when facing again at issues in their everyday life
+
+Why is a workshop good for you?
+- it creates trust in you by the community
+- it makes the people in the community understand the limits of what you are planning to do
+- it gives you an opportunity to spot people interested in developing or testing the project
+- people might share their experience creating a natural amplification channel for the communication of the project
+
+######*(see "How can I make a workshop happen?" chapter for more details)*
+
+
 ####tips and tricks
 
 Every person who has an interest in, or who could be affected by, the issues under discussion must be encouraged to take part.
