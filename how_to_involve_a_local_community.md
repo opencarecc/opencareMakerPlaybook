@@ -53,7 +53,7 @@ In the meeting we must provide time for the presentation:
 - Why did you choose that community
 - How you intend to achieve your goal
 
-#### Goals - Why involve citizens in a participatory process this time?
+###Goals - Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
 1. to test a new methodology
 2. to inform people about something and collect their opinions
@@ -65,7 +65,7 @@ In OpenCare project the goals is to encourage:
 * citizens in the emergence of their needs or obstacles in their life
 * the process of co-design through engagement of citizens in the creation of solutions to respond to individual or collective local problems.
 
-#### Methodology - How involve citizens in a participatory process?
+### Methodology - How involve citizens in a participatory process?
 
 You should not use technical language or too difficult. Express yourself in an easy way. The presentation should be short and possibly not frontal. Then you should sit down with the people and talk to them and verify that they have understood what you have said. We recommend using storytelling and bringing them solutions that can be touched to facilitate communication and to encourage an empathetic approach.
 
@@ -124,10 +124,7 @@ The location is very important. The first event can be hosted by the community y
 
 
 
-####What are my methodology?
 
-
-it is necessary to organize events where you have the solutions to problems identified by other citizens.
 
 
 
