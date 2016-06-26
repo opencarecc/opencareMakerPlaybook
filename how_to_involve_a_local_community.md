@@ -73,7 +73,16 @@ You should not use technical language or too difficult. Express yourself in an e
 
 The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
 
-####workshops - Why is a workshop good for the community?
+####tips and tricks
+
+Every person who has an interest in, or who could be affected by, the issues under discussion must be encouraged to take part.
+Be clear at the start about what changes your project can or cannot promise and be clear about the mechanisms of the decision-making processes
+Be sure you give people as much information as possible and explain where information is missing or is uncertain.
+Show respect for diverse views and cultures by making sure that minority views are taken on board. This is your opportunity to build trust by being courteous,empathic and helpful.
+Use existing channels to make sure that you report back to all interested people as fully and as quickly as possible.
+Put final decisions into action as soon as possible. This will strengthen participants’ belief that their involvement was worthwhile.
+
+####Workshops - Why is a workshop good for the community?
 - it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
 - it makes people collaborate to solve concrete problems
 - it makes people feel empowered when facing again at issues in their everyday life
@@ -85,16 +94,6 @@ Why is a workshop good for you?
 - people might share their experience creating a natural amplification channel for the communication of the project
 
 ######*(see "How can I make a workshop happen?" chapter for more details)*
-
-
-####tips and tricks
-
-Every person who has an interest in, or who could be affected by, the issues under discussion must be encouraged to take part.
-Be clear at the start about what changes your project can or cannot promise and be clear about the mechanisms of the decision-making processes
-Be sure you give people as much information as possible and explain where information is missing or is uncertain.
-Show respect for diverse views and cultures by making sure that minority views are taken on board. This is your opportunity to build trust by being courteous,empathic and helpful.
-Use existing channels to make sure that you report back to all interested people as fully and as quickly as possible.
-Put final decisions into action as soon as possible. This will strengthen participants’ belief that their involvement was worthwhile.
 
 
 ~~Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:~~
