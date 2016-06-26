@@ -146,7 +146,8 @@ Last but not least, we had a meeting with the community named Social Street San 
 
 ###Keeping in touch
 
-
+Keep the interest alive // NEWSLETTER - BLOGPOSTS
+*make the community interested and involved, give them updates and make them feel valuable (explain how we involve/engage people and why, for example: local communities > awareness > newsletter)*
 
 
 
