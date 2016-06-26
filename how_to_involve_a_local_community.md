@@ -69,18 +69,16 @@ In OpenCare project the goals is to involve citizens in co-design sessions to en
 
 ### Methodology - How involve citizens in a participatory process?
 
-You should not use technical language or too difficult. Express yourself in an easy way. The presentation should be short and possibly not frontal. Then you should sit down with the people and talk to them and verify that they have understood what you have said. We recommend using storytelling and bringing them solutions that can be touched to facilitate communication and to encourage an empathetic approach.
-
-The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
-
-####tips and tricks
+You should not use technical language or too difficult. Express yourself in a simple way. Within citizen engagement, participation and co-design methods, a usually reported challenge is related to bridging and translating professional and technical terminology into a language that can be easily understood and that people can connect to their daily lives and problems.  The presentation should be short and possibly not frontal. Then you should sit down with the people and talk to them and verify that they have understood what you have said. We recommend using storytelling and bringing them solutions that can be touched to facilitate communication and to encourage an empathetic approach.
 
 Every person who has an interest in, or who could be affected by, the issues under discussion must be encouraged to take part.
-Be clear at the start about what changes your project can or cannot promise and be clear about the mechanisms of the decision-making processes
+Be clear at the start about what changes your project can or cannot promise and be clear about the mechanisms of the decision-making processes. Especially when a Public Administration try to engage citizens asking them to contribute to a project, it faces the problem to incentivize them with concrete benefits in exchange for their time, effort or behavioural change, signing a sort of implicit “pact”.
 Be sure you give people as much information as possible and explain where information is missing or is uncertain.
 Show respect for diverse views and cultures by making sure that minority views are taken on board. This is your opportunity to build trust by being courteous,empathic and helpful.
 Use existing channels to make sure that you report back to all interested people as fully and as quickly as possible.
 Put final decisions into action as soon as possible. This will strengthen participants’ belief that their involvement was worthwhile.
+
+The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
 
 ####Workshops - Why is a workshop good for the community?
 - it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
@@ -103,7 +101,7 @@ Here, there is a list of all the **meetings/workshops/events** that we holded wi
 
 ![](http://wemake.cc/core/uploads/2016/04/OC-Opencare_incontri_mare-e1465658354542.png)
 
-The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance. It took place at Circolo ARCI Olmi, via degli Ulivi 2, Milan. The event is  organized by WeMake and Municipality of Milan in collaboration with [Mare Culturale Urbano](http://maremilano.org).
+The first public meeting of **opencare** project with a local community of **elderly people**, interested in Balera dance was a dancing evening
 
 **2. Villa Pallavicini - March 17th, 2016** // meeting
 
