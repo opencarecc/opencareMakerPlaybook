@@ -183,7 +183,7 @@ The aim of this core section is to give you information and proper knowledge in 
 Please, always keep in mind that collaborative design is not an **exact science**, and that every single element may vary depending on a number of factors. Take this as an **inspiration tool**, as a starting point, and then **jump** into the discipline, start testing, experiment, fail and then try again. Only in this way you will find the proper way to accomplish your real goals.
 And remember: **have fun**!
 
-___
+_ _ _
 
 ####- Pay attention to the context // VARIETY - TONE OF VOICE - LANGUAGE
 *think about the community you are involving (nota bene...)*
