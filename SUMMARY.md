@@ -10,7 +10,7 @@
 * [What is the most effective way to document a project? Moushira](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
 * [References](references.md)
-* [test chapter](test.md)
+* [test chapter](testmd.md)
    * [article1](article1.md)
        * [article1.1](article11.md)
        * [article1.2](article12.md)
