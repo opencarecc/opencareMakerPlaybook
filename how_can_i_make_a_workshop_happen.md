@@ -46,5 +46,3 @@ you use a technology or technique to come up with ideas
 ?
 ## Innovation workshop
 ?
-
-[link](#How-can-I-make-a-workshop-happen?-[Alessandro])
