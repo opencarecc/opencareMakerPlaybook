@@ -203,6 +203,15 @@ If you are willing to involve people in an activity that partly violates their *
 Lastly, consider the possibility of having a **various audience**. In this case you will have to adjust the tone of voice and activities in order to make every participant at the same level (if this is your aim, obviously). Remember that the aim of the collaborative design activity that you are structuring has to **be clear** to every single attendee, therefore your explanations will have to be structured in order to be understood by all of them.
 
 - **In other words**
+
+// **Modulate** your tone of voice according to your audience
+
+// Make the aim and structure of the activity **clear** and** understandable**
+
+// Pay attention to the **privacy** of participants and sensibility of the topic
+
+// Evaluate the **variety **of the participants and shape your tone of voice accordingly
+
 - **opencare experience**
 
 ---
