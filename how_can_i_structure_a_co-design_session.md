@@ -176,7 +176,7 @@ Below you are going to find 9 tips, each one is structured as it follows:
 
 - **Description** (explanation of the rule)
 
-- **Please note** (specific elements and topics that you need to pay attention to)
+- **In other words** (summarized elements and topics that you need to pay attention to)
 - **opencare experience** (tip applied to our real experience in the **opencare** project, with pictures and comments related to the topic)
 
 The aim of this core section is to give you information and proper knowledge in order to **get familiar** with the **strategic design **and emphatic activities.
@@ -202,7 +202,7 @@ If you are willing to involve people in an activity that partly violates their *
 
 Lastly, consider the possibility of having a **various audience**. In this case you will have to adjust the tone of voice and activities in order to make every participant at the same level (if this is your aim, obviously). Remember that the aim of the collaborative design activity that you are structuring has to **be clear** to every single attendee, therefore your explanations will have to be structured in order to be understood by all of them.
 
-- **Please note**
+- **In other words**
 - **opencare experience**
 
 ---
