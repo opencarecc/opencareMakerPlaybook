@@ -1,4 +1,4 @@
 # test test
 
-[vai](link to #article2)
+[vai](#article2)
 
