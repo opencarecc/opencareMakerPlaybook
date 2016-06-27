@@ -1,7 +1,5 @@
 # How can I make a workshop happen? [Alessandro]
 
-[link to material](#Material)
-
 A hands-on workshop is usually a very good way to engage local communities and to find people interested in the project.
 However organizing a workshop is also usually time intensive and requires a lot of effort in terms of research, planning, logistics and communication.
 
