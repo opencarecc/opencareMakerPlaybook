@@ -216,11 +216,13 @@ Lastly, consider the possibility of having a **various audience**. In this case 
 
 During the definition of our co-design session we had to take into account a number of elements and characteristics that were crucial in order to obtain a successful activity.
 First of all we had to relate with **various communities** and groups of people, characterized by **different ages** and **life experiences**.
-Since we are talking about our local experience, it is important to underline that the main language used was Italian. Some words, however, were written and pronounced in English (first of all the title of the project: opencare). This was one of the main obstacles that we encountered, because some participants didn’t know the language, therefore they had problems with understanding the meaning.
-Another obstacle was related to the complexity of terms that are daily used in fablab/makerspace environments, but rarely in common situations.
-In order to fix this problem on the one hand we simplified the language, on the other hand we organized some meetings and workshop with the aim of making the participants get close to the technologies and techniques relevant for us.
+Since we are talking about our **local experience**, it is important to underline that the main language we used was Italian. Some words, however, were written and pronounced in English (first among everything the title of the project: **opencare**). This was one of the main obstacles that we encountered, because some participants didn’t know the **foreign language**, therefore they had problems with understanding the meaning.
 
-Lastly, privacy has been a pressing issue for us. Since opencare co-design session regarded personal stories related with health and social care, we clearly talked with the communities involved and pointed out that their stories would have been anonymously published on our online platform EdgeRyders, and that we would have recorded the activity itself with microphones and cameras. Those people who agreed signed a paper which stated that they had been informed and that they accepted to share all the generated content.
+Another obstacle was related to the **complexity of terms** that are daily used in fablab/makerspace environments, but rarely in common situations.
+In order to fix this problem on the one hand we **simplified** the language, on the other hand we organized some meetings and workshop with the aim of making the participants **get close **to the technologies and terminologies relevant for us.
+
+Lastly, **privacy** has been a pressing issue for us.
+Since **opencare** co-design session regarded personal stories related with **health** and **social care**, we clearly talked with the communities involved and pointed out that their stories would have been anonymously published on our online platform EdgeRyders, and that we would have recorded the activity itself with microphones and cameras. Those people who agreed signed a paper which stated that they had been informed and that they accepted to share all the generated content.
 In this way we managed to protect both parties.
 
 (picture of the privacy paper)
