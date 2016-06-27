@@ -320,24 +320,24 @@ After choosing all these **key factors**, keep in mind that a pipeline will be m
 
 - **In other words**
 
-// Define who you want to get more in touch with
-// Decide which kind of informations do you want to spread 
-// Choose in which channels do you want to share your infos
-// Schedule a pipeline of the content releases. 
+// Define **who** you want to get more in touch with
+// Decide which kind of **informations** do you want to spread 
+// Choose in which **channels** do you want to share your infos
+// **Schedule** a pipeline of the content releases. 
 
 - **opencare experience**
 
-Since the beginning of our co-design experience, we have had to create a solid online strategy. We had to design and adapt all the contents, from time to time, to new channels according to the different phases of the co-design. In these last six months of activities we moved through two main parallel directions, one based on the engagement and the other one based on the aim to provide a basic knowledge about opencare project. 
+Since the beginning of our co-design experience, we have had to create a **solid online strategy**. Not only to involve the current online communities but even for bringing new local communities into it. We had to design and adapt all the contents, from time to time, to new channels according to the different phases of the co-design. In these last six months of activities we moved through two main parallel directions, one based on the **engagement** and the other one based on the aim to provide a **basic knowledge** about **opencare** project. 
 
-So, first of all, we engaged people by means of invitations and general posts shared on social networks (Facebook, Twitter, Google+ and YouTube), emails and our blog. 
+So, first of all, we engaged people by means of **invitations** and **general posts** shared on social networks (Facebook, Twitter, Google+ and YouTube), emails and our **blog**. 
 
 (picture “OC-blogpost”)
 
-Then we found out that an appropriate basic knowledge was necessary in order to have an efficient co-design with citizens, so we started to revise and re-design the opencare website and its landing page. 
+Then we found out that an appropriate **basic knowledge** was necessary in order to have an efficient co-design with citizens, so we started to revise and re-design the **opencare website** and its **landing page**. 
 
 (picture “OC-landingpage-01/02”)
 
-But that is far from enough, we started sending a newsletter about some projects that might be useful for gaining a first approach and a better understanding of the wide world of opens ource products and services for care. In these newsletters we used colloquials words and expressions in a three-questions template. This because, since our “target” was mainly composed by “no-tinkerer people”, we wanted to make those projects as more comprehensible as possible to them. We wanted to arouse curiosity but at the same time we wanted to make people feel valuable. At the end of the newsletter we always put our contacts, and sometimes the invitation for a specific event (the two co-design sessions, some other workshops, exc).
+But that is far from enough, we started sending a **newsletter** about some projects that might be useful for gaining a **first approach** and a **better understanding** of the wide world of open source products and services for care. In these newsletters we used colloquial words and expressions in a *three-questions template*. This because, since our “target” was mainly composed by “no-tinkerer people”, we wanted to make those projects as more comprehensible as possible to them. We wanted to **arouse curiosity** but at the same time we wanted to **make people feel valuable**. At the end of the newsletter we always put our *contacts*, and sometimes the invitation for a specific event (the two co-design sessions, some other workshops, exc).
 
 (picture “OC-newsletter”)
 
