@@ -228,11 +228,14 @@ In this way we managed to protect both parties.
 (picture of the privacy paper)
 
 ---
-- Point out the desired outcomes // GOALS
+####- Point out the desired outcomes // GOALS
+* **Description**
+
 *try to understand clearly your goals and what you want to achieve* 
 
 (add situations/aims of Design Probes: find new ways to differentiate a product from competitors' inventions, develop new solutions, implement a project, experiment, learn and stimulate creativity - participation, inspiration, information, dialogue)
 
+---
 - Define the elements/features // MODERATOR ROLES DATES
 *establish the length, the number of sessions, the place, exc (nota bene...)*
 
