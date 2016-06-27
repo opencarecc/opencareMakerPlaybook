@@ -303,16 +303,16 @@ Here some examples of the current *online* channels:
 * Social networks: like “Facebook”, “Twitter”, “Google+”, “YouTube”, “Instagram” and so on. They are all different, but all of them lead to the same purpose which is to make a **large number of people** (even with different age) aware about some **imminent topics**. They must be updated continuously. 
 * **Newsletter**: it can have different goals, like sending some discounts, updates, invitations to an event, exc. Be careful! It requires a *mailing list* and it must contain an interesting and winsome topic, otherwise it will be considered as **spam** and binned immediately. 
 * **Blog**: it allows people to have an unfading **database** of informations and past events. It can be like a *diary* or a list of occurrences. There should be the possibility to leave a **comment** in order to allow people to start a discussion about a specific topic. It must be tidy, in other words, the staff must pay meticulous attention to organize all the posts and stories, they should be divided into categories by tags, dates, places, actors, keywords, exc. 
-* **Forum**: as all the other online channels explained above, also the forum requires continuous maintenance. Maybe more than the other ones. It allows people to discuss about various topics, but still it is a perfect place to make questions and receive replies from both experts and principiants. This last point may be considered both a pros and cons, since the forum visitor can reach the accurate information required. It must have, especially at the beginning, some “moderators” who have to manage and oversee all the discussions. 
+* **Forum**: as all the other online channels explained above, also the forum requires continuous *maintenance*. Maybe more than the other ones. It allows people to *discuss* about various topics, but still it is a perfect place to make **questions** and receive **replies** from both experts and principiants. This last point may be considered both a pros and cons, since the forum visitor can reach the accurate information required. It must have, especially at the beginning, some “**moderators**” who have to manage and oversee all the discussions. 
 
 Try to answer to the following questions, they may give you the starting point useful to define your best online strategy:
 
-* Which kind of informations do I want to spread?
-* Who do I want to contact/inform/invite/...?
-* Which is the best channel for my target?
-* Does Facebook fulfill my purposes?
-* What Google+ can bring to my project? 
-* Exc
+* Which kind of **informations** do I want to spread?
+* **Who** do I want to contact/inform/invite/...?
+* Which is the **best channel** for my "target"?
+* Does (Facebook) **fulfill** my purposes?
+* How (Google+) can **contribute** to my project? 
+* exc.
 
 After choosing all these **key factors**, keep in mind that a pipeline will be more than appreciated. It is almost necessary to organize the releases in a strict **schedule** since it will make your staff able to define the roles and the timelines, who does what and when. It is a bit a time consuming at the beginning, but it will avoid further wasting time. Trust us, it is very helpful!
 
