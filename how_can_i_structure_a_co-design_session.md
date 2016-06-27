@@ -189,7 +189,7 @@ _ _ _
 - **Description**
 
 One of the first things that you need to understand is the **type of community** that you are involving or willing to involve.
-###### (In order to understand how to involve a local community, please check the chapter “How to involve citizens in a local community?”)
+###### In order to understand how to involve a local community, please check the chapter “How to involve citizens in a local community?”
 If you decided to structure a co-design session it means that you have an aim, a strong reason; whether you are trying to **gather information** about a specific topic, or you are willing to **improve** the characteristics of your product/service with the help of your customers, or again you want to find an **innovative solution** to an identified problem, you need to **involve** a community of people.
 Understanding your community is one of the first fundamental steps, because according to it you will have to **shape your tone of voice**.
 
@@ -201,6 +201,9 @@ Another element you need to be careful about is the **delicacy** of the topic yo
 If you are willing to involve people in an activity that partly violates their **privacy**, or that regards personal information, you need to let them know in advance and we suggest you to be careful about the terms/activities you may want to use. It is important to protect them first, and then yourself, by being transparent with them about the use of the data and about sensitive information.
 
 Lastly, consider the possibility of having a **various audience**. In this case you will have to adjust the tone of voice and activities in order to make every participant at the same level (if this is your aim, obviously). Remember that the aim of the collaborative design activity that you are structuring has to **be clear** to every single attendee, therefore your explanations will have to be structured in order to be understood by all of them.
+
+- **Please note**
+- **opencare experience**
 
 ---
 - Point out the desired outcomes // GOALS
