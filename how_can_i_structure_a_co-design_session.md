@@ -305,7 +305,7 @@ Here some examples of the current *online* channels:
 * **Blog**: it allows people to have an unfading **database** of informations and past events. It can be like a *diary* or a list of occurrences. There should be the possibility to leave a **comment** in order to allow people to start a discussion about a specific topic. It must be tidy, in other words, the staff must pay meticulous attention to organize all the posts and stories, they should be divided into categories by tags, dates, places, actors, keywords, exc. 
 * **Forum**: as all the other online channels explained above, also the forum requires continuous *maintenance*. Maybe more than the other ones. It allows people to *discuss* about various topics, but still it is a perfect place to make **questions** and receive **replies** from both experts and principiants. This last point may be considered both a pros and cons, since the forum visitor can reach the accurate information required. It must have, especially at the beginning, some “**moderators**” who have to manage and oversee all the discussions. 
 
-Try to answer to the following questions, they may give you the starting point useful to define your best online strategy:
+Try to answer to the following questions, they may give you the starting point which are useful to define your best online strategy:
 
 * Which kind of **informations** do I want to spread?
 * **Who** do I want to contact/inform/invite/...?
