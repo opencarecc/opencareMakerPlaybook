@@ -37,9 +37,16 @@ Below are samples of hardware opensource community oriented projects that share 
 So, Microslicer is a very small laser cutter, that is fully opensource. It is developed by one person, who shared his experience in details in an [instructabels post](http://www.instructables.com/id/The-MicroSlice-V2-Aurum-A-gold-mini-laser-cutter-e/):
 
 1. First, the initial lead part of the post, makes it clear, in a glance what this project is about
+![](microslicer_Lead.jpg)
+
+2. The Bill of materials is very detailed and supported by images and links to where to buy from.
+
+3. Details.  Everything is super detailed, even a tiny detail such as how to color your parts without making a mess.
 
 
-2. The Bill of materials is very detailed and supported by images and links to where to buy from
+4. Details are important, and things could get tricky if you are explaining something like circuity and you want to make it newbie friendly.  
+5. ![](Wiring.jpg)
+Well, the target of documentation here is not to give an intro to electricity. When you document your hardware project, the target is to make things as clear and as legible as possible for other to follow the logic and become able to replicate it. Use images and easy plug and play techniques, AND, use advanced schematic wiring, for those who are able to dig more.
 
 
 #### Piccola
