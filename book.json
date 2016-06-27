@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "comment",
-        "anchors-wrapper"
+        "comment"
     ],
     "pluginsConfig": {}
 }
