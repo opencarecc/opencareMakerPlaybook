@@ -105,7 +105,7 @@ During the last **six months** we organized and divided our **timetable** into f
 
 During this first step, we did a lot of research at the same time both online and offline. On one hand, we searched for the most popular **methodologies** and **strategies** used and known in **co-design discipline**, in order to build a general background material and information about what is alredy done and what can be customized for our specific experience; on the other hand we organized, thanks also to the **Municipality of Milan**, a lot of **meetings, workshops **and **events** in order to engage and reach many *qualitative* people as possibile. It gave us the possibilty have face-to-face meetings and to get in touch with different kind of **citizens** and their **communities**.
 
-######*(see "How to involve a local community" chapter for more details)*
+######*(see "How to involve citizen in a local community" chapter for more details)*
 
 
 
