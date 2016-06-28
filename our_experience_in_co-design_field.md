@@ -13,7 +13,7 @@ How are we going to face them? Easy, by using a so-called **strategic design** a
 
 During the last **six months** we organized and divided our **timetable** into four main phases: 
 
-1. **[Inspiration](Our_experience_in_co-design_filed.md#//_inspiration-phase)** phase; 
+1. **[Inspiration](Our_experience_in_co-design_filed.md#//-inspiration-phase)** phase; 
 2. **Ideation** phase;
 3. **Implementation** phase;
 4. **Recognition** phase. 
