@@ -68,7 +68,11 @@ Finding out how many coaches are needed for a workshop is not an easy job. It mi
 |-|
 |**In our experience with workshops we have found out that a coach alone can hardly deal with more than 10-12 participants when they are working in groups in hands-on session**. A different story is a lecture-style front-of-the-classroom kind of session, where one coach can deal with a larger number of participants (and the discriminating factor tends more towards the availability of the right technology to reach them all rather than the ability to fix their own peculiar issues)|
 
-where to find them?
+Where can you find coaches? Sometimes it might feel hard to find specialized people willing to share what they know, mostly when you don't have a big budget to hire freelance professionals. It is also true that this could compromise the pace of the project, and becoming a turn-down in the people involved. There are some tips that can help you overcome the problem.
+
+|TIPS|
+|-|
+|**The first place to start looking for coaches is probably always your community** - if people in your community got interested in the project it's very likely that they work in field that has some connections, or they started to learn on their own, or maybe they know someone in the field.|
 
 professionals VS academics
 hands-on approach
