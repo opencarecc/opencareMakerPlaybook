@@ -78,6 +78,11 @@ These are the kind of questions you should ask yourself when setting up a worksh
 
 ***Professionals VS academics -*** Never assume you need academics to teach technology. Professionals hold a huge amount of on-the-field knowledge and sometimes they might show a better versatility, practicality, and easier language and approach to non-experienced participants.
 
+|TIPS|
+|-|
+|It is very common to face rejection when asking professionals to teach something. They think they are not able to do it and no one made them think they are, because they didn't properly study for that. Ask them to tell you in precise details about something they do in their work everyday, or about something special that they have solved at work. When they are finished tell them you have just learned something new! They are ready to teach!|
+
+
 hands-on approach
 be respectful
 ### Communication
