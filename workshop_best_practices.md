@@ -49,7 +49,7 @@ In case access to the Internet is fundamental to run the workshop (say for insta
 
 
 ### Material
-The kind of material you might need to run your workshop can vary a lot depending on the topic and the methodology. One thing is for sure, **access to the right material is fundamental for a successfull workshop**.
+The kind of material you might need to run your workshop can vary a lot depending on the topic and the methodology. One thing is for sure, **access to the right material is fundamental for a successfull workshop**. Not providing participants with the right materials and tools will leave them feeling powerless and might highly compromise their learning process or creative flow.
 
 |TIPS|
 |-|
