@@ -5,10 +5,8 @@ However organizing a workshop is also usually time intensive and requires a lot 
 
 There are many different kinds of workshops you can offer to the community, but mostly they can be grouped in four main categories:
 - [Educational workshop](workshop_categories.md#educational-workshop)
-- [Ideation workshop](#Ideation-workshop)
-- [Experiential workshop](#Experiential-workshop)
-- [Innovation workshop](#Innovation-workshop)
-
-[Educational workshop](workshop_categories.md#educational-workshop)
+- [Ideation workshop](workshop_categories.md#Ideation-workshop)
+- [Experiential workshop](workshop_categories.md#Experiential-workshop)
+- [Innovation workshop](workshop_categories.md#Innovation-workshop)
 
 Workshops can be approached in different ways according to the category they belong to, but there are common issues that we can cover and analyze separately. A compendium of best practices has been collected to make your life easier!
