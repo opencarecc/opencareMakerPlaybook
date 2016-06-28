@@ -37,8 +37,7 @@ In the end, in order to sum up all the contents mentioned above, we will provide
 
 ---
 
-- Have fun but don't lose the focus // REWARD - BREAK - RELAXED ATMOSPHERE
-*make the participants feel comfortable, offer them some rewards for their efforts and involvement (in very step of the session - presentation, team work, break), but be sure to reach your goals (nota bene... be not repetitive, exc)*
+
 
 - Keep the interest alive II // FEEDBACKS - UPDATES
 *once you get the involvement of the community you should do your best to keep them involved even after the session (show them the results of the sessions).* Explain our situation, our transparency in the selection process.
