@@ -10,6 +10,7 @@ Please find here quick links to the most common issues:
 
 ### Space
 There is no right or wrong space for a workshop, and usually a space can be finetuned to meet diverse needs. One thing for sure, **it's very important to make participants feel comfortable and give them a warm welcome**.
+You can use the space in many different ways according to the topic and the methodologies of your workshop. In general when setting up hardware prototyping, digital fabrication and design workshops we have found these practices very helpful:
 
 *Showing digital content -* if you are planning to project slides and/or show digital content, be sure you have access to a projector and the correct cables and adapters (if words like VGA, DVI, HDMI, DisplayPort are unknown to you, then you might need to check this list [https://en.wikipedia.org/wiki/List_of_video_connectors](https://en.wikipedia.org/wiki/List_of_video_connectors)).
 
