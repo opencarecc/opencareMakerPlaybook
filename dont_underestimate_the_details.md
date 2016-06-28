@@ -1,7 +1,8 @@
 # Don’t underestimate the details
 
-// COORDINATION - DAY SCHEDULE - APPS
-- **Description**
+COORDINATION - DAY SCHEDULE - APPS
+
+#### **// Description**
 
 As you can see in the previous tips, a **coordinated team** is mandatory during each co-design phase. The team must always to be able to communicate in the easier and most effective way. Moreover, the current design approach is requiring more and more kind of collaborations between people from different cities and/or even countries, and a **tidy coordination** would be a great help. 
 
@@ -9,19 +10,19 @@ There are a lot of **digital applications** that enable all the team members to 
 
 So, try to not be afraid about these “innovative” apps that use up your *gigabytes*, infact they are designed for helping you in not underestimate the details of an entire project. Search for the best one for you, try and test it with your project managers and then share it with the rest of the team. You should trust in these apps. But if you prefer mostly the traditional tools, we recommend you to take a piece of paper and write down the classical “**To do list**” (explaining who-when-how) in order to not forget anything. 
 
-- **In other words**
+#### **// In other words**
 
-// Look for **new tools** that help you in organizing your and others’ work
+* Look for **new tools** that help you in organizing your and others’ work
 
-// **Try and test** these apps with your project managers and then **share** them with all the team
+* **Try and test** these apps with your project managers and then **share** them with all the team
 
-// Make the **communication** and the **collaboration** between all your team members easy and effective
+* Make the **communication** and the **collaboration** between all your team members easy and effective
 
-// Write down all the **tasks and roles** of a specific project, dividing them in a **timetable**
+* Write down all the **tasks and roles** of a specific project, dividing them in a **timetable**
 
-// Handle and hold the team as more **coordinated** as possible.
+* Handle and hold the team as more **coordinated** as possible.
 
-- **opencare experience**
+#### **// opencare experience**
 
 In our experience, we have tested and used a lot of applications, mainly both for smartphone and laptop. Here there is a **list of some tools** that we are still using, keep in mind that it is not a promotion work, it is just a sharing of our successes and failures: 
 
