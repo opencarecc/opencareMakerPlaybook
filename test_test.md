@@ -1,4 +1,4 @@
 # test test
 
-[vai](#article2)
+[vai](../test-chapter/article2.md#this-is-my-h1)
 
