@@ -64,11 +64,7 @@ Rishalaser is an opensource laser cutter that works via mobile.  Their website i
 #### Ultimaker?
 Well, even complex project that have now gone commercial do have a clear and detailed documentation of their opensource 
 
-//add notes on microslicer
-//add notes on Piccola.cc 
-//add notes on rishalaser?
-//notes on https://www.wevolver.com/home
-//notes on commenting in code
+
 
 
 
