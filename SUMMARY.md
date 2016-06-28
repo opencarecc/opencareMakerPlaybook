@@ -21,7 +21,7 @@
        * [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md)
        * [Have fun but don't lose the focus](have_fun_but_dont_lose_the_focus.md)
        * [Keep the interest alive II](keep_the_interest_alive_ii.md)
-   * [Overview / Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md)
+   * [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md)
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
