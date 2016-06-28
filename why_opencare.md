@@ -20,8 +20,17 @@ More info: opencare.cc
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670
 
+## How the maker movement is transforming care 
 
-## Where does the idea come from?
+bla bla bla
+
+## Ezio Manzini about *opencare* project
+
+
+blablablablal
+
+
+### Where does the idea come from?
 *Premise [by Manzini]*
 
 Since the beginning of human history, care has been exchanged (given and received) inside homogeneous, durable and relatively closed groups of individuals: families, clans, village communities, urban neighborhoods...
@@ -39,7 +48,7 @@ To overcome this crisis a brand new care systems has to be imagined and enhanced
 
 **[Ale] I would also briefly add more details on how the project actually started, that the idea came out at LOTE and how the partners got together**
 
-## What is care?
+### What is care?
 Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
 [by Manzini]
 1. 
@@ -47,7 +56,7 @@ Aside from being a word that we use regularly, the meaning of "care" might have 
 2. 
 *Care referred to a set of artifacts*: the products and services of the system which, in a given time and place, enables the care activities (i.e. the care interaction of the point 1).
 
-## What is open?
+### What is open?
 *Open source, open data, open knowledge, open mind...* What exactly is the meaning of "open" in the contemporary world?
 
 A succinct summary from the *Open Definition* website ([http://opendefinition.org/](http://opendefinition.org/)):
@@ -65,7 +74,7 @@ A.
 B.
 *Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
 
-## What is *opencare* then?
+### What is *opencare* then?
 [by Manzini]
 Considering the different meanings of “care” and “open” there is a clear correlation between 1 and A, and between 2 and B:
 * 
@@ -76,7 +85,7 @@ B2.
 *Open care refers to the design/production process.* That is, it refers to the characteristics of a co-design and co-production process: the process leading to the realization of the products and services on which an aimed care system is based.
 
 
-## How the maker movement is transforming care 
+
 
 
 
