@@ -1,4 +1,4 @@
-# 1) Pay attention to the context
+# Pay attention to the context
 
 // VARIETY - TONE OF VOICE - LANGUAGE
 - **Description**
