@@ -22,8 +22,14 @@ You can use the space in many different ways according to the topic and the meth
 |Last but not least, always try to be sure **the ratio between the brightness of the projector and the amount of light in the space is good enough so that everyone can see what you are projecting**. If your space is indoor and you can block sunlight with curtains, then you can probably rely on a cheap projector. If you are planning to project outdoor in the sunlight you might probably need a professional projector. *Please refer to this brief overview to understand more about ANSI lumens, the unit that measures your projector light output power [https://en.wikipedia.org/wiki/Video_projector#Overview](https://en.wikipedia.org/wiki/Video_projector#Overview)*| 
 
 
-*Sitting VS standing -*
-plan to have enough tables and chairs if the participants will need some kind of support plane to work on.
+***Sitting VS standing -***
+Plan in advance to have enough tables and chairs if the participants will need some kind of support plane to work on.
+
+Also, if your workshop requires participants to stand up it's still a good idea to have some chairs in case it last long or you have someone in the crowd who cannot stand up for long.
+
+|TIPS|
+|-|
+|If you are setting up a workshop where participants will work with hardware it's a good idea to have big tables and to reserve at least one square meter to any of the participants if they are working on their own, or bigger if they are working in groups.|
 
 *Computers -*
 power plugs, extension cords and multi-outlets are a must need when participants need to use laptops or powered devices without batteries. Rule of thumb here is "always bring one more"!
