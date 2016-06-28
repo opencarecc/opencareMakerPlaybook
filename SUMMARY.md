@@ -12,8 +12,8 @@
 * [References](references.md)
 * [test chapter](testmd.md)
    * [article1](article1.md)
+       * [article1.1](article11.md)
        * [article1.2](article12.md)
-   * [article1.1](article11.md)
    * [article2](article2.md)
    * [test test](test_test.md)
 
