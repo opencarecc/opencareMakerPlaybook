@@ -15,7 +15,7 @@ During the last **six months** we organized and divided our **timetable** into f
 
 1. **[Inspiration](Our_experience_in_co-design_filed.md#inspiration-phase)** phase; 
 2. **[Ideation](Our_experience_in_co-design_filed.md#ideation-phase)** phase;
-3. **Implementation** phase;
+3. **[Implementation](Our_experience_in_co-design_filed.md#implementation-phase)** phase;
 4. **Recognition** phase. 
 
 ####// Inspiration phase
