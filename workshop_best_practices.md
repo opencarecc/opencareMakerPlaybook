@@ -91,6 +91,14 @@ These are the kind of questions you should ask yourself when setting up a worksh
 |let the theory comes naturally after the practical has been solved and understood and agreed upon from the class|
 |**sometimes it might be helpful to run a workshop for coaches on how to coach the workshop**, so that the communication with participants or group of participants will be coherent and anyone will follow a similar workshop flow|
 
-be respectful
+
+***Be respectful -*** It sounds obvious but it's not always the case, asking coaches to share the project vision is important as it is important for any of them to be highly respectful of diversity of all the human being involved in the workshop. Discrimination of any kind (gender, sexual orientation, religion, geographical and social background...) must always be out of the door. When this is not respected, apart from being hard to deal with personally and as a group, it will highly compromise the session itself, from a perspective of personal growth and cohesiveness of the group too.
+
+|TIPS|
+|-|
+|You never entirely know the story of your participants, please avoid stupid jokes. You might hurt someone|
+|If you only think it could be necessary or helpful then make it clear with the rest of the coaches and establish shared guidelines|
+|Make this clear with the participants too by saying in the beginning of the session that this is a discrimination-free area|
+
 ### Communication
 
