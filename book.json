@@ -8,7 +8,7 @@
         "icon": "§",
         "placement": "left",
         "visible": "always",
-        "class": "custom-class another-one"
+        "class": "anchorjs-link"
       }
     }
 }
