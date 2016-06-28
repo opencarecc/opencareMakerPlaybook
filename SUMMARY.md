@@ -14,6 +14,7 @@
        * [Pay attention to the context](pay_attention_to_the_context.md)
        * [Point out the desired outcomes](point_out_the_desired_outcomes.md)
        * [Define the elements/features](define_the_elementsfeatures.md)
+       * Find the right tools
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
