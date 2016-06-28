@@ -26,24 +26,6 @@ Each Tip will be divided in two: a general/theoretical description and a practic
 In the end, in order to sum up all the contents mentioned above, we will provide a **Survival table of contents for a co-design session**, based on our **opencare** experience.
 
 
-
----
-
-
----
-
-
-
-
----
-
-
-
-- Keep the interest alive II // FEEDBACKS - UPDATES
-*once you get the involvement of the community you should do your best to keep them involved even after the session (show them the results of the sessions).* Explain our situation, our transparency in the selection process.
-
----
-
 ### Overview / Survival table of contents for a co-design session
 
 |   |   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
