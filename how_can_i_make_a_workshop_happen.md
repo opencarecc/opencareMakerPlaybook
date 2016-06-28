@@ -14,11 +14,12 @@ Workshops can be approached in different ways according to the category they bel
 There is no right or wrong space for a workshop, and usually a space can be adjusted to meet diverse needs. One thing for sure, it's very important to make participants feel comfortable and give them a warm welcome.
 
 *Showing digital content:* if you are planning to project slides and/or show digital content, be sure you have access to a projector and the correct cables and adapters (if words like VGA, DVI, HDMI, DisplayPort are unknown to you, then you might need to check this list [https://en.wikipedia.org/wiki/List_of_video_connectors](https://en.wikipedia.org/wiki/List_of_video_connectors)).
-A couple of tips:
-
-* prepare the material you want to show in a file format that is widely available and easily sharable. This is important in case you are not able to use your computer and you might need to use another machine to project your content.  
-* As far as it may sound silly, it's always a good idea to find a good surface (preferably plain and white) to project to, the size of it being big enough so that everyone in the room can see/read
-* Last but not least, always try to be sure the ratio between the brightness of the projector and the amount of light in the space is good enough so that everyone can see what you are projecting 
+|Tips:|
+|-----|
+|prepare the material you want to show in a file format that is widely available and easily sharable. This is important in case you are not able to use your computer and you might need to use another machine to project your content.|
+|
+As far as it may sound silly, it's always a good idea to find a good surface (preferably plain and white) to project to, the size of it being big enough so that everyone in the room can see/read|
+|Last but not least, always try to be sure the ratio between the brightness of the projector and the amount of light in the space is good enough so that everyone can see what you are projecting| 
 
 
 *Sitting VS standing:*
