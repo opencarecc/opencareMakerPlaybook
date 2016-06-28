@@ -16,6 +16,7 @@
        * [Define the elements/features](define_the_elementsfeatures.md)
        * [Find the right tools](find_the_right_tools.md)
        * [Keep the interest alive](keep_the_interest_alive.md)
+       * Don’t underestimate the details
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
