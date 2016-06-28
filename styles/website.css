@@ -5,7 +5,7 @@
 
 .anchorjs-link {
   transition: all .25s linear;
-  color: #FF5231;
+  color: #FF5231!important;
 }
 .anchorjs-link:hover {
   color: #2500AD;
