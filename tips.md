@@ -6,13 +6,14 @@ Below you are going to find 9 tips, each one is structured as it follows:
 
 ---
  
-####Title
-(simple rule-to-follow) // KEYWORDS (regarding the contents)
+####Title *(simple rule-to-follow)*
+KEYWORDS *(regarding the contents)*
 
-- **Description** (explanation of the rule)
+**// Description** *(explanation of the rule)*
 
-- **In other words** (summarized elements and topics that you need to pay attention to)
-- **opencare experience** (tip applied to our real experience in the **opencare** project, with pictures and comments related to the topic)
+**// In other words** *(summarized elements and topics that you need to pay attention to)*
+
+**// opencare experience** *(tip applied to our real experience in the **opencare** project, with pictures and comments related to the topic)*
 
 --- 
 
