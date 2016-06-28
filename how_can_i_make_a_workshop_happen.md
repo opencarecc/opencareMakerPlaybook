@@ -3,7 +3,7 @@
 A hands-on workshop is usually a very good way to engage local communities and to find people interested in the project.
 However organizing a workshop is also usually time intensive and requires a lot of effort in terms of research, planning, logistics and communication.
 
-There are many different kinds of workshops you can offer to the community, but mostly they can be grouped in four main categories:
+There are many different kinds of workshops you can offer to your community, but mostly they can be grouped in four main categories:
 - [Educational workshop](workshop_categories.md#educational-workshop)
 - [Ideation workshop](workshop_categories.md#Ideation-workshop)
 - [Experiential workshop](workshop_categories.md#Experiential-workshop)
