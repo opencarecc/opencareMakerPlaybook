@@ -101,4 +101,4 @@ These are the kind of questions you should ask yourself when setting up a worksh
 |Make this clear with the participants too by saying in the beginning of the session that this is a discrimination-free area|
 
 ### Communication
-
+You are ready to start your workshop, then don't forget to make people know your amazing workshop is taking place!
