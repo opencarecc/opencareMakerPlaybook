@@ -1,7 +1,8 @@
 # Keep the interest alive
 
-// WEBSITE - LANDING PAGE - NEWSLETTER - BLOGPOST
-- **Description**
+WEBSITE - LANDING PAGE - NEWSLETTER - BLOGPOST
+
+#### **// Description**
 
 Once you have defined which kind of **communities** and **people** you are going to **collaborate** with, you are ready to start improving and enhancing the **relation** between your staff and your further participants. Obviously, there are plenty ways to engage and contact people, but keep in mind that the two main strategies, the online and offline one, are complementary since both of them are not totally efficient. One requires the other one and vice versa. In this tip we are going to talk about the **online channels** that we used to get more in touch with people. 
 
@@ -30,17 +31,17 @@ After choosing all these **key factors**, keep in mind that a pipeline will be m
 
 ######*(see “How to involve an online community?” chapter for more details)*
 
-- **In other words**
+#### **// In other words**
 
-// Define **who** you want to get more in touch with
+* Define **who** you want to get more in touch with
 
-// Decide which kind of **informations** do you want to spread 
+* Decide which kind of **informations** do you want to spread 
 
-// Choose in which **channels** do you want to share your infos
+* Choose in which **channels** do you want to share your infos
 
-// **Schedule** a pipeline of the content releases. 
+* **Schedule** a pipeline of the content releases. 
 
-- **opencare experience**
+#### **// opencare experience**
 
 Since the beginning of our co-design experience, we have had to create a **solid online strategy**. Not only to involve the current online communities but even for bringing new local communities into it. We had to design and adapt all the contents, from time to time, to new channels according to the different phases of the co-design. In these last six months of activities we moved through two main parallel directions, one based on the **engagement** and the other one based on the aim to provide a **basic knowledge** about **opencare** project. 
 
