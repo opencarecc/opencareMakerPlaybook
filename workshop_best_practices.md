@@ -12,13 +12,13 @@ Please find here quick links to the most common issues:
 There is no right or wrong space for a workshop, and usually a space can be finetuned to meet diverse needs. One thing for sure, **it's very important to make participants feel comfortable and give them a warm welcome**.
 You can use the space in many different ways according to the topic and the methodologies of your workshop. In general when setting up hardware prototyping, digital fabrication and design workshops we have found these practices very helpful:
 
-*Showing digital content -* if you are planning to project slides and/or show digital content, be sure you have access to a projector and the correct cables and adapters *(if words like VGA, DVI, HDMI, DisplayPort are unknown to you, then you might need to check this list [https://en.wikipedia.org/wiki/List_of_video_connectors](https://en.wikipedia.org/wiki/List_of_video_connectors)).*
+***Showing digital content -*** if you are planning to project slides and/or show digital content, be sure you have access to a projector and the correct cables and adapters *(if words like VGA, DVI, HDMI, DisplayPort are unknown to you, then you might need to check this list before you start [https://en.wikipedia.org/wiki/List_of_video_connectors](https://en.wikipedia.org/wiki/List_of_video_connectors)).*
 
 |TIPS|
 |-----|
-|Prepare the material you want to show in a file format that is widely available and easily sharable. This is important in case you are not able to use your computer and you might need to use another machine to project your content.|
-|As far as it may sound silly, it's always a good idea to find a good surface (preferably plain and white) to project to, the size of it being big enough so that everyone in the room can see/read|
-|Last but not least, always try to be sure the ratio between the brightness of the projector and the amount of light in the space is good enough so that everyone can see what you are projecting| 
+|Prepare the material you want to show in a file format that is widely available and easily sharable. This is important in case you are not able to use your computer and you might need to use another machine to project your content. We have found **PDF files and Google Slides (when internet is available) a good way to avoid file format issues**.|
+|As far as it may sound silly, it's always a good idea to find a good surface (preferably plain and white) to project to, the size of it being big enough so that everyone in the room can see/read. You only find out how disappointing it is to try to follow someone's speech referring to a slide when you can't see it, when you are attending such a workshop, and not when you are running it!|
+|Last but not least, always try to be sure the ratio between the brightness of the projector and the amount of light in the space is good enough so that everyone can see what you are projecting. If your space is indoor | 
 
 
 *Sitting VS standing -*
