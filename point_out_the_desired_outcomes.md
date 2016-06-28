@@ -31,15 +31,15 @@ Therefore try to answer to the following questions in the most detailed way:
 
 These are just some of the possible questions that you may try to answer. Some questions may not be useful in your specific case, some others may be crucial. The most important thing is ending up this phase with a **detailed list of outcomes**.
 
-- **In other words**
+#### **// In other words**
 
-// Ask yourself in detail what kind of **deliverable** you expect obtaining
+* Ask yourself in detail what kind of **deliverable** you expect obtaining
 
-// Write down the **answers** in order to refer to them at any time
+* Write down the **answers** in order to refer to them at any time
 
-// Make a list of your **essential goals**
+* Make a list of your **essential goals**
 
-- **opencare experience**
+#### **// opencare experience**
 
 WeMake’s role inside the opencare project was, and is, mainly related with **collecting experiences** of community-driven care services.
 
