@@ -22,7 +22,6 @@ Therefore try to answer to the following questions in the most detailed way:
 
 * What kind of materials do I necessarily need in order to **proceed with the work** after the session?
 
-
 * Will I need any **visual** material?
 
 * Will I need any **written** material?
