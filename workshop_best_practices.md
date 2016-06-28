@@ -59,5 +59,6 @@ The kind of material you might need to run your workshop can vary a lot dependin
 |**Never underestimate the importance of tools, always bring more tools then you think you might need!** This is highly topic and methodology independent and will save your life when in need of that small screwdriver or micro USB cable or red marker...|
 
 ### Coaches
+
 ### Communication
 
