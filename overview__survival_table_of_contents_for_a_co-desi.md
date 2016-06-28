@@ -1,4 +1,4 @@
-# Overview / Survival table of contents for a co-design session
+# Survival table of contents for a co-design session
 
 
 |   |   | PRE | CO-DESIGN / Day 1 | CO-DESIGN / Day 2 | POST |
