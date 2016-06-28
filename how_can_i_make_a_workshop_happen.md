@@ -9,7 +9,13 @@ There are many different kinds of workshops you can offer to the community, but 
 - Experiential workshop
 - Innovation workshop
 
-Workshops can be approached in different ways according to the category they belong to, but there are common issues and best practices that we can cover and analyze separately:
+Workshops can be approached in different ways according to the category they belong to, but there are common issues that we can cover and analyze separately:
+- space
+- material
+- coaches
+- communication
+
+
 ### Space
 There is no right or wrong space for a workshop, and usually a space can be adjusted to meet diverse needs. One thing for sure, it's very important to make participants feel comfortable and give them a warm welcome.
 
