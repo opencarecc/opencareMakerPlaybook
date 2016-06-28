@@ -48,6 +48,9 @@ Reaching out is the first step towards engaging people. However, you need to ana
 ###Ultimaker (Q&A with Sander)
 ###Rishalaser?
 
+http://enablingthefuture.org/
+(do we have to get in touch with them ?) 
+
 
 ## A visual flow of a project timeline in community cycle  
 
