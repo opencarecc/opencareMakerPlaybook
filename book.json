@@ -1,6 +1,14 @@
 {
     "plugins": [
-        "comment"
+        "comment",
+        "anchorjs"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "anchorjs": {
+        "icon": "§",
+        "placement": "left",
+        "visible": "hover",
+        "class": "anchorjs-link"
+      }
+    }
 }
