@@ -31,14 +31,21 @@ Also, if your workshop requires participants to stand up it's still a good idea 
 |-|
 |If you are setting up a workshop where participants will work with hardware it's a good idea to have big tables and to reserve at least one square meter to any of the participants if they are working on their own, or bigger if they are working in groups.|
 
-*Computers -*
-power plugs, extension cords and multi-outlets are a must need when participants need to use laptops or powered devices without batteries. Rule of thumb here is "always bring one more"!
+***Computers -***
+If you are planning a workshop that will require participants to work on their laptop (very common in technology oriented sessions) don't forget to find a way to provide them with power, you can assume their laptop batteries will last long enough.
 
-*Internet -*
-access to a WiFi network can also be considered a must have (apart from sessions where it is requested to avoid using the Internet, are there any?). In case access to the Internet is fundamental to run the workshop (say for instance you are planning a workshop on Internet of Things tools), then please be sure to be ready with a plan B if the WiFi is not reliable:
-- bring ethernet cables
-- bring an access point you can quickly configure
-- bring a GSM modem for worst case scenarios
+|TIPS|
+|-|
+|Power plugs, extension cords and multi-outlets are a must need when participants need to use laptops or powered devices without batteries. Rule of thumb here is "always bring one more"!|
+
+***Internet -***
+Access to a WiFi network can also be considered a must have (apart from sessions where it is requested to avoid using the Internet, are there any?). 
+
+In case access to the Internet is fundamental to run the workshop (say for instance you are planning a workshop on Internet of Things tools), then please be sure to be ready with a plan B if the WiFi is not reliable.
+
+|TIPS|
+|-|
+|Always be sure to bring: ethernet cables + an access point you can quickly configure + bring a GSM modem for worst case scenarios|
 
 
 ### Material
