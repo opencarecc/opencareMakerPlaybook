@@ -36,7 +36,7 @@ If you are planning a workshop that will require participants to work on their l
 
 |TIPS|
 |-|
-|Power plugs, extension cords and multi-outlets are a must need when participants need to use laptops or powered devices without batteries. Rule of thumb here is "always bring one more"!|
+|Power plugs, extension cords and multi-outlets are a must need when participants need to use laptops or powered devices without batteries. **Rule of thumb here is "always bring one more"!**|
 
 ***Internet -***
 Access to a WiFi network can also be considered a must have (apart from sessions where it is requested to avoid using the Internet, are there any?). 
