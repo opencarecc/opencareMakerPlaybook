@@ -25,27 +25,6 @@ Each Tip will be divided in two: a general/theoretical description and a practic
 
 In the end, in order to sum up all the contents mentioned above, we will provide a **Survival table of contents for a co-design session**, based on our **opencare** experience.
 
-#### 4) Why we decided to organize a co-design session
-
-
-
----
-
-
-
-_ _ _
-
-
----
-
-
----
-
-
----
-
-
---- 
 
 ####- Keep the interest alive // WEBSITE - LANDING PAGE - NEWSLETTER - BLOGPOST
 - **Description**
