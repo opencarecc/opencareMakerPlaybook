@@ -83,13 +83,13 @@ These are the kind of questions you should ask yourself when setting up a worksh
 |It is very common to face rejection when asking professionals to teach something. They think they are not able to do it and no one made them think they are, because they didn't properly study for that. Ask them to tell you in precise details about something they do in their work everyday, or about something special that they have solved at work. When they are finished tell them you have just learned something new! They are ready to teach!|
 
 
-***Hands-on approach -*** Always prefer a hands-on approach versus a more theoretical mnemonic one. It will make people learn faster while facing real problems. It will be more empowering at a personal level. It will make people remember longer because they can relate the learning to a specific context: the space, the tools, the people around them.
+***Hands-on approach -*** Always prefer from coaches a hands-on approach versus a more theoretical mnemonic one. It will make people learn faster while facing real problems. It will be more empowering at a personal level. It will make people remember longer because they can relate the learning to a specific context: the space, the tools, the people around them.
 
 |TIPS|
 |-|
 |structure the workshop so that you space out different moments of learning or creation with practical exercises to solidify the concept and to temporary relax doing something practical|
 |let the theory comes naturally after the practical has been solved and understood and agreed upon from the class|
-|sometimes it might be helpful to run a workshop for coaches on how to coach the workshop, so that the communication with participants or group of participants will be coherent and anyone will follow a similar workshop flow|
+|**sometimes it might be helpful to run a workshop for coaches on how to coach the workshop**, so that the communication with participants or group of participants will be coherent and anyone will follow a similar workshop flow|
 
 be respectful
 ### Communication
