@@ -7,7 +7,7 @@
         "anchorjs": {
         "icon": "§",
         "placement": "left",
-        "visible": "always",
+        "visible": "hover",
         "class": "anchorjs-link"
       }
     }
