@@ -346,7 +346,7 @@ But that is far from enough, we started sending a **newsletter** about some proj
 
 ---
 
-####- Don’t underestimate the details // DAY SCHEDULE
+####- Don’t underestimate the details // COORDINATION - DAY SCHEDULE - APPS
 - **Description**
 
 As you can see in the previous tips, a **coordinated team** is mandatory during each co-design phase. The team must always to be able to communicate in the easier and most effective way. Moreover, the current design approach is requiring more and more kind of collaborations between people from different cities and/or even countries, and a **tidy coordination** would be a great help. 
