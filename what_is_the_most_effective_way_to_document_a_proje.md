@@ -52,7 +52,7 @@ So, Microslicer is a very small laser cutter, that is fully opensource. It is de
 Well, the target of documentation here is not to give an intro to electricity. When you document your hardware project, the target is to make things as clear and as legible as possible for other to follow the logic and become able to replicate it. Use images and easy plug and play techniques, AND, use advanced schematic wiring, for those who are able to dig more.
 
 
-#### Piccola
+#### Piccolo
 Piccola is a tiny wonderful bot that can be used as a drawing bot.  It is made entirely of laser cut parts joined together. The parts are small and it has lots of details, but the clear and detailed documentation makes it easy for other to follow and copy the project.  Lets start by where documentation resides and how it works:
 
 1. The entire website is based on git.
