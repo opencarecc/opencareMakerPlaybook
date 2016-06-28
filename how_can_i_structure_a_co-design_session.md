@@ -383,8 +383,14 @@ Obviously, you have to keep in mind that most of the time not all the registered
 
 ---
 
-- Be clear and complete about the project/meeting/outcomes // CLARITY - OPEN TRANSPARENCY
+####- Be clear and complete about the project/meeting/outcomes // CLARITY - OPEN TRANSPARENCY
+- **Description**
+
 *explain clearly the roles, schedule of activities, project characteristics, goals, and answer in a complete way to every question/doubt of participants*
+
+
+
+---
 
 - Have fun but don't lose the focus // REWARD - BREAK - RELAXED ATMOSPHERE
 *make the participants feel comfortable, offer them some rewards for their efforts and involvement (in very step of the session - presentation, team work, break), but be sure to reach your goals (nota bene... be not repetitive, exc)*
