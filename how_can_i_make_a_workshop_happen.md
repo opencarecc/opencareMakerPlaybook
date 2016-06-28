@@ -9,4 +9,6 @@ There are many different kinds of workshops you can offer to the community, but 
 - [Experiential workshop](#Experiential-workshop)
 - [Innovation workshop](#Innovation-workshop)
 
+[Educational workshop](workshop_categories.md#educational-workshop)
+
 Workshops can be approached in different ways according to the category they belong to, but there are common issues that we can cover and analyze separately. A compendium of best practices has been collected to make your life easier!
