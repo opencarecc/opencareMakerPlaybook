@@ -110,3 +110,6 @@ When communicating your workshop is always a good idea to make clear:
 - how they can sign-up (if it's for free or they have to pay a fee)
 - what they need to bring
 
+|TIPS|
+|-|
+||
