@@ -59,16 +59,16 @@ The kind of material you might need to run your workshop can vary a lot dependin
 |**Never underestimate the importance of tools, always bring more tools then you think you might need!** This is highly topic and methodology independent and will save your life when in need of that small screwdriver or micro USB cable or red marker...|
 
 ### Coaches
-Who's gonna run the workshop? Are you running it? Are you sure you won't need help from someone else when having to jump from participants to participants asking you questions like there's no tomorrow? Are you sure you can deal with the amount of participants attending the workshop?
+***Who's gonna run the workshop? -*** Are you running it? Are you sure you won't need help from someone else when having to jump from participants to participants asking you questions like there's no tomorrow? Are you sure you can deal with the amount of participants attending the workshop?
 These are the kind of questions you should ask yourself when setting up a workshop. They will help you decide the maximum number of participants, and they will make you understand how many coaches are needed to run the workshop successfully.
 
-Finding out how many coaches are needed for a workshop is not an easy job. It might depend on the kind of workshop, on the methodology, and the way you want the participants to feel about the workshop and their learning progress. For instance, [OpenTechSchool](http://www.opentechschool.org/) (an organization offering free coding workshops) always try to have one coach every four participants.
+***How many coaches? -*** Finding out how many coaches are needed for a workshop is not an easy job. It might depend on the kind of workshop, on the methodology, and the way you want the participants to feel about the workshop and their learning progress. For instance, [OpenTechSchool](http://www.opentechschool.org/) (an organization offering free coding workshops) always try to have one coach every four participants.
 
 |TIPS|
 |-|
 |**In our experience with workshops we have found out that a coach alone can hardly deal with more than 10-12 participants when they are working in groups in hands-on session**. A different story is a lecture-style front-of-the-classroom kind of session, where one coach can deal with a larger number of participants (and the discriminating factor tends more towards the availability of the right technology to reach them all rather than the ability to fix their own peculiar issues)|
 
-Where can you find coaches? Sometimes it might feel hard to find specialized people willing to share what they know, mostly when you don't have a big budget to hire freelance professionals. It is also true that this could compromise the pace of the project, and becoming a turn-down in the people involved. There are some tips that can help you overcome the problem.
+***Where can you find coaches? -*** Sometimes it might feel hard to find specialized people willing to share what they know, mostly when you don't have a big budget to hire freelance professionals. It is also true that this could compromise the pace of the project, and becoming a turn-down in the people involved. There are some tips that can help you overcome the problem.
 
 |TIPS|
 |-|
