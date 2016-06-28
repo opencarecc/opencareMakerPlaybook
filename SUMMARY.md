@@ -8,7 +8,6 @@
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
    * [What is a co-design session?](what_is_a_co-design_session.md)
        * try
-   * [Our experience in co-design field](our_experience_in_co-design_field.md)
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
