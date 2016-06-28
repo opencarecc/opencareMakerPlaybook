@@ -7,7 +7,7 @@
 * [How can I make a workshop happen? Alessandro](how_can_i_make_a_workshop_happen.md)
 * [How can I structure a co-design session? Chiara Silvia Cristina](how_can_i_structure_a_co-design_session.md)
 * [How can I make a prototype? Alessandro](how_can_i_make_a_prototype.md)
-* [What is the most effective way to document a project? Moushira](what_is_the_most_effective_way_to_document_a_proje.md)
+* [How can I share a project? Moushira](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
 * [References](references.md)
 * [test chapter](testmd.md)
