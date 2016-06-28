@@ -1,7 +1,5 @@
 # What is a co-design session?
 
-2) What is a co-design session?
-
 ####// Definition
 As we can read in the research essay *The Dynamics of Collaborative Design *(written by specialists from Massachusetts Institute of Technology and New England Complex Systems Institute):
 
