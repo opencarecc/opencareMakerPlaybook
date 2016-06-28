@@ -53,7 +53,7 @@ The kind of material you might need to run your workshop can vary a lot dependin
 
 |TIPS|
 |-|
-|If you are running the workshop plan your BOM in advance so you are sure you can deal with out of stock items. The best approach is to gather the money needed to acquire the material in advance and to buy it on your own so you are sure the participants can work with the material you have planned. When this is not possible compile a list with precise info on where to get the goods so that the person responsible to buy it or the participants themselves won't struggle to find what's needed for your workshop.|
+|If you are running the workshop plan your BOM (Bill Of Material) in advance so you are sure you can deal with out of stock items. The best approach is to gather the money needed to acquire the material in advance and to buy it on your own so you are sure the participants can work with the material you have planned. When this is not possible compile a list with precise info on where to get the goods so that the person responsible to buy it or the participants themselves won't struggle to find what's needed for your workshop.|
 |If someone else is running the workshop you are responsible for, ask them to send you a BOM asap.|
 |Whatever topic your workshop is about it's always a good idea to have at least a small amount of office supplies: paper, markers, pencils, scissors. They will be useful for participants to take notes or sketch ideas|
 |**Never underestimate the importance of tools, always bring more tools then you think you might need!** This is highly topic and methodology independent and will save your life when in need of that small screwdriver or micro USB cable or red marker...|
