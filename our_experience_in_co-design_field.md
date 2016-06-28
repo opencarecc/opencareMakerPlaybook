@@ -22,7 +22,7 @@ During the last **six months** we organized and divided our **timetable** into f
 
 During this first step, we did a lot of research at the same time both online and offline. On one hand, we searched for the most popular **methodologies** and **strategies** used and known in **co-design discipline**, in order to build a general background material and information about what is alredy done and what can be customized for our specific experience; on the other hand we organized, thanks also to the **Municipality of Milan**, a lot of **meetings, workshops **and **events** in order to engage and reach many *qualitative* people as possibile. It gave us the possibilty have face-to-face meetings and to get in touch with different kind of **citizens** and their **communities**.
 
-######*(see "How to involve citizen in a local community" chapter for more details)*
+###### see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) for more details
 
 
 
@@ -32,7 +32,7 @@ Once we had identified the communities, we defined what kind of **communication*
 
 While we were typing this playbook, we found very useful to distinguish the designed tools into two categories: **passive** and **active** tools. The first ones, are more about the tools used by the **WeMake's staff** in order to show, explain and get in touch with the different audience; the second ones are those tools and materials used by the **participants** during the two co-design sessions. 
 
-######*(see "Tips" and "Survival table of content" subchapters for more details)*
+###### see [Tips](tips.md) and [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md) in order to gain deeper insights
 
 ####// Implementation Phase
 
