@@ -1,9 +1,9 @@
 # Workshop best practices
 
-- [space](#space)
-- [material](#material)
-- [coaches](#coaches)
-- [communication](#communication)
+- [Space](#space)
+- [Material](#material)
+- [Coaches](#coaches)
+- [Communication](#communication)
 
 ### Space
 There is no right or wrong space for a workshop, and usually a space can be adjusted to meet diverse needs. One thing for sure, it's very important to make participants feel comfortable and give them a warm welcome.
