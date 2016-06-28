@@ -40,8 +40,7 @@ _ _ _
 
 
 ---
-####- Define the elements/features // MODERATOR ROLES DATES
-*establish the length, the number of sessions, the place, exc (nota bene...)*
+
 
 ---
 - Find the right tools // CARDS - METHODOLOGIES 
