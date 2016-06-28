@@ -112,4 +112,4 @@ When communicating your workshop is always a good idea to make clear:
 
 |TIPS|
 |-|
-||
+|Communicate your workshop to your community through the right online and offline channels|
