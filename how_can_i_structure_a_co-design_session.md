@@ -25,13 +25,6 @@ Each Tip will be divided in two: a general/theoretical description and a practic
 
 In the end, in order to sum up all the contents mentioned above, we will provide a **Survival table of contents for a co-design session**, based on our **opencare** experience.
 
-#### 
-
-#### 3) Our experience in co-design field
-
-
-
-
 #### 4) Why we decided to organize a co-design session
 
 Since our first effort in the **opencare** project is to *collect experiences of community-driven care services*, after many researches, we realized that a co-design session would have been perfect to accomplish our main purpose. This because, as explained above in **"What is a co-design session?"** subchapter, collaborative design is an **innovative process** which has all the characteristics useful and necessary for discovering, defining, developing and delivering **new product service systems** realized by means of collaborations between common people and professionals. 
