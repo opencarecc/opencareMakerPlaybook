@@ -19,6 +19,7 @@
        * [Keep the interest alive](keep_the_interest_alive.md)
        * [Don’t underestimate the details](dont_underestimate_the_details.md)
        * [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md)
+       * Have fun but don't lose the focus
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
