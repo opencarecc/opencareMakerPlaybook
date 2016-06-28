@@ -6,7 +6,7 @@ WEBSITE - LANDING PAGE - NEWSLETTER - BLOGPOST
 
 Once you have defined which kind of **communities** and **people** you are going to **collaborate** with, you are ready to start improving and enhancing the **relation** between your staff and your further participants. Obviously, there are plenty ways to engage and contact people, but keep in mind that the two main strategies, the online and offline one, are complementary since both of them are not totally efficient. One requires the other one and vice versa. In this tip we are going to talk about the **online channels** that we used to get more in touch with people. 
 
-######*(if you want to know more about the offline activities please see “How to involve citizens in a local community” chapter)*
+###### see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) if you want to know more about the offline activities
 
 So, moving on, thanks to the new technologies, there are now many tools available to create links and connections between people. Moreover, there are plenty of channels given by the **global network**, such as: social networks, newsletters, blogs, forums, websites, exc. It is mandatory to choose the **right channels** in order to set up the right basis for a collaborative design approach. The choice mainly depends on which kind of informations you want to spread through those channels and to whom. 
 
@@ -29,7 +29,8 @@ Try to answer to the following questions, they may give you the starting point w
 
 After choosing all these **key factors**, keep in mind that a pipeline will be more than appreciated. It is almost necessary to organize the releases in a strict **schedule** since it will make your staff able to define the roles and the timelines, who does what and when. It is a bit a time consuming at the beginning, but it will avoid further wasting time. Trust us, it is very helpful!
 
-######*(see “How to involve an online community?” chapter for more details)*
+
+###### see [How to involve citizens in a local community?](how_to_involve_an_online_community.md) for more details
 
 #### **// In other words**
 
