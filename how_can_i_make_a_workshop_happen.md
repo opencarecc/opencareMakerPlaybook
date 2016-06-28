@@ -10,16 +10,3 @@ There are many different kinds of workshops you can offer to the community, but 
 - [Innovation workshop](#Innovation-workshop)
 
 Workshops can be approached in different ways according to the category they belong to, but there are common issues that we can cover and analyze separately. A compendium of best practices has been collected to make your life easier!
-
-
-
-## Educational workshop
-you learn how to use a tool
-
-## Ideation workshop
-you use a technology or technique to come up with ideas
-
-## Experiential workshop
-?
-## Innovation workshop
-?
