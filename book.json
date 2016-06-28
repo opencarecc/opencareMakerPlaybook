@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "anchorjs": {
-        "icon": "§",
+        "icon": "#",
         "placement": "left",
         "visible": "hover",
         "class": "anchorjs-link"
