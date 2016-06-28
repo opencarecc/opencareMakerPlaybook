@@ -12,7 +12,6 @@
    * [Our experience in co-design field](our_experience_in_co-design_field.md)
    * [Why we decided to organize a co-design session](why_we_decided_to_organize_a_co-design_session.md)
    * [Tips](tips.md)
-       * 1) Pay attention to the context
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](what_is_the_most_effective_way_to_document_a_proje.md)
 * [Resources](resources.md)
