@@ -76,7 +76,8 @@ These are the kind of questions you should ask yourself when setting up a worksh
 |**Go and find them on the field, where they hang out**. For instance, are you looking for hardware prototyping or digital fabrication coaches? The local **Makerspace of Fablab** is probably a good place to go, they might have weekly/monthly meetings on specific topics as well. Are you looking for coding coaches? **Hackathons and local coding meetups** are probably full of them|
 |**Can't find it locally? Go online!** Publish post on specialized forums or message boards or chat channels, you might find people who can point you to someone in your area.|
 
-Professionals VS academics - 
+***Professionals VS academics -*** Never assume you need academics to teach technology. Professionals hold a huge amount of on-the-field knowledge and sometimes they might show a better versatility, practicality, and easier language and approach to non-experienced participants.
+
 hands-on approach
 be respectful
 ### Communication
