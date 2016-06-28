@@ -1,5 +1,8 @@
-# What is the most effective way to document a project? 
+# How can I share a project? 
 Moushira & Alessandro
+
+## 
+
 
 ## Why document?
 Honestly, documentation isn't an easy task. Once you are focused on the job you are doing and the tinkering it sometimes becomes a burden that you have to worry about making documents of how stuff has developed and how things work, but documentation isn'ta burden, it is a real treasure, and here is why:
