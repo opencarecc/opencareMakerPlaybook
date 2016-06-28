@@ -102,11 +102,11 @@ These are the kind of questions you should ask yourself when setting up a worksh
 
 ### Communication
 You are ready to start your workshop, then don't forget to make people know your amazing workshop is taking place!
-
-why your workshop is cool
-what they will learn/make during the session
-who is teaching it
-where and when it is taking place
-how they can sign-up (if it's for free or they have to pay a fee)
-what they need to bring
+When communicating your workshop is always a good idea to make clear:
+- why your workshop is interesting and cool
+- what they will learn/make during the session
+- who is teaching it
+- where and when it is taking place
+- how they can sign-up (if it's for free or they have to pay a fee)
+- what they need to bring
 
