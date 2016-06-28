@@ -1,2 +1,0 @@
-# Workshop best practices
-
