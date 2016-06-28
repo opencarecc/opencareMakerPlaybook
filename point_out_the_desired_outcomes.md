@@ -1,7 +1,8 @@
 # Point out the desired outcomes
 
-// GOALS
-* **Description**
+GOALS
+
+#### **// Description**
 
 After understanding the context you are going to operate into it is time for you to think about the reason why you decided to structure this activity and the **deliverables** that you want to get once it will be finished.
 This is an important step, because it will allow you to define the activities and the actions to undertake from now on.
