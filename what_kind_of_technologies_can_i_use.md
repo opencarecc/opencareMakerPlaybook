@@ -46,6 +46,5 @@ Another platform growing in popluraity is [Raspberry Pi](https://www.raspberrypi
 - amount of inputs and outputs that are needed to connect all the sensors and actuators
 - computational power
 - size of the device
-- material of the artifacts
 - your own programming and electronics skills
 - cost
