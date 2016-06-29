@@ -119,4 +119,7 @@ When communicating your workshop is always a good idea to make clear:
 |**It's very important to keep the communication alive also when the workshop is over**. A follow up with pictures, a video and wrap up is always a good idea to engage the participants in the project!|
 
 ###Documentation
-It's very important to publish all the slides and visual/text/code materials of the workshop, so the participants can refer to it after the workshop. 
+It's very important, and quickly becoming a standard practice, to publish all the slides and visual/audio/text/code materials of the workshop, so the participants can refer to it after (and sometimes during) the session. Why is it?
+- if you have ever attended a workshop you know how hard it is to be extremely focused for all the duration of the workshop. Having the chance to look back at the content will make participants enjoy the workshop a lot more and will solidify their understanding of what was done during the session.
+- some participants like to take notes when attending workshops, sometimes this practice will distract them from what is really going on, mostly in hands-on sessions. Sharing all the content with the participants will let them free from the taking notes struggle and will make them focus more on what is happening in front of their eyes!
+- 
