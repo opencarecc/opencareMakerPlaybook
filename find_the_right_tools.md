@@ -44,6 +44,7 @@ Secondly, you need to work with a **team**. Having different competencies is pre
 Beware, this way is risky and may imply failure. But don’t be afraid of this, just take your time to experiment and test your tools before the activity.
 
 #### **// In other words**
+
 * Sum up your **Who**, **What** and **How**, that you have defined until now
 
 * Search among **existing tools** the one that is more efficient for you
