@@ -40,6 +40,7 @@
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
 * [How can I share a project?](how_can_i_share_a_project.md)
 * [Resources](resources.md)
+   * Documenting your activities
 * [References](references.md)
 * [test chapter](testmd.md)
    * [article1](article1.md)
