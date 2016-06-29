@@ -119,12 +119,20 @@ When communicating your workshop is always a good idea to make clear:
 |**It's very important to keep the communication alive also when the workshop is over**. A follow up with pictures, a video and wrap up is always a good idea to engage the participants in the project!|
 
 ###Workshop Documentation
-It's very important, and quickly becoming a standard practice, to publish all the slides and visual/audio/text/code materials of the workshop, so the participants can refer to it after (and sometimes during) the session. Why is it?
-- if you have ever attended a workshop you know how hard it is to be extremely focused for all the duration of the workshop. Having the chance to look back at the content will make participants enjoy the workshop a lot more and will solidify their understanding of what was done during the session.
-- some participants like to take notes when attending workshops, sometimes this practice will distract them from what is really going on, mostly in hands-on sessions. Sharing all the content with the participants will let them free from the taking notes struggle, and will make them focus more on what is happening in front of their eyes!
-- having access to workshop's content and to real time documentation of the session will give participants the chance to share it with others, amplifying the communication of the project
+It's very important, and quickly becoming a standard practice, to publish all the slides and visual/audio/text/code materials of the workshop, so the participants can refer to it after (and sometimes during) the session. Why is that?
 
-***Sharing content -*** There are many tools out there 
+|TIPS|
+|-|
+|if you have ever attended a workshop you know how hard it is to be extremely focused for all the duration of the workshop. **Having the chance to look back at the content will make participants enjoy the workshop a lot more and will solidify their understanding of what was done during the session**.|
+|some participants like to take notes when attending workshops, sometimes this practice will distract them from what is really going on, mostly in hands-on sessions. Sharing all the content with the participants will let them free from the taking notes struggle, and will make them focus more on what is happening in front of their eyes!|
+|having access to workshop's content and to real time documentation of the session will give participants the chance to share it with others, amplifying the communication of the project|
+
+***Sharing content -*** There are many tools out there in the internet jungle, that will help you hosting and sharing your content. Some are more specific for certain kind of media, some are more suited for your needs because of amount of space, pricing policies, licensing policies etc... It's very hard to cover them all, so we'll just suggest the most popular ones.
+
+|TIPS|
+|-|
+||
+
 ***Documenting the session -*** lala
 
 For more info about documentation please refer to the ["How can I share a project? chapter](how_can_i_share_a_project.md).
