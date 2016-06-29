@@ -25,7 +25,9 @@ If, instead, you are addressing **elderly** people, choosing a morning within we
 
 Once you will have got all the answers you will have defined important elements, such as duration, dates, roles, that are going to be precious for further steps.
 #### **// In other words**
-
+* Define the roles for the session among people of your team
+* Schedule roughly how long the activity is going to last
+* Delineate a suitable moment of the day for the co-design session
 #### **// opencare experience**
 
 
