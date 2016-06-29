@@ -24,7 +24,9 @@ Another way to make participants more focused is to give them some **spot reward
 
 * Understand when it is time to have a **quick break** and when it is time to go **back to work**
 
-* Be able to **handle different moments**.
+* Be able to **handle** and **interchange** the playful and serious moments
+
+* Define, organize, give some **spot rewards** to the participants. 
 
 #### **// opencare experience**
 
