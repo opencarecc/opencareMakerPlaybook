@@ -7,6 +7,7 @@ Please find here quick links to the most common issues:
 - [Material](#material)
 - [Coaches](#coaches)
 - [Communication](#communication)
+- [Documentation](#documentation)
 
 ### Space
 There is no right or wrong space for a workshop, and usually a space can be finetuned to meet diverse needs. One thing for sure, **it's very important to make participants feel comfortable and give them a warm welcome**.
