@@ -16,6 +16,8 @@ But please be aware and don't underestimate the **unpredictable aspect** of the 
 
 Another way to make participants more focused is to give them some **spot rewards** during the entire session. The "reward" can **satisfy** various requirements and/or **expectations**. The reward can be just a **moment** in which the participant can **have a say** and express his or her doubt or insight; in can be a **tasty snack** during the workflow or a common **gadget** that people can bring at home and use it as a precious gift, indispensable tool or another useless "souvenir".
 
+*Don't forget to go back to work!*
+
 #### **// In other words**
 
 * Make the participants **feel comfortable** and **active**
@@ -30,5 +32,6 @@ Another way to make participants more focused is to give them some **spot reward
 
 #### **// opencare experience**
 
-*make the participants feel comfortable, offer them some rewards for their efforts and involvement (in every step of the session - presentation, team work, break), but be sure to reach your goals (nota bene... be not repetitive, exc)*
+During the entire co-design experience, from the *engagement* to the *involvement* phase, we had to **reach different set of goals** from time to time. 
 
+According to the kind of audience, place, time and activity, we **employed many attitudes** and **perform different roles**. Sometimes we were very **playful** and ironic and in other times more serious and **hard-driving**. We had a lot of fun, but at the same time we always did our best to reach our goals. 
