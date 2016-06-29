@@ -17,7 +17,7 @@ Once you have one or more of the above established, you need to focus on:
 1. **Finding your online friends**.  Here we don't mean finding people whom you know, but finding accounts for projects that are aligned with your efforts, target them and ask them to re-tweet, share, collaborate, etc.  When you find a like-minded, make sure you reach out to their audience.
 2. **Design your messaging.** Make sure your align your messaging with the stage of your project.  An early stage requires different messaging from messaging after 3 month of running your projects, for example.
 3. ** Build your network: **Reach out individually to people who have liked to shared your project
-3.
+
 
 ### How to target?
 Now assuming that you have already built one of more of the online foot prints above. You need to focus on your messaging.  Some hints on this:
@@ -45,7 +45,7 @@ Reaching out is the first step towards engaging people. However, you need to ana
 3. **Invest in relations** Dedicate time to follow up with replicators, past workshop attendees. Stay connected with your grassroot community.  Over them components for free if you can afford it.
 
 
-## A visual flow of a project timeline and options on how to start
+## A visual flow of a project time-line and options on how to start
 
 
 ![](Online Community.png)
