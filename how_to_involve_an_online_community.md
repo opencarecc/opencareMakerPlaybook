@@ -9,9 +9,9 @@ There is a number of reasons why you would want to consider having an online com
 ### Where to target?
 
 Building an online project footprint (have a reference about your project online) is your step one to reach out to your online audience.  You can choose a combination of the below options:
-1. A simple landing page with About and team sections.  Where you elaborate on why you are building your project, what problem are you solving, and what resources do you need.
-2. An account on one of the documentation platforms. Depending on familiarity and level of comfort, this could be an instrucatbels page or a github manual.
-3. Social media accounts. If you have already kicked off some activities on the ground, even if a simple meeting, the you need to announce and document those on your FB and Twitter handle
+1. A simple **landing pag**e with About and team sections.  Where you elaborate on why you are building your project, what problem are you solving, and what resources do you need.
+2. An account on one of the **documentation platforms**. Depending on familiarity and level of comfort, this could be an instrucatbels page or a github manual.
+3. **Social media** accounts. If you have already kicked off some activities on the ground, even if a simple meeting, the you need to announce and document those on your FB and Twitter handle
 
 Once you have one or more of the above established, you need to focus on:
 1. **Finding your online friends**.  Here we don't mean finding people whom you know, but finding accounts for projects that are aligned with your efforts, target them and ask them to re-tweet, share, collaborate, etc.  When you find a like-minded, make sure you reach out to their audience.
