@@ -32,3 +32,9 @@ You brainstorm around the needs and the users and you go deeper adding details, 
 |**Try to experience the scenarios** to understand more about the real needs|
 |**Look around and take inspiration from good examples**|
 
+***BUILD -*** With your best ideas try to create quick prototypes, so that you can see with your own eyes and touch with your hands if it's something worth to spend more time on or not.
+
+|TIPS|
+|-|
+|Fail early. The faster you get to a working prototype the least time you will waste on a possibly pointless idea|
+|Finding the right balance between working too much or not enough on a prototype is tricky. Try not to waste too much time on details|
