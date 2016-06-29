@@ -1,7 +1,7 @@
 # How can I share a project? 
-Moushira & Alessandro
+*How to share and document the process and the work of your project *
 
-##  
+
 
 
 ## Why document?
