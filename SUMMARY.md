@@ -1,18 +1,26 @@
 # Summary
 
 * [Introduction](README.md)
+
+
 * [Why opencare?](why_opencare.md)
    * [How the maker movement is transforming care](how_the_maker_movement_is_transforming_care.md)
    * [Ezio Manzini about opencare project](ezio_manzini_about_opencare_project.md)
+
+
 * [How to involve citizens in a local area?](how_to_involve_a_local_community.md)
    * [How to engage people in local community?](how_to_engage_people_in_local_community.md)
    * [What kind of event I have to organize to facilitate the participation of citizens?](what_kind_of_event_i_have_to_organize_to_facilitat.md)
        * [Methodology and goals](methodology.md)
        * [Engagement in opencare project](engagement_in_opencare_project.md)
    * [General notes](general_notes.md)
+
+
 * [How to involve an online community?](how_to_involve_an_online_community.md)
    * [Where and how to target your community](why_an_online_community.md)
    * [How to engage people?](how_to_engage_people.md)
+
+
 * [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.md)
    * [Workshop best practices](workshop_best_practices.md)
        * [Workshop Space](workshop_space.md)
@@ -22,6 +30,8 @@
        * [Workshop Documentation](workshop_documentation.md)
    * [[NEXT] Workshop categories](workshop_categories.md)
    * [Our workshop experience](our_workshop_experience.md)
+
+
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
    * [What is a co-design session?](what_is_a_co-design_session.md)
    * [Our experience in co-design field](our_experience_in_co-design_field.md)
@@ -37,12 +47,22 @@
        * [Have fun but don't lose the focus](have_fun_but_dont_lose_the_focus.md)
        * [Keep the interest alive II](keep_the_interest_alive_ii.md)
    * [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md)
+
+
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
+
+
 * [How can I share a project?](how_can_i_share_a_project.md)
    * Documenting your activities
+
+
 * [Resources](resources.md)
    * Documenting your activities
+
+
 * [References](references.md)
+
+
 * [test chapter](testmd.md)
    * [article1](article1.md)
        * [article1.1](article11.md)
