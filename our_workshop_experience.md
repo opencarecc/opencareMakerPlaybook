@@ -29,10 +29,42 @@ The opencare workshop was not addressing a specific target group. To put it shor
 
 
 ### Places
+The workshop was held in public places with the help of the local municipality, the city of Milan. We tried to go where we could find open-minded people ready to possibly embark on the project and commit to a more structured and durable effort.
+- we held the first workshop at "Fa' la cosa giusta - The national faire of conscious consumption and sustainable lifestyles in Italy" 
+- we held the second workshop at "Forum delle politiche sociali" a series of meetings with the citizens organized by the local municipality
 
 
-technology and issues
-response
+### Technology and issues
+From a technology point of view we decided to structure the workshop around the Arduino platform, the reasons for this choice have been explained above.
+The participants were asked to bring their own laptop to join the workshop, then at the beginning of the session any of the participants received a kit containing:
+- an Arduino UNO board
+- an Arduino Ethernet shield
+- a TinkerKit shield
+- a series of Tinkerkit modules (sensors and actuators)
+- a USB cable
+- an Ethernet LAN cable
+
+Running an Internet of Things is not always an easy choice from a tech perspective, unfortunately most of the time:
+- public networks have firewalls you need to deal with
+- public wireless networks don't like 20 devices trying to connect at the same time
+- public networks require multiple authentication which is hard when dealing with simple hardware like Arduino
+- the errors you have to deal with when trying to connect and send packets of data over a network are a lot harder to troubleshoot and fix
+
+With some experience on our shoulder dealing with this kind of issues we came prepared to the workshop.
+
+|TIPS|
+|-|
+|**We skipped the idea of using wireless hardware**, even if more fascinating, from day one, so we could rely on a locally created network|
+|We tried to connect to a LAN with no success and we tried to share the connection from WiFi to Ethernet from a laptop with no success|
+|In the end **we shared the connection from a 4G GSM modem to all the devices** through a standard switch. This worked well enough for small packets of data like the ones that you send with such hardware.|
+
+
+### Response
+The sessions were joined by around ten to twelve people each. Some of the participants were more intrigued by the technology on its own, some were more into the opencare project at large.
+The kind of feedback we received was diversified:
+- on one hand, more openly, we received good feedback at the end of the sessions
+- on the other hand, around half of the people that joined the sessions kept on coming back to the following co-design sessions with the local communities
+
 workshop material
 more documentation
 https://www.flickr.com/photos/wemake_cc/sets/72157666906850805
