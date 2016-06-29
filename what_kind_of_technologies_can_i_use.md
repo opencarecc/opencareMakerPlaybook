@@ -59,4 +59,5 @@ Another platform growing in popluraity is [Raspberry Pi](https://www.raspberrypi
 |-|
 |**Power is nothing without control.** Do not aim for the most powerful boards just because more power is better. Try to find the best pick for your projects needs!|
 |**Smaller is not always better.** If you have room, don't go for the smallest board just because it's cool, you might find yourself in need of adding more components while iterating on your prototype and you will need more inputs/outputs|
-||
+|**Look around for ready made solutions.** Most of the times you would like to have your prototype ready as soon as possible. If your coding and electronics skills are not the best, then why not opting for a board or module that works (almost) out of the box. You will always have the time to make it more PRO at a later iteration|
+|**Documentation is extra important.** When finding a platform always go and check their documentation, activity of the community and availability of examples. You don't want to find yourself lost or with a broken piece of technology because you misused it!|
