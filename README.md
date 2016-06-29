@@ -21,7 +21,7 @@ Or download it as a:
 
 | **WHAT** | Information | Engagement | Involvement | Sharing | Empowerment | Capability | Exploitation |
 | -- | -- | -- | -- | -- | -- | -- | -- |
-|** WHY**| To provide citizen with objective information to assist them in understanding the aim, the process and the result | To obtain citizen feedback on analysis, alternatives and/or decisions | To work directly with citizen throughout the process to ensure that the public concerns and aspirations are consistently understood and considered | To partner in each aspect of the decision including the development of alternatives and the identification of the preferred solution | To increase sharing practice, process, knowledge and skills | To place final decision-making in the hands of the public | To empower citizens to identify their knowledge and skills |To increase sharing practice, process, knowledge and skills |
+|** WHY**| To provide citizen with objective information to assist them in understanding the aim, the process and the result | To obtain citizen feedback on analysis, alternatives and/or decisions | To work directly with citizen throughout the process to ensure that the public concerns and aspirations are consistently understood and considered | To partner in each aspect of the decision including the development of alternatives and the identification of the preferred solution | To increase sharing practice, process, knowledge and skills | To place final decision-making in the hands of the public | To empower citizens to identify their knowledge and skills |
 | **HOW** | 1:3 | 2:3 | 3:3 | 4:3 | 5:3 | 6:3 | 7:3 |
 
 
