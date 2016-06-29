@@ -17,6 +17,6 @@ You analyze and try to find out:
 * who are the stakeholders involved
 * what kind of characteristics does the context have
 
-For instance, an issue deeply related to shortness of breath may have a bigger impact on a community of people doing tyring manual labor rather than a desk job. 
+For instance, an issue deeply related to shortness of breath may have a bigger impact on a community of people doing fatiguing manual labor rather than a desk job. 
 
-***SYNTHESIZE - ***If the first phase of research will help you focus on the area of the problem, this second phase will help you define the problem and the people affected by it. The people you are gonna work for and with, your users.
+***SYNTHESIZE - ***If the first phase of research will help you focus on the area of the problem, this second phase will help you define the problem and the people affected by it, the people you are gonna work for and with, your users.
