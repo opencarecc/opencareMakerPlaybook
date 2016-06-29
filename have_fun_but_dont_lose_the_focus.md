@@ -14,7 +14,7 @@ The breaks must be organized in the advance, possibly together with the **schedu
 
 But please be aware and don't underestimate the **unpredictable aspect** of the participatory design. The organizational staff (composed mostly by mentors, moderators, organizers, speakers and designers) has to be able to understand when it is time to change tone of voice, being more ironic or **playful** and when it is time to have a more serious and **demanding** attitude.
 
-Another way to make participants more focused is to give them some **spot rewards** during the entire session.  The "reward" can be different according to the situation, for example: it can be just a **moment** in which the participant can express his or her doubt or insight; 
+Another way to make participants more focused is to give them some **spot rewards** during the entire session. The "reward" can **satisfy** various requirements and/or **expectations**. The reward can be just a **moment** in which the participant can **have a say** and express his or her doubt or insight; in can be a **tasty snack** during the workflow or a common **gadget** that people can bring at home and use it as a precious gift, indispensable tool or another useless "souvenir".
 
 #### **// In other words**
 
