@@ -12,6 +12,10 @@ As **before** the actual co-design sessions (during which people get their hands
 
 This strategy can be handled in various ways and through different tools, but it always has a specific goal: making people aware about the **project updates** by receiving and exchanging feedbacks. 
 
+The tools might be the same of those used for the involvement of the communities, but, obviously the informations are going to change in the *layout* and in the *content*. The new informations should be still interesting and able to provoke the curiosity of the people. 
+
+###### See [Keep the interest alive - Part I]
+
 #### **// In other words**
 
 * **Don't lose the contact** with the participants
