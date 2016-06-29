@@ -17,7 +17,7 @@ Most of the time rapid prototyping techniques will do the job to produce your pr
 * [3D printing](#3d-printing)
 * [Laser cutting](#laser-cutting)
 * Milling (coming soon)
-* [Microcontrollers](#Microcontrollers
+* [Microcontrollers](#Microcontrollers)
 
 ### 3D printing
 3D printing is a technology usedto create plastic shapes from 3D models.  There is a wide variety of 3D printers available, that start from as cheap as 150 Euro to as expensive as 10K Euro.  Stability, speed, and quality of finished product are all factors that control the price.    For simple prototyping we need a machine that can produce decent results, you can use the guide here for comparisons on which machine to buy https://www.3dhubs.com/best-3d-printer-guide and what results to expect.   
