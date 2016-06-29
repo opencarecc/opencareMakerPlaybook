@@ -145,4 +145,4 @@ Collecting shareable media about the session will make your communication more e
 |About pictures, **it's not important to have a professional photographer. Pictures taken with a smartphone are usually good enough** to be published and shared online. Nowadays it might happen that participants will take pictures as well, it's a good idea to ask them if they want to share the pictures with you so you can use them for communication purposes, that will generally make them feel more part of the project!|
 |About videos, it's generally harder to make a good video without proper devices. **In our experience having a dedicated video maker for the session will make the video documentation exponentially better**.|
 
-For more info about documentation please refer to the ["How can I share a project? chapter](how_can_i_share_a_project.md).
+*For more info about documentation please refer to the ["How can I share a project? chapter](how_can_i_share_a_project.md).*
