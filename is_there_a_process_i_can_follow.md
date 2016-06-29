@@ -55,3 +55,4 @@ As easy as it may sound this could probably be the hardest time of your process.
 |-|
 |**Try not to make your special baby out of your idea**, and prototype. It's just the first one of a series, really. It will grow and be better and more solid thanks to the other world, just like your baby!|
 |**Be flexible, you're probably not this great mind you might have thought of, don't overestimate your intuitions**. It's with feedback from others, and sometimes conflict, that you can produce a better solution that will actually answer to a real problem.|
+|**Be patient, it might take a lot of iterations** and blind trial and error before you get to the right solution|
