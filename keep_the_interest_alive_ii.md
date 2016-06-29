@@ -43,3 +43,4 @@ After the presentation and **exchange of views**, we enjoyed greatly the end of 
 
 ###### See [Recognition Phase](Our_experience_in_co-design_filed.md#recognition-phase) paragraph to read any detail of the meeting. 
 
+Last but not least, we continued to publish some **blog posts** and send the **newsletter** about some case studies, in order to **keep the interest alive** until we are going to start the **prototyping phase**. 
