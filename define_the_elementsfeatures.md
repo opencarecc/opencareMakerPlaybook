@@ -24,12 +24,15 @@ Answering this question is going to be crucial in order to understand in which m
 If, instead, you are addressing **elderly** people, choosing a morning within week days would be more than fine.
 
 Once you will have got all the answers you will have defined important elements, such as duration, dates, roles, that are going to be precious for further steps.
+
 #### **// In other words**
+
 * Define the **roles** for the session among people of your team
 
 * Schedule roughly **how long** the activity is going to last
 
 * Delineate a suitable **moment of the day** for the co-design session
+* 
 #### **// opencare experience**
 
 When we had to define these elements in order to structure our co-design session we started answering those questions simultaneously.
