@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Why opencare?](why_opencare.md)
    * [Ezio Manzini about opencare project](ezio_manzini_about_opencare_project.md)
-   * How the maker movement is transforming care
+   * [How the maker movement is transforming care](how_the_maker_movement_is_transforming_care.md)
 * [How to involve citizens in a local area?](how_to_involve_a_local_community.md)
    * [How to engage people in local community?](how_to_engage_people_in_local_community.md)
    * [What kind of event I have to organize to facilitate the participation of citizens?](what_kind_of_event_i_have_to_organize_to_facilitat.md)
