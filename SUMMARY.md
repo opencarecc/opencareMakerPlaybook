@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](readmemd.md)
 * [Why opencare?](why_opencare.md)
    * [How the maker movement is transforming care](how_the_maker_movement_is_transforming_care.md)
    * [Ezio Manzini about opencare project](ezio_manzini_about_opencare_project.md)
@@ -39,7 +39,6 @@
 * [How can I share a project?](how_can_i_share_a_project.md)
 * [Resources](resources.md)
 * [References](references.md)
-* [bla bla](README.md)
 * [test chapter](testmd.md)
    * [article1](article1.md)
        * [article1.1](article11.md)
