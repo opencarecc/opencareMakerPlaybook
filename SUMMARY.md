@@ -11,7 +11,7 @@
        * [Engagement in opencare project](engagement_in_opencare_project.md)
    * [General notes](general_notes.md)
 * [How to involve an online community?](how_to_involve_an_online_community.md)
-   * Why an online community?
+   * [Why an online community?](why_an_online_community.md)
    * How to engage people?
 * [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.md)
    * [Workshop best practices](workshop_best_practices.md)
