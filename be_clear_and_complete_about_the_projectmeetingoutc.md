@@ -36,10 +36,3 @@ Lastly, give the audience the possibility to **ask questions** and explain freel
 
 #### **// opencare experience**
 
-
-*explain clearly the roles, schedule of activities, project characteristics, goals, and answer in a complete way to every question/doubt of participants*
-
-
-
-
-
