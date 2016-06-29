@@ -39,6 +39,7 @@
    * [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md)
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
    * [What kind of technologies can I use?](what_kind_of_technologies_can_i_use.md)
+   * Where do I go next?
 * [How can I share a project?](how_can_i_share_a_project.md)
    * Documenting your activities
 * [Resources](resources.md)
