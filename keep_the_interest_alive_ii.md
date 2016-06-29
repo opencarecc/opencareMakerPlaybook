@@ -4,7 +4,9 @@ FEEDBACKS - UPDATES
 
 #### **// Description**
 
-Congratulation! If you are reading this last tip you have arrived at one great point for your participatory design experience, but it is not 
+Congratulation! If you are reading this last tip you have arrived at one **great point** for your participatory design, but there is still something else to do. 
+
+A complete co-design experience needs also a "**post-phase**", that we called "Recognition Phase" in the  which requires a strict main
 
 #### **// In other words**
 
