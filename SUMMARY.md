@@ -31,7 +31,7 @@
        * [Point out the desired outcomes](point_out_the_desired_outcomes.md)
        * [Define the elements/features](define_the_elementsfeatures.md)
        * [Find the right tools](find_the_right_tools.md)
-       * [Keep the interest alive](keep_the_interest_alive.md)
+       * [Keep the interest alive - Part I](keep_the_interest_alive.md)
        * [Don’t underestimate the details](dont_underestimate_the_details.md)
        * [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md)
        * [Have fun but don't lose the focus](have_fun_but_dont_lose_the_focus.md)
