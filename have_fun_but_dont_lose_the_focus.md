@@ -31,3 +31,4 @@ Another way to make participants more focused is to give them some **spot reward
 #### **// opencare experience**
 
 *make the participants feel comfortable, offer them some rewards for their efforts and involvement (in every step of the session - presentation, team work, break), but be sure to reach your goals (nota bene... be not repetitive, exc)*
+
