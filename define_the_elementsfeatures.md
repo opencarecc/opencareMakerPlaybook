@@ -1,6 +1,6 @@
 # Define the elements/features
 
-MODERATOR ROLES DATES
+MODERATOR - ROLES - DATES
 
 #### **// Description**
 Arrived at this point you should have understood who you want to involve and what you want to accomplish/obtain. It is now time to start defining how to run your co-design session.
