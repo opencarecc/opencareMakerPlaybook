@@ -2,7 +2,8 @@
 
 CARDS - METHODOLOGIES 
 
-#### **// Description**Now you have the **Who** (participants), the **What** (goals), and part of the **How** (elements/features). We need to define the other half of the How, which are the **design tools**.
+#### **// Description**
+Now you have the **Who** (participants), the **What** (goals), and part of the **How** (elements/features). We need to define the other half of the How, which are the **design tools**.
 
 These are the instruments that you will use to play your **symphony**. You will have to tune them harmoniously and they will help you reaching the goals.
 Collaborative design, as you know, is a discipline. And like any other practice it requires the user to **learn**, **discover** and **test** different ways, in order to find the most suitable one.
@@ -43,5 +44,14 @@ Secondly, you need to work with a **team**. Having different competencies is pre
 Beware, this way is risky and may imply failure. But don’t be afraid of this, just take your time to experiment and test your tools before the activity.
 
 #### **// In other words**
+* Sum up your **Who**, **What** and **How**, that you have defined until now
 
-#### **// opencare experience**
+* Search among **existing tools** the one that is more efficient for you
+
+* Try and **experiment** it before the activity
+
+* Design **your own tool**, taking inspiration from existing ones
+
+* Take advantage of the **competencies** of a well assorted team
+
+####**// opencare experience**
