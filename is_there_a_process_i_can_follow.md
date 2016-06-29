@@ -36,5 +36,22 @@ You brainstorm around the needs and the users and you go deeper adding details, 
 
 |TIPS|
 |-|
-|Fail early. The faster you get to a working prototype the least time you will waste on a possibly pointless idea|
-|Finding the right balance between working too much or not enough on a prototype is tricky. Try not to waste too much time on details but be sure you have all the main features|
+|Fail early. **The faster you get to a working prototype the least time you will waste on a possibly pointless idea**|
+|Finding the right balance between working too much or not enough on a prototype is tricky. **Try not to waste too much time on details but be sure you have all the main features**|
+
+*For more info on how to build a prototype you can refer to the  [next part of the chapter](what_kind_of_technologies_can_i_use.md)*
+
+***TEST -*** This is possibly the most important and too often forgotten phase of the whole process. Once you have a working prototype in your hands you are only at the beginning of your trip. Now, go out and test it
+* in every possible condition!
+* with any possible users!
+
+Testing is not easy, it requires time and logistics to organize the testing sessions, experience in talking to people, and improvisation so that you can **make any of the interviews useful for your research**.
+
+***EVOLVE -*** The last phase is also the first of a new loop. Analyze the feedback received and use it to learn and move forward, iterate your prototype and then test again until you have something that satisfies your users!
+
+As easy as it may sound this could probably be the hardest time of your process. Accepting your possible failure is tough.
+
+|TIPS|
+|-|
+|**Try not to make your special baby out of your idea**, and prototype. It's just the first one of a series, really. It will grow and be better and more solid thanks to the other world, just like your baby!|
+|**Be flexible, you're probably not this great mind you might have thought of, don't overestimate your intuitions**. It's with feedback from others, and sometimes conflict, that you can produce a better solution that will actually answer to a real problem.|
