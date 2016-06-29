@@ -7,7 +7,7 @@ To engage effectively with citizens, one needs to ensure that the process is gen
 The first meeting with the citizens has to be an informal event: party, happy hour, an evening of dancing, an experiential workshop, a game...
 
 
-###Workshops - Why is a workshop good for the community and for you?
+##Why is a workshop good for the community and for you?
 Why is a workshop good for the community?
 - it makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
 - it makes people collaborate to solve concrete problems
@@ -22,7 +22,7 @@ Why is a workshop good for you?
 ######*(see "How can I make a workshop happen?" chapter for more details)*
 
 
-###Keep the interest alive - how to keep the people involved?
+##Keep the interest alive - how to keep the people involved?
 Once citizens have agreed to participate, you will keep them connected. Regular communication about your project is important. It can keep your issue fresh and your meetings in the minds of the people, and improve the community’s credibility. Following are several ways to maintain open lines of communication with citizens:
 Newsletter
 Blogpost
