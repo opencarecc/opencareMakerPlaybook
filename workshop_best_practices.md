@@ -103,6 +103,7 @@ These are the kind of questions you should ask yourself when setting up a worksh
 ### Communication
 You are ready to start your workshop, then don't forget to let people know your amazing workshop is taking place!
 When communicating your workshop is always a good idea to make clear:
+- what is the topic in a clear and intuitive way
 - why your workshop is interesting and cool
 - what they will learn/make during the session
 - who is teaching it
