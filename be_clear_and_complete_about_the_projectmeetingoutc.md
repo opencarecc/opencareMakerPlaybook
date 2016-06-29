@@ -36,6 +36,13 @@ Lastly, give the audience the possibility to **ask questions** and explain freel
 
 #### **// opencare experience**
 
-In the following picture, you can see one slide of one our presetation for an *engaging meeting*. 
+In the following picture, you can see one slide of one our presetation for an *engaging meeting*. During which, we explained what is **opencare** project and how it is going to act. We showed mainly **inspiring pictures** and **few necessary informations**. It was quite effective, but the selection of pictures requires a bit of **sensibility** and attention. We even embed a **video**, which was on one side very useful and interesting for the audience, but on the other side a bit complicated to handle since it was in english and the audience was composed most of the time by italian, foreing and elderly people.
 
 (picture "OC-slidepresentation")
+
+We always used **Google Slides** for many reasons: 
+
+* the possibility to **edit** the presentation with others at the same time
+* to get the files **instantly** while on the meeting place (be aware, it requires an **internet connection**!)
+* as all the common slide applications, it gives the possibility to add hidden **notes** in each slide (it is very helpful to not lose the thread of the conversation)
+
