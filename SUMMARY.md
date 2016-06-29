@@ -11,7 +11,7 @@
        * [Workshop Material](workshop_material.md)
        * [Workshop Coaches](workshop_coaches.md)
        * [Workshop Communication](workshop_communication.md)
-       * Workshop Documentation
+       * [Workshop Documentation](workshop_documentation.md)
    * [Workshop categories](workshop_categories.md)
    * [Our workshop experience](our_workshop_experience.md)
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
