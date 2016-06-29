@@ -10,6 +10,7 @@
        * [Workshop Space](workshop_space.md)
        * [Workshop Material](workshop_material.md)
        * [Workshop Coaches](workshop_coaches.md)
+       * Workshop Communication
    * [Workshop categories](workshop_categories.md)
    * [Our workshop experience](our_workshop_experience.md)
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
