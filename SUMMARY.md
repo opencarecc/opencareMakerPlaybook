@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Introduction !](introduction.md)
 * [Why opencare?](why_opencare.md)
    * [How the maker movement is transforming care](how_the_maker_movement_is_transforming_care.md)
@@ -40,6 +39,7 @@
 * [How can I share a project?](how_can_i_share_a_project.md)
 * [Resources](resources.md)
 * [References](references.md)
+* [Introduction](README.md)
 * [test chapter](testmd.md)
    * [article1](article1.md)
        * [article1.1](article11.md)
