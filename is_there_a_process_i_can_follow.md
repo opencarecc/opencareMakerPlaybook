@@ -6,3 +6,5 @@ In our experience of years of making projects, helping people to make projects a
 A user-centered design process usually follows these five steps.
 ![](Design-Process-and-types-by-margaret-hagan-07.png)
 *image taken from http://www.legaltechdesign.com/LegalDesignToolbox/develop-a-new-project/*
+
+Sometimes it is so 
