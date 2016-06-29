@@ -21,7 +21,7 @@ The **Internet of Things as a field of action** was picked because it is deeply 
 
 
 ### The target group
-The opencare workshop was not addressing a target group specifically. To put it short:
+The opencare workshop was not addressing a specific target group. To put it short:
 - it was open to anyone with an interest in the topic or the technology
 - no limitations to age, gender, skillset and background
 - no prerequisites needed
