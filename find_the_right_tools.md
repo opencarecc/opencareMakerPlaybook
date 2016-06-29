@@ -97,80 +97,50 @@ After filling the sheet we wanted each group to **discuss** about the different 
 
 * **2nd session**
 
-The second meeting had the goal of finding with the participants three solutions to three previously identified problems.
-Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the issues emerged, clustered by topic.
+The second meeting had the goal of finding with the participants **three solutions** to three previously identified problems.
+Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the **issues emerged**, clustered by topic.
 
 (OC_Ostacoli.pdf)
 
-The aim was to give everyone a copy of the Obstacles to refresh in their memory the different needs and help them choosing the one they were more interested into. We also prepared 9 slides to present them, before starting the activity, all the tools that we would have used, to make them more familiar.
+The aim was to give everyone a copy of the Obstacles to refresh in their memory the different needs and help them choosing the one they were more interested into. We also prepared 9 **slides** to present them, before starting the activity, all the tools that we would have used, to make them more familiar.
+
 After the presentation the participants decided which group they wanted to join, according to their preference and personal opinion.
 They divided themselves, and started discussing about the issue.
-The first tool they had to use was the Project Sheet, an A3 paper regarding some questions and characteristics that the group would have had to fill, in order to delineate the solution in a more precise way. They had to try to answer to all these questions:
-name of the project
-the people addressed
-the obstacle/issue that they wanted to solve or overcome
-estimated cost of the prototype
-estimated time to develop it
-description of the solution
-characteristics of the project
-description of its functionalities
-notes
+
+The first tool they had to use was the **Project Sheet**, an A3 paper regarding some questions and characteristics that the group would have had to fill, in order to delineate the solution in a more precise way. The questions of the Project Sheet were:
+* **name** of the project
+* **people** addressed
+* the **obstacle/issue** that they wanted to solve or overcome
+* estimated** cost** of the prototype
+* estimated **time** to develop it
+* description of the **solution**
+* **characteristics** of the project
+* description of its f**unctionalities**
+* notes
 
 (OC-Schema_progetto_15xA3.pdf)
 
 Every group, as in the previous session, worked with a moderator that helped them to keep the focus.
-Another tool that we decided to provide them was the Evaluation Indicators and Evaluation Cards.
+
+Another tool that we decided to provide them was the **Evaluation Indicators** and **Evaluation Cards**.
 This tool was particularly important for us. Our aim, as we said before, was to end up the co-design session with 3 solutions to 3 existing problems. After analyzing and evaluating each solution proposed we had to decide which one of those three solutions we would have prototyped. In order to make this selection we designed a deck of cards with the indicators that we took into account during the decisional process. Here you can read our evaluation principles:
 
-Ability to help people (30 points)
-Total population 
-It doesn’t have to be precise data from scientific sources (a google search would do the job), it’s more an evidence or comparison of the size of the potential target group
-Impact to quality of life of an individual
-How does your idea make the life of an individual better? For instance, is it solving entirely a big everyday issue or is it impacting more on the large number and not really changing the life of the single?
-Help to care movement
-How much do you think this will improve current processes in the care movement? For instance, is this a game-changer in the field or just fine-tuning a process making it more affordable/more precise?
-Feasibility of the project (30 points)
-BOM (both hardware and software)
-How much would more or less the material cost to produce the solution? If it’s too hard to understand try a comparison to an existing solution and give a broad indicator.
-Production time
-How long would it take more or less to produce the solution? If it’s too hard to understand try a comparison to an existing solution and give a broad indicator.
-Development strategy (10 points)
-Tech risk
-How big is the potential tech risk towards the receiver/user of the care solution? For instance, in case of a 3D printed bottle opener a tech fail will turn into the inability of opening a bottle (= low tech risk), whilst in the case of a peacemaker a tech fail will turn into the inability of the person to bring oxygen to the brain, hence a possible pristine death (= high tech risk)
-User testing potential
-How easy would it be to find interested people in the community willing to test the proposed solution? This could be determined by the:
-delicacy of the topic,
-level of risk in adopting the solution,
-Impact of the test on daily routine
-Possible contraindications 
-User acceptance (10 points)
-How willing will the users be in accepting the proposed solution? Will it be a natural adoption? Will it need some kind of push (ie marketing campaign)?
-This could be determined by:
-Cost (or reproducibility)
-Immediacy in recognizing the value of the proposed solution
-delicacy of the topic,
-level of risk in adopting the solution,
-Impact on the change of daily routine
-Possible contraindications 
-Opensourceness (20 points)
-Forkability
-How is the solution ready to be taken on and improved by third parties?
-Reproducibility
-How easy will it be to reproduce the solution somewhere else?
-This could be determined by:
-Interchangeability of components
-Interchangeability of tools and technologies needed to produce the solution
-Availability of components and technologies
-Skills of the single needed to produce the solution
-This tools was shared with the participants to make them shape their solution in a more appropriate way, trying to think about a feasible project and to help them following a path. Many participants, indeed, didn’t have any experience of design thinking and generating solutions. This tool was designed to simplify and lead the process.
+(OC-Evaluation_matrix.pdf pag. 3 and 4)
+
+This tools was shared with the participants to make them shape their solution in a more **appropriate** way, trying to think about a **feasible** project and to help them following a path. Many participants, indeed, didn’t have any experience of design thinking and generating solutions. This tool was designed to **simplify** and lead the process.
 
 (OC-Indicatori.pdf)
 
 At the end of the second session all the groups completed the Project Scheme and presented their solutions in plenary session.
-After this all the decisions were depending on us. We took few weeks to evaluate the projects and research about existing products solving similar problems. Therefore we elaborated a new tool, used by our team, that we called Evaluation Rubric. This document helped us assigning points and understanding which project was the most suitable to be prototyped.
+After this all the decisions were depending on us. We took few weeks to **evaluate the projects** and research about existing products solving similar problems. Therefore we elaborated a new tool, used by our team, that we called **Evaluation Rubric**. This document helped us assigning points and understanding which project was the most suitable to be prototyped.
 We then scheduled a third meeting, to communicate our decision and further steps.
 
 
-For all the above mentioned activities we referred to the Open Space Technology, which was adapted to our tools and can be defined as: Open Space is the only process that focuses on expanding time and space for the force of self-organisation to do its thing. Although one can't predict specific outcomes, it's always highly productive for whatever issue people want to attend to. Some of the inspiring side effects that are regularly noted are laughter, hard work which feels like play, surprising results and fascinating new questions.
+For all the above mentioned activities we referred to the **Open Space Technology**, which was adapted to our tools and can be defined as:
+
+> a process that focuses on expanding time and space for the force of self-organisation to do its thing. Although one can't predict specific outcomes, it's always highly productive for whatever issue people want to attend to. Some of the inspiring side effects that are regularly noted are laughter, hard work which feels like play, surprising results and fascinating new questions.
+
+
 [https://en.wikipedia.org/wiki/Open_Space_Technology]
-See this PDF(http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology.
+
+######See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology.
