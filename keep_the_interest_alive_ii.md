@@ -36,5 +36,10 @@ After our two co-design sessions, we tried to **not lose the contact** with the 
 
 This meeting was totally different from the previous two collaborative and productive sessions, it was more like an **aperitif** open to *discussions* and **prompt feedbacks**. 
 
-We showed the participants 
+We didn't declare just the winner project, we explained and **illustrated** to the audience how we have managed **the entire selection process** indeed. In this way we gave them the possibility to be aware and to feel **integral part** of the project. Therefore, after the slide presentation, the participants were **ready to start a discussion**, explaining their doubts and considerations about our choise and decisions. 
+It was a very interesting moment of sharing knowledges and ways of thinking. 
+
+After the presentation and **exchange of views**, we enjoyed greatly the end of the meeting and the end of our first co-design experience with a delicious buffet.
+
+###### See [Recognition Phase](Our_experience_in_co-design_filed.md#recognition-phase) paragraph to read any detail of the meeting. 
 
