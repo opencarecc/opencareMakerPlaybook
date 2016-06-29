@@ -1,6 +1,6 @@
 # Why opencare? 
 
-*Content*: **why opencare** - [How the maker movement is transforming care](how_the_maker_movement_is_trasforming_care.md) - [Ezio Manzini about opencare project](Ezio_manzini_about_opencare_project.md)
+*Content*: **why opencare** - [How the maker movement is transforming care](how_the_maker_movement_is_trasforming_care.html) - [Ezio Manzini about opencare project](Ezio_manzini_about_opencare_project.md)
 
 
 ####opencare project
