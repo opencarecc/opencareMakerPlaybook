@@ -4,6 +4,8 @@ FEEDBACKS - UPDATES
 
 #### **// Description**
 
+Congratulation! If you are reading this last tip you have arrived at one great point for your participatory design experience, but it is not 
+
 #### **// In other words**
 
 #### **// opencare experience**
