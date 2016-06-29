@@ -48,5 +48,6 @@ We always used **Google Slides** for many reasons:
 
 (picture "OC-slidepresentation-02")
 
-In this second kind of slide presentation, that we showed during the **co-design sessions**, we had a more structured **visual identity** and different informations to explain. About the first point, we set all the presentations according to the new graphic layout in order to give continuity to all our manufacts. Then, we showed and explained the participants all the tools that they were going to use during the teamwork, how and why we  
+In this second kind of slide presentation, that we showed during the **co-design sessions**, we had a more structured **visual identity** and different informations to explain. About the first point, we set all the presentations according to the new graphic layout in order to give **continuity** to all our **artifacts**. Then, we showed and explained the participants the different steps of the sessions and all the tools that the participants were going to use during the teamwork, how and why we designed them.
 
+###### See [Find the right tools](find_the_right_tools.md)  tip for more details.
