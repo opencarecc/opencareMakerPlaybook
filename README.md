@@ -64,11 +64,5 @@ Good trip!
 * [How can I share a project?](how_can_i_share_a_project.md)
 * [Resources](resources.md)
 * [References](references.md)
-* [bla bla](README.md)
-* [test chapter](testmd.md)
-   * [article1](article1.md)
-       * [article1.1](article11.md)
-       * [article1.2](article12.md)
-   * [article2](article2.md)
-   * [test test](test_test.md)
+
 
