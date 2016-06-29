@@ -38,6 +38,3 @@ This meeting was totally different from the previous two collaborative and produ
 
 We showed the participants 
 
-**Aperitif **- June 1st, 2016
-
-The last meeting with the communities was totally different from the previous two collaborative sessions. This one was more an **aperitif**, during which the **atmosphere** was very **relaxing** and enjoyable. But it is not all, there was even such a kind of "**tension**" between participants, because they knew that during this last meeting we were going to state the project that will be *prototype* in the next month. It was very funny! Even if some of them were a bit sad when they heard that their project wasn't choosen. Moreover, we didn't talk just abut the result of the co-design sessions, actually during the presentation, we showed them how we analized and select the final project. Accordingly to our *train of thought*, we explained our selection process, illustrating the evaluation matrix and all the other related tools, with **trasparency** and **clarity**. 
