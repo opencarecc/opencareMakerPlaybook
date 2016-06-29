@@ -12,13 +12,18 @@ The breaks must be organized in the advance, possibly together with the **schedu
 
 ###### See [Don't underestimate the details](dont_underestimate_the_details.md) tip for gaining more insights about the timing sheet. 
 
-But please be aware and don't underestimate the **unpredictable aspect** of the participatory design. The organizational staff (composed mostly by mentors, organizers, speakers and designers) has to be able to understand when it is time to change tone of voice, being more ironic or **playful** and when it is time to have a more serious and **demanding** attitude.
+But please be aware and don't underestimate the **unpredictable aspect** of the participatory design. The organizational staff (composed mostly by mentors, moderators, organizers, speakers and designers) has to be able to understand when it is time to change tone of voice, being more ironic or **playful** and when it is time to have a more serious and **demanding** attitude.
+
+Another way to make participants more focused is to  
 
 #### **// In other words**
 
 * Make the participants **feel comfortable** and **active**
+
 * Provide them the right **assistance** and **tools** 
+
 * Understand when it is time to have a **quick break** and when it is time to go **back to work**
+
 * Be able to **handle different moments**.
 
 #### **// opencare experience**
