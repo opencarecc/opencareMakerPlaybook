@@ -5,7 +5,7 @@ CLARITY - OPEN TRANSPARENCY
 
 #### **// Description**
 
-During each phase of a collaborative design experience, from the first [Inspiration](our_experience_in_co-design_field.md#inspiration-phase) to the last Recognition phase, you may have the possibility to meet and talk with many people with difference age, expertise, needs and passions. Probably at the first time, they might be not very interested in what you are going to propose and offer to them, just because **they don't feel properly at ease** with such a kind of topic, especially if it is strictly related with **personal arguments** or it is .
+During each phase of a collaborative design experience, from the first [Inspiration](our_experience_in_co-design_field.md#inspiration-phase) to the last Recognition phase, you may have the possibility to meet and talk with many people with difference in age, expertise, needs and passions. Probably at the first time, they might be not very interested in what you are going to propose and offer to them, just because **they don't feel properly at ease** with such a kind of topic, especially if it is strictly related with **personal arguments** or it is **too far** from their everyday life.
 
 As explained in the previous tips, there are many subtle strategies for making people feel more aware and comfortable about a specific project and/or discussion, by means of informing them through default newsletter and quick blog posts. 
 
