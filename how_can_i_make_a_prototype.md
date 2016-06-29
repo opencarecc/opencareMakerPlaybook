@@ -11,7 +11,7 @@ design process, what it is, why it's powerful, how you can use it for prototypin
 
 
 ## What kind of technologies can I use?
-Rapid prototyping techniques
+Creating a prototype usually means you are working on an artifact that will soon go through a series of iterations. As a consequence you won't probably focus on small details and finishings (unless they are specifically needed for testing purposes), and you will try to have a working version as soon as possible.
 
 ### Microcontrollers (Arduino, friends & cousins) [Alessandro]
 
