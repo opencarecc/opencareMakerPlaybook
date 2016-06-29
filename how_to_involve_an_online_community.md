@@ -44,7 +44,7 @@ Reaching out is the first step towards engaging people. However, you need to ana
 3. **Invest in relations** Dedicate time to follow up with replicators, past workshop attendees. Stay connected with your grassroot community.  Over them components for free if you can afford it.
 
 
-## A visual flow of a project timeline in community cycle  
+## A visual flow of a project timeline and options on how to start
 
 
 ![](Online Community.png)
