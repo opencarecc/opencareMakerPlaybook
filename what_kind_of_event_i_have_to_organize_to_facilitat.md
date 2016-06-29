@@ -1,6 +1,5 @@
 # What kind of event I have to organize to facilitate the participation of citizens?
 
-##What kind of event I have to organize to facilitate the participation of citizens?
 
 Different approaches are needed to outreach and engage a wider public, including migrants, the elderly, disabled people and other social groups. 
 To engage effectively with citizens, one needs to ensure that the process is genuinely open to heterogeneous groups, not only the digitally confident. This must be organically embedded from the beginning. 
