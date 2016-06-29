@@ -36,3 +36,6 @@ Lastly, give the audience the possibility to **ask questions** and explain freel
 
 #### **// opencare experience**
 
+In the following picture, you can see one slide of one our presetation for an *engaging meeting*. 
+
+(picture "OC-slidepresentation")
