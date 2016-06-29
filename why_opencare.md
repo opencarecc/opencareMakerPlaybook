@@ -13,7 +13,7 @@ What if we could come up with a system that combines the access to modern scienc
 We are going to attempt to do just that. We are launching **opencare**, a two-year, 1.6 million euro research project to design and prototype new care services. We will:
 * collect experiences of community-driven care services
 * validate them through open discussion, both online and offline.
-* augment them with state-of-the-art [maker technology](/how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
+* augment them with state-of-the-art [maker technology](how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
 * combine everything we learn into the design and prototype of next generation community driven care services.
 
 WeMake is part of the **opencare** consortium with the following partners:
