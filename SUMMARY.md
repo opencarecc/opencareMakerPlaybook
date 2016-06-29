@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](introduction.md)
+* [ReadMe](introduction.md)
 * [Why opencare?](why_opencare.md)
    * [How the maker movement is transforming care](how_the_maker_movement_is_transforming_care.md)
    * [Ezio Manzini about opencare project](ezio_manzini_about_opencare_project.md)
