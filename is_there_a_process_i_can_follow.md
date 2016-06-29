@@ -20,3 +20,14 @@ You analyze and try to find out:
 For instance, an issue deeply related to shortness of breath may have a bigger impact on a community of people doing fatiguing manual labor rather than a desk job. 
 
 ***SYNTHESIZE - ***If the first phase of research will help you focus on the area of the problem, this second phase will help you define the problem and the people affected by it, the people you are gonna work for and with, your users.
+
+After researching your potential users, you represent the archetype of your average user.
+
+You brainstorm around the needs and the users and you go deeper adding details, like use cases and scenarios.
+
+|TIPS|
+|-|
+|Creating **personas** will help you visualize what your users do really care about|
+|There are many ways to approach a brainstorming session, usually we experienced that the oddest from your usual scenario you go, more interesting the thoughts will be! In other words embrace talking, confrontation, trying to feel part of the problem|
+|**Try to experience the scenarios** to understand more about the real needs|
+|**Look around and take inspiration from good examples**|
