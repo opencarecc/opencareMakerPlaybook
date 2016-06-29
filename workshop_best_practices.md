@@ -5,7 +5,7 @@ According to our experience in organizing and running workshops we have found so
 Please find here quick links to the most common issues:
 - [Space](workshop_space.md)
 - [Material](workshop_material.md)
-- [Coaches](#coaches)
+- [Coaches](workshop_coaches.md)
 - [Communication](#communication)
 - [Documentation](#documentation)
 
