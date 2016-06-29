@@ -55,31 +55,47 @@ Beware, this way is risky and may imply failure. But don’t be afraid of this, 
 * Take advantage of the **competencies** of a well assorted team
 
 ####**// opencare experience**
-What we have explained above is exactly the path that we followed in the opencare project. In order to define our tools we firstly started checking the existing ones, we analyzed them and got inspired. At the moment of group discussion we pointed out all the benefits of the various tools and we evaluated them.
-However we understood that they were not perfectly fitting our needs. For this reason we decided to design our own.
+What we have explained above is exactly the path that we followed in the **opencare** project.
+
+In order to define our tools we firstly started **checking the existing ones**, we analyzed them and got inspired. At the moment of team discussion we pointed out all the benefits of the various tools and we evaluated them.
+However we understood that they were not perfectly fitting our needs. For this reason we decided to **design our own**.
+
 Our co-design session was meant to involve a variety of people in order to identify care needs/issues and related solutions.
 As we mentioned before, we decided to split the sessions in two days; each activity lasted nearly 4 hours.
 During the activity planning we tried to understand what kind of tools would have been helpful for us.
-1st session
-In the first session we wanted our participants to feel comfortable, to learn about the project and understand clearly what would have happened during these two meetings. In the end, we wanted to get a list of personal needs that we could analyze and rearrange in order to be a starting point for the second session.
-In order to achieve this we prepared some slides that we decided to present to all the audience at the beginning of the evening.
-See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides.
-We also designed 4 posters representing What is opencare, Who we are and Who you are, opencare System Map. The last poster was about two case studies well representing the spirit and ideology of open source care solutions.
+
+* **1st session**
+
+In the first session we wanted our participants to feel **comfortable**, to **learn** about the project and understand clearly what would have happened during these two meetings.
+
+At the end of the first session our aim was to get a list of personal needs that we could analyze and rearrange in order to be a starting point for the second session.
+
+To achieve this we prepared some **slides** that we decided to present to all the audience at the beginning of the evening.
+
+######See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides.
+
+We also designed 4 **posters** representing:
+* What is opencare
+* Who we are and Who you are
+* opencare System Map.
+
+The last poster was about two case studies well representing the spirit and ideology of **open source care solutions**.
 They were all sticked on the walls, in order to be seen by everyone entering in the makerspace.
 
 (OC-A2_Poster_light_map.pdf / OC-A2_Poster_progetti.pdf / OC-A2_Poster.pdf)
 
-Since we planned to work in 3 groups we prepared some stickers representing the three names of the groups: “Hammer”, “Pincer”, “Screwdriver”. The stickers were meant to be given to the participants at the beginning of the activity, in order to be placed on their t shirts and to create the groups.
+Since we planned to work in 3 groups we prepared some **stickers** representing the three names of the groups: “Hammer”, “Pincer”, “Screwdriver”. The stickers were meant to be given to the participants at the beginning of the activity, in order to be placed on their t shirts and to **create the groups**.
 (The distribution of the people within the groups was decided by us, to create clusters with different people according to age, profession, competencies, exc.)
 
 (OC-A4_Stickers_carta_adesiva.pdf)
 
-We decided to divide the session in three parts: individual one, collective one, plenary session.
-We wanted the first one to be very intimate, lasting more or less 15 minutes, in order to let each participant focus on one or at most two practical needs in the sphere of daily care activities.
-The tool that we designed for this purpose was the Obstacle Paper. On this paper we asked them to write or draw a specific need that together we could have found a solution to.
-After filling the sheet we wanted each group to discuss about the different needs, and decide, with the help of a moderator, which specific needs they wanted to take care of and present to other groups during the plenary session. To take this decision we provided them big blank sheets of papers and sharpies. These tools were useful to inspire them and help them delineating on a poster their flow of thoughts.
+We decided to divide the session in three parts: **individual** one, **collective** one, **plenary** session.
+We wanted the first one to be very **intimate**, lasting more or less 15 minutes, in order to let each participant focus on one or at most two practical needs in the sphere of daily care activities.
 
-2nd session
+The tool that we designed for this purpose was the **Obstacle Paper**. On this paper we asked them to write or draw a specific need that together we could have found a solution to.
+After filling the sheet we wanted each group to **discuss** about the different needs, and decide, with the help of a moderator, which specific needs they wanted to take care of and present to other groups during the plenary session. To take this decision we provided them **big blank sheets of papers and sharpies**. These tools were useful to inspire them and help them delineating on a poster their flow of thoughts.
+
+* **2nd session**
 
 The second meeting had the goal of finding with the participants three solutions to three previously identified problems.
 Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the issues emerged, clustered by topic.
