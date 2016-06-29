@@ -1,12 +1,12 @@
 # Ezio Manzini about opencare project
 
-## Ezio Manzini about *opencare* project
+
 
 
 blablablablal
 
 
-### Where does the idea come from?
+#### Where does the idea come from?
 *Premise [by Manzini]*
 
 Since the beginning of human history, care has been exchanged (given and received) inside homogeneous, durable and relatively closed groups of individuals: families, clans, village communities, urban neighborhoods...
