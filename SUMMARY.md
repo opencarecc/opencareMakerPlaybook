@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Introduction !
 * [Why opencare?](why_opencare.md)
 * [How to involve citizens in a local community?](how_to_involve_a_local_community.md)
    * [How to engage people in local community?](how_to_engage_people_in_local_community.md)
@@ -39,5 +40,4 @@
        * [article1.2](article12.md)
    * [article2](article2.md)
    * [test test](test_test.md)
-* Introduction !
 
