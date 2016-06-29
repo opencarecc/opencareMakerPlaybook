@@ -10,11 +10,13 @@ A complete co-design experience needs also a "**post-phase**", that we called "[
 
 As **before** the actual co-design sessions (during which people get their hands dirty) there is, most of the time, a *determined strategy* in engaging and involving people by means of meetings, newsletter, exc as **after** the co-design sessions there should be an *ambitious strategy* as well. 
 
-This strategy can be handled in various ways and through different tools, but it always has a specific goal: making people aware about the **project updates** by receiving and exchanging feedbacks. 
+This strategy can be handled in various ways and through different tools, but it always has a specific goal: making people aware about the **project updates** by receiving and exchanging feedbacks. **Offline and online involvement** are both pretty efficient. 
 
-The tools might be the same of those used for the involvement of the communities, but, obviously the informations are going to change in the *layout* and in the *content*. The new informations should be still interesting and able to p**rovoke the curiosity** of the people. 
+The tools might be the same of those used for the involvement of the communities, but, obviously the informations are going to change in the *layout* and in the *content*. The new informations should be still interesting and able to **provoke the curiosity** of the people. 
 
 ###### See [Keep the interest alive - Part I](keep_the_interest_alive.md) tip for more details about the different involving online channels.
+
+
 
 #### **// In other words**
 
