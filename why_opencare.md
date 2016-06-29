@@ -16,6 +16,8 @@ We are going to attempt to do just that. We are launching **opencare**, a two-ye
 * augment them with state-of-the-art [maker technology](how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
 * combine everything we learn into the design and prototype of next generation community driven care services.
 
+[Ezio Manzini](ezio_manzini_about_opencare_project.html), one of the world's most prominent experts in design for social innovation, said "Care referred to a special kind of human interaction". 
+
 WeMake is part of the **opencare** consortium with the following partners:
 Edgeryders
 Città di Milano
