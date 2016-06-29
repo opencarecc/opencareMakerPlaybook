@@ -1,2 +1,2 @@
-# Workshop coaches
+# Workshop Coaches
 
