@@ -1,6 +1,5 @@
 # General notes
 
-## General notes
 
 If your project is inspired by an idea that helps your local community, make sure your emphasis the fact that it can help solve a problem or create opportunities in your local community.
 1. **Language:** Make sure your communicate in languages that are understandable by your local community
