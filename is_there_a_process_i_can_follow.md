@@ -31,3 +31,4 @@ You brainstorm around the needs and the users and you go deeper adding details, 
 |There are many ways to approach a brainstorming session, usually we experienced that the oddest from your usual scenario you go, more interesting the thoughts will be! In other words embrace talking, confrontation, trying to feel part of the problem|
 |**Try to experience the scenarios** to understand more about the real needs|
 |**Look around and take inspiration from good examples**|
+
