@@ -1,4 +1,4 @@
-# Keep the interest alive II
+# Keep the interest alive - Part II
 
 FEEDBACKS - UPDATES
 
@@ -14,7 +14,7 @@ This strategy can be handled in various ways and through different tools, but it
 
 The tools might be the same of those used for the involvement of the communities, but, obviously the informations are going to change in the *layout* and in the *content*. The new informations should be still interesting and able to provoke the curiosity of the people. 
 
-###### See [Keep the interest alive - Part I]
+###### See [Keep the interest alive - Part I](keep_the_interest_alive.md) tip for more details about the different involving online channels.
 
 #### **// In other words**
 
