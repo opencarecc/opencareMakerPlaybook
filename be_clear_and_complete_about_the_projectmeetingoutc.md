@@ -16,10 +16,11 @@ It is crucial to **adapt the tone of voice** and the **presentation style** acco
 
 ###### See [Pay attention to the context](pay_attention_to_the_context.md).
 
-In any case, you have to try to **not be too dispersive** and **repetitive**, the presentation support should be designed for **catching the attention** and **provoking** audiance **participation** and **interest**. Otherwise the guests/participants might get bored or they can loose the thread of the conversation.
+In any case, you have to try to **not be too dispersive** and **repetitive**, the presentation support should be designed for **catching the attention** and **provoking** audiance **participation** and **interest**. 
 
-You have to be as clearer as possibile, from the beginning to the end of the speech. So, try to make a **list of contents** following the Ws. Don't insert too
+You have to be as clearer as possibile, from the beginning to the end of the speech. So, try to make a **list of contents** following the **Ws**. Put some **inspiring pictures** and **keywords** in order to make a funcional visual aid. Be aware, don't insert too much text, otherwise the guests/participants might get bored or they can loose the thread of the conversation. Set a **specific speech time** for each topic and exercise yourself in advance. Futhermore, divide the topics among **different speakers**. 
 
+Lastly, give the audience the possibility to **ask questions** and explain freely their doubts. Be ready to **answer** without lose the focus and the aim of the meeting. Keep in mind the **pre-established Q&A time**, giving covertly a look to a timer is a perfect way.
 
 #### **// In other words**
 
@@ -27,14 +28,17 @@ You have to be as clearer as possibile, from the beginning to the end of the spe
 * **Adapt the contents** according to the type of audience and situation (Is it a meeting? a workshop?)
 * **Make the presentation** support (slide and/or video) interesting, engaging, **comprehensible** and **inclusive**
 * **Don't use too much text** into the visual presentation
-* **Explain** the four **Ws**: who are the actors, what they are going to do, why and how
-* 
+* Set a specific **speech time**
+* Divide the topics among **different speakers**
+* Go through the **Ws**: who are the actors, what they are going to do, why and how
+* Be ready to the pre-established **Q&A time**
 
 
 #### **// opencare experience**
 
 
 *explain clearly the roles, schedule of activities, project characteristics, goals, and answer in a complete way to every question/doubt of participants*
+
 
 
 
