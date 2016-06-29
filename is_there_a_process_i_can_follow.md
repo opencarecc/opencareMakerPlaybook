@@ -37,4 +37,4 @@ You brainstorm around the needs and the users and you go deeper adding details, 
 |TIPS|
 |-|
 |Fail early. The faster you get to a working prototype the least time you will waste on a possibly pointless idea|
-|Finding the right balance between working too much or not enough on a prototype is tricky. Try not to waste too much time on details|
+|Finding the right balance between working too much or not enough on a prototype is tricky. Try not to waste too much time on details but be sure you have all the main features|
