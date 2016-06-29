@@ -58,6 +58,8 @@
 
 * [Resources](resources.md)
    * Documenting your activities
+
+
 * [References](references.md)
 
 
