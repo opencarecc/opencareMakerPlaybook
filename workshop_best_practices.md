@@ -119,4 +119,4 @@ When communicating your workshop is always a good idea to make clear:
 |**It's very important to keep the communication alive also when the workshop is over**. A follow up with pictures, a video and wrap up is always a good idea to engage the participants in the project!|
 
 ###Documentation
-It's very important to publish all the slides and visual/text/code materials of the workshop, so the participants can refer to it after the workshop.
+It's very important to publish all the slides and visual/text/code materials of the workshop, so the participants can refer to it after the workshop. 
