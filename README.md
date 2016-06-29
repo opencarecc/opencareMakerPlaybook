@@ -22,7 +22,7 @@ Or download it as a:
 | **WHAT** | Information | Engagement | Involvement | Sharing | Empowerment | Capability | Exploitation |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 |** WHY**| To provide citizen with objective information to assist them in understanding the aim, the process and the result | To obtain citizen feedback on analysis, alternatives and/or decisions | To work directly with citizen throughout the process to ensure that the public concerns and aspirations are consistently understood and considered | To partner in each aspect of the decision including the development of alternatives and the identification of the preferred solution | To increase sharing practice, process, knowledge and skills | To place final decision-making in the hands of the public | To empower citizens to identify their knowledge and skills |
-| **HOW** | 1:3 | 2:3 | 3:3 | 4:3 | 5:3 | 6:3 | 7:3 |
+| **HOW** | storytelling and hand-on events, experiential workshops, individual connection through emails | Inquiring about content they have understood , asking them instances, sharing experience, pushing them to ask everything about your project | Asking the public what they are interested on. Listen to their stories and their trouble. Let them to decide which narrative they want to carry on | Finding with citizens a solution, an ideas and assist them in understanding evaluation criteria |Finding with citizens a solution and ideas. Assist them in understanding evaluation criteria in order to design feasible solutions| Prototyping and testing a solution | Documenting and sharing prototyping process and tools |
 
 
  
