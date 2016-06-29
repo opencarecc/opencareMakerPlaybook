@@ -11,13 +11,7 @@ Also, it really depends on what kind of prototype you are going to work on. In o
 
 That said, in this chapter we'll try to give you an overview of what we have found to be a [good methodology](is_there_a_process_i_can_follow.md) and [useful technologies](what_kind_of_technologies_can_i_use.md) to prototype hardware solutions using tools and machines like the ones available in a Makerspace or Fablab.
 
-## Is there a process I can follow?
-design process, what it is, why it's powerful, how you can use it for prototyping
 
-??? 
-- different kinds of prototypes
-- testing for feedback
-- prototyping with hardware
 
 
 
