@@ -24,7 +24,7 @@
        * [Keep the interest alive II](keep_the_interest_alive_ii.md)
    * [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md)
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
-* [How can I share a project?](whatis_the_most_effective_way_to_document_a_proje_.md)
+* [how_can_i_share_a_project.md](whatis_the_most_effective_way_to_document_a_proje_.md)
 * [Resources](resources.md)
 * [References](references.md)
 * [test chapter](testmd.md)
