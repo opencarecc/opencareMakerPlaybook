@@ -25,12 +25,18 @@ Lastly, give the audience the possibility to **ask questions** and explain freel
 #### **// In other words**
 
 * Prepare a **list of contents** for the presentation support
+
 * **Adapt the contents** according to the type of audience and situation (Is it a meeting? a workshop?)
+
 * **Make the presentation** support (slide and/or video) interesting, engaging, **comprehensible** and **inclusive**
+
 * **Don't use too much text** into the visual presentation
 * Set a specific **speech time**
+
 * Divide the topics among **different speakers**
+
 * Go through the **Ws**: who are the actors, what they are going to do, why and how
+
 * Be ready to the pre-established **Q&A time**
 
 
