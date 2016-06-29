@@ -152,8 +152,7 @@ Social network
 Maililing list
 ...
 
-Regular communication give them updates and make them feel valuable (explain how we involve/engage people and why.
-
+Regular communication give them updates and make them feel valuable.
 
 ### General notes
 
