@@ -1,6 +1,6 @@
 # How to engage people in local community?
 
-###Your Greatest Resources
+####Your Greatest Resources
 
 This will help to start citizen engagement process and create a new local community care-centered:
 - Identify the minimum number of people who want to be involved (this shows number of contacts that I will turn on and the kind of promotion that I'll have to activate)
@@ -13,7 +13,7 @@ This will help to start citizen engagement process and create a new local commun
 ######*(see ["General notes"](###-General-notes) subchapters for more details)*
 
 
-###How many people I have to contact?
+####How many people I have to contact?
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 The citizens involved in communities have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
