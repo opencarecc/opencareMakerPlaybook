@@ -1,4 +1,4 @@
-# Workshop categories
+# [NEXT] Workshop categories
 
 ## Educational workshop
 you learn how to use a tool
