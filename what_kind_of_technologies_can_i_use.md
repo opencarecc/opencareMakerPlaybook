@@ -54,3 +54,9 @@ Another platform growing in popluraity is [Raspberry Pi](https://www.raspberrypi
 *Here are two useful articles to help you choose the right board for your project:*
 * http://makezine.com/2014/02/07/which-board-is-right-for-me/
 * http://makezine.com/comparison/boards/
+
+|TIPS|
+|-|
+|**Power is nothing without control.** Do not aim for the most powerful boards just because more power is better. Try to find the best pick for your projects needs!|
+|**Smaller is not always better.** If you have room, don't go for the smallest board just because it's cool, you might find yourself in need of adding more components while iterating on your prototype and you will need more inputs/outputs|
+||
