@@ -8,3 +8,7 @@ A user-centered design process usually follows these five steps.
 *image taken from http://www.legaltechdesign.com/LegalDesignToolbox/develop-a-new-project/*
 
 Rather than being a strict set of rules it's more like a series of different stages of a flow that ends up in a possibly endless loop of iterations. Sometimes it tends to feel so natural you won't even feel you are following a methodology.
+
+
+### How does it work then?
+***DISCOVER - ***Sometimes you start with a brilliant idea, lucky you! Most of the times you actually start by just facing a need or a series of needs. 
