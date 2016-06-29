@@ -6,6 +6,7 @@
    * [How to engage people in local community?](how_to_engage_people_in_local_community.md)
    * [What kind of event I have to organize to facilitate the participation of citizens?](what_kind_of_event_i_have_to_organize_to_facilitat.md)
        * [Methodology and goals](methodology.md)
+       * Engagement in opencare project
    * [General notes](general_notes.md)
 * [How to involve an online community?](how_to_involve_an_online_community.md)
 * [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.md)
