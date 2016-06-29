@@ -12,10 +12,22 @@ As explained in the previous tips, there are many subtle strategies for making p
 
 But when you are face to face with a **diverse audience** you might need a **presentation support** for your speech. This support can be structured through different forms, the most common ones are the **slide** presentation and explanatory **videos**. Both of them can be very useful during a meeting, workshops or other kind of events. Often, they are used during the **first part of the meeting**, during which the staff are going to present *who they are*, *why they are there* and *what they are going to do* with the guests/participants.
 
-It is crucial to **adapt the tone of voice** and the **presentation style** according to the kind of audience. 
+It is crucial to **adapt the tone of voice** and the **presentation style** according to the kind of audience.
+
+###### See [Pay attention to the context](pay_attention_to_the_context.md).
+
+In any case, you have to try to **not be too dispersive**, the presentation support should be designed for **catching the attention** and **provoking** audiance **participation** and **interest**. 
+
+You have to be as clearer as possibile, from the beginning to the end of the presentation. 
 
 
 #### **// In other words**
+
+* Prepare a **list of contents** for the presentation support
+* **Adapt the contents** according to the type of audience and situation (Is it a meeting? a workshop?)
+* **Make the presentation** support (slide and/or video) interesting, engaging, **comprehensible** and **inclusive**
+* **Explain** the four **Ws**: who are the actors, what they are going to do, why and how
+* 
 
 
 #### **// opencare experience**
