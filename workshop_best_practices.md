@@ -9,7 +9,7 @@ Please find here quick links to the most common issues:
 - [Communication](#communication)
 - [Documentation](#documentation)
 
-### Space
+###Workshop Space
 There is no right or wrong space for a workshop, and usually a space can be finetuned to meet diverse needs. One thing for sure, **it's very important to make participants feel comfortable and give them a warm welcome**.
 You can use the space in many different ways according to the topic and the methodologies of your workshop. In general when setting up hardware prototyping, digital fabrication and design workshops we have found these practices very helpful:
 
@@ -49,7 +49,7 @@ In case access to the Internet is fundamental to run the workshop (say for insta
 |Always be sure to bring: ethernet cables + an access point you can quickly configure + bring a GSM modem for worst case scenarios|
 
 
-### Material
+###Workshop Material
 The kind of material you might need to run your workshop can vary a lot depending on the topic and the methodology. One thing is for sure, **access to the right material is fundamental for a successful workshop**. Not providing participants with the right materials and tools will leave them feeling powerless and might highly compromise their learning process or creative flow.
 
 |TIPS|
@@ -59,7 +59,7 @@ The kind of material you might need to run your workshop can vary a lot dependin
 |Whatever topic your workshop is about it's always a good idea to have at least a small amount of office supplies: paper, markers, pencils, scissors, post-its... They will be useful for participants to take notes or sketch ideas|
 |**Never underestimate the importance of tools, always bring more tools then you think you might need!** This is highly topic and methodology independent and will save your life when in need of that small screwdriver or micro USB cable or red marker...|
 
-### Coaches
+###Workshop Coaches
 ***Who's gonna run the workshop? -*** Are you running it? Are you sure you won't need help from someone else when having to jump from participants to participants asking you questions like there's no tomorrow? Are you sure you can deal with the amount of participants attending the workshop?
 These are the kind of questions you should ask yourself when setting up a workshop. They will help you decide the maximum number of participants, and they will make you understand how many coaches are needed to run the workshop successfully.
 
@@ -101,7 +101,7 @@ These are the kind of questions you should ask yourself when setting up a worksh
 |If you only think it could be necessary or helpful then make it clear with the rest of the coaches and establish shared guidelines|
 |Make this clear with the participants too by saying in the beginning of the session that this is a discrimination-free area|
 
-### Communication
+###Workshop Communication
 You are ready to start your workshop, then don't forget to let people know your amazing workshop is taking place!
 When communicating your workshop is always a good idea to make clear:
 - what is the topic in a clear and intuitive way
@@ -115,11 +115,16 @@ When communicating your workshop is always a good idea to make clear:
 |TIPS|
 |-|
 |**Communicate your workshop to your community through the right online and offline channels depending on the demography of your peculiar target**: newsletter, blog post, posts on social networks, flyers, postcards, sms...|
-|In our direct experience we combined communication on different levels (weekly newsletter, blog posts, posts on facebook and twitter) since our target group was very varied. *For more info on our experience please refer to [this chapter](keep_the_interest_alive.md)* |
+|In our direct experience we combined communication on different levels (weekly newsletter, blog posts, posts on facebook and twitter) since our target group was very varied. *For more info on our experience please refer to ["Keep the interest alive" chapter](keep_the_interest_alive.md)* |
 |**It's very important to keep the communication alive also when the workshop is over**. A follow up with pictures, a video and wrap up is always a good idea to engage the participants in the project!|
 
-###Documentation
+###Workshop Documentation
 It's very important, and quickly becoming a standard practice, to publish all the slides and visual/audio/text/code materials of the workshop, so the participants can refer to it after (and sometimes during) the session. Why is it?
 - if you have ever attended a workshop you know how hard it is to be extremely focused for all the duration of the workshop. Having the chance to look back at the content will make participants enjoy the workshop a lot more and will solidify their understanding of what was done during the session.
-- some participants like to take notes when attending workshops, sometimes this practice will distract them from what is really going on, mostly in hands-on sessions. Sharing all the content with the participants will let them free from the taking notes struggle and will make them focus more on what is happening in front of their eyes!
-- 
+- some participants like to take notes when attending workshops, sometimes this practice will distract them from what is really going on, mostly in hands-on sessions. Sharing all the content with the participants will let them free from the taking notes struggle, and will make them focus more on what is happening in front of their eyes!
+- having access to workshop's content and to real time documentation of the session will give participants the chance to share it with others, amplifying the communication of the project
+
+***Sharing content -*** There are many tools out there 
+***Documenting the session -*** lala
+
+For more info about documentation please refer to the ["How can I share a project? chapter](how_can_i_share_a_project.md).
