@@ -26,4 +26,10 @@ Technically a microcontroller is a
 
 https://en.wikipedia.org/wiki/Microcontroller
 
-What non-professionals of the IT fields usually refers to when they talk about microcontrollers are actually microcontroller-based platform that will let you connect electronic components like sensors and actuators and read/write data through the input and output ports of the chip. 
+What non-professionals of the IT fields usually refer to when they talk about microcontrollers are actually microcontroller-based platforms that will let you connect electronic components like sensors and actuators and read/write data through the input and output ports of the chip.
+
+Why are this piece of electronics interesting and useful? Simply put, they can make an artifact "smart":
+- they can sense, process and react to events taking place in an environment
+- they can make a human interact with a device on a deeper layer, for instance recalling different settings, programming it according to specific inputs or generating desired outputs
+
+The list of electronic components you can connect to one of this boards is potentially infinite. 
