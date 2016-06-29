@@ -16,7 +16,7 @@ During the last **six months** we organized and divided our **timetable** into f
 1. **[Inspiration](Our_experience_in_co-design_filed.md#inspiration-phase)** phase; 
 2. **[Ideation](Our_experience_in_co-design_filed.md#ideation-phase)** phase;
 3. **[Implementation](Our_experience_in_co-design_filed.md#implementation-phase)** phase;
-4. **Recognition** phase. 
+4. **[Recognition](Our_experience_in_co-design_filed.md#recognition-phase)** phase. 
 
 ####// Inspiration phase
 
@@ -65,3 +65,5 @@ During the second meeting, we hosted altogether **(?)** participants. First of a
 Then, the participants were divided into three groups according to their interest in one isssue instead of the other ones. Then, the participants were asked to collaborate and work together in order to define better their idea and **concept** through the tools. Obviously, they were supported by the mentor. *Don't be afraid to get your hands dirty!*
 
 As the first session, in this second one there was the **planery session** as well, during which one member per group explained to the other groups its concept. Moreover, the break-time was combined with the teamwork time, since the participants were very into it. 
+
+#### // Recognition phase
