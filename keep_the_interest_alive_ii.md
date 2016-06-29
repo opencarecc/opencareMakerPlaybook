@@ -16,8 +16,6 @@ The tools might be the same of those used for the involvement of the communities
 
 ###### See [Keep the interest alive - Part I](keep_the_interest_alive.md) tip for more details about the different involving online channels.
 
-
-
 #### **// In other words**
 
 * **Don't lose the contact** with the participants
