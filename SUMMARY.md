@@ -7,7 +7,7 @@
 * [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.md)
    * [Workshop best practices](workshop_best_practices.md)
        * [Workshop Space](workshop_space.md)
-       * Workshop Material
+       * [Workshop Material](workshop_material.md)
    * [Workshop categories](workshop_categories.md)
    * [Our workshop experience](our_workshop_experience.md)
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
