@@ -3,8 +3,6 @@
 
 Opencare is a European project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670. 
 
-####opencare project
-
 For most of humanity’s history, care services – which today we call health and social care – were provided by communities: family members, friends and neighbours would check on each other to make sure everyone was fine, keep an eye on each other’s children or elderly parents, even administer simple medical treatments. 
 
 Starting from the second half of the 20th century, developed countries switched to systems where the care providers were professionals, working for the government and modern corporations.
@@ -15,7 +13,7 @@ What if we could come up with a system that combines the access to modern scienc
 We are going to attempt to do just that. We are launching **opencare**, a two-year, 1.6 million euro research project to design and prototype new care services. We will:
 * collect experiences of community-driven care services
 * validate them through open discussion, both online and offline.
-* augment them with state-of-the-art maker technology (3D printing, laser cutting, biohacking…)
+* augment them with state-of-the-art [maker technology](/how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
 * combine everything we learn into the design and prototype of next generation community driven care services.
 
 WeMake is part of the **opencare** consortium with the following partners:
