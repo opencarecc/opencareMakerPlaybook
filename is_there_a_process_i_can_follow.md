@@ -68,4 +68,4 @@ The design process is powerful because it puts the user at the center. The techn
 
 A brilliant technological solution without users will just be a well executed excercise (or maybe a study), an innovative device that won't be used by people will just be a mass of decaying particles.
 
-The user-centered design process will give you and your project the 
+The user-centered design process will give you and your idea the legitimacy to go ahead and invest in the project.
