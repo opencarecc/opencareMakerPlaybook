@@ -48,4 +48,9 @@ Another platform growing in popluraity is [Raspberry Pi](https://www.raspberrypi
 - size of the device
 - destination of the device (eg. wearable device)
 - your own programming and electronics skills
+- particular tech needs (internet connection, audio processing capabilities etc...)
 - cost
+
+Here are two useful articles to help you choose the right board for your project:
+http://makezine.com/2014/02/07/which-board-is-right-for-me/
+http://makezine.com/comparison/boards/
