@@ -12,8 +12,7 @@ design process, what it is, why it's powerful, how you can use it for prototypin
 
 
 
-## Where do I go next?
-###Scale up!
+
 
 
 
