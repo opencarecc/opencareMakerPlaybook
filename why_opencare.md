@@ -1,6 +1,8 @@
 # Why opencare? 
 
 
+inctroduction of the chapter
+
 ####opencare project
 
 For most of humanity’s history, care services – which today we call health and social care – were provided by communities: family members, friends and neighbours would check on each other to make sure everyone was fine, keep an eye on each other’s children or elderly parents, even administer simple medical treatments. 
