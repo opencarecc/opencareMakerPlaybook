@@ -6,7 +6,7 @@ Honestly, documentation isn't an easy task. Once you are focused on the job you 
 1. The clearer your documentation, the more engaged online community you can grow
 2. The more you document, the more you tell the story of your product, which is a great asset for media coverage, supporters, and again, your online community
 3. Documentation helps you (yes, you!) keep track of your thoughts, how and where you have started and how you end now.
-4. If you can't present it, then something is wrong. Being able to organize your thougts and guide your community through replicating how following your project is a skill that you have to master in order for your project to survive.
+4. If you can't present it, then something is wrong. Being able to organize your thoughts and guide your community through replicating how following your project is a skill that you have to master in order for your project to survive.
 
 ## Real time
 Your documentation starts from day one of your project.  You need to document your activity to help you build and engage your community, and you need to document the process of thinking and developing your project.  As far as activities are concerned here are some helpful tips:
@@ -39,7 +39,7 @@ So, Microslicer is a very small laser cutter, that is fully opensource. It is de
 1. First, the initial lead part of the post, makes it clear, in a glance what this project is about
 ![](microslicer_Lead.jpg)
 
-2. The Bill of materials is very detailed and supported by images and links to where to buy from.
+2. The Bill of materials is very detailed and supported by images and links to where to buy from.  (add more details)
 
 3. Details.  Everything is super detailed, even a tiny detail such as how to color your parts without making a mess.
 
@@ -49,10 +49,10 @@ So, Microslicer is a very small laser cutter, that is fully opensource. It is de
 Well, the target of documentation here is not to give an intro to electricity. When you document your hardware project, the target is to make things as clear and as legible as possible for other to follow the logic and become able to replicate it. Use images and easy plug and play techniques, AND, use advanced schematic wiring, for those who are able to dig more.
 
 
-#### Piccola
-Piccola is a tiny wonderful bot that can be used as a drawing bot.  It is made entirely of laser cut parts joined together. The parts are small and it has lots of details, but the clear and detailed documentation makes it easy for other to follow and copy the project.  Lets start by where documentation resides and how it works:
+#### Piccolo
+Piccolo is a tiny wonderful bot that can be used as a drawing bot.  It is made entirely of laser cut parts joined together. The parts are small and it has lots of details, but the clear and detailed documentation makes it easy for other to follow and copy the project.  Lets start by where documentation resides and how it works:
 
-1. The entire website is based on git.
+![](Piccolo.jpg)
 
 
 
