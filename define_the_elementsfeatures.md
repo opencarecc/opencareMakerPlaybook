@@ -9,4 +9,4 @@ MODERATOR ROLES DATES
 #### **// opencare experience**
 
 
-*establish the length, the number of sessions, the place, exc (nota bene...)*
+*establish the length, the number of sessions, the place, exc (nota bene...).*
