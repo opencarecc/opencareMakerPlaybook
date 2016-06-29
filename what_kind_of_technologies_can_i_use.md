@@ -36,11 +36,11 @@ The list of electronic components you can connect to one of this boards is poten
 - a light sensor trigger a motor when the sun has reached a certain position and moving a blind
 - an accelerometer detect the fall of a person and trigger a phone call to a doctor
 
-The most popular hardware prototyping platform to create physical interactive devices is probably [Arduino](http://arduino.cc). It features a hardware board where you can connect the electronic components, and a software you can use to program its behavior.
+**The most popular hardware prototyping platform to create physical interactive devices is probably [Arduino](http://arduino.cc)**. It features a hardware board where you can connect the electronic components, and a software you can use to program its behavior.
 
 What made Arduino stand out is the accessibility and ease-of-use, in fact it was designed and developed to let non-programmers do a programmer work. Also, being an open source project it generated an environment of derivated boards, plugins and add-on modules. Using this modules and the examples provided sometimes you don't even need to know about electronics and programming at all.
 
-Another platform growing in popluraity is [Raspberry Pi](https://www.raspberrypi.org/). The computational power on this platform is harder when compared to an Arduino, at the same time it requires higher programming skills.
+**Another platform growing in popluraity is [Raspberry Pi](https://www.raspberrypi.org/).** The computational power on this platform is harder when compared to an Arduino, at the same time it requires higher programming skills.
 
 **How to choose a microcontroller? -** Hard to say, it really depends on the needs of the project. Things to consider are:
 - amount of inputs and outputs that are needed to connect all the sensors and actuators
