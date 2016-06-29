@@ -1,6 +1,6 @@
 # Why opencare? 
 
-Content: why opencare - How the maker movement is transforming care - Ezio Manzini abut opencare project
+Content: why opencare - How the maker movement is transforming care - [Ezio Manzini about opencare project](.../how_the_maker_movement_is_trasforming_care.md)
 
 ####opencare project
 
