@@ -1,7 +1,7 @@
 # Why opencare? 
 
 
-inctroduction of the chapter
+Opencare is a European project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670. 
 
 ####opencare project
 
