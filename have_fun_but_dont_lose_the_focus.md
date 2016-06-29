@@ -34,4 +34,4 @@ Another way to make participants more focused is to give them some **spot reward
 
 During the entire co-design experience, from the *engagement* to the *involvement* phase, we had to **reach different set of goals** from time to time. 
 
-According to the kind of audience, place, time and activity, we **employed many attitudes** and **perform different roles**. Sometimes we were very **playful** and ironic and in other times more serious and **hard-driving**. We had a lot of fun, but at the same time we always did our best to reach our goals. 
+According to the kind of audience, place, time and activity, we **employed many attitudes** and **perform different roles**. Sometimes we were very **playful** and ironic and in other times more serious and **hard-driving**. We had a lot of fun, but at the same time we always did our best to reach our goals without losing our focus.
