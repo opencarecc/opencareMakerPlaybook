@@ -60,3 +60,12 @@ As easy as it may sound this could probably be the hardest time of your process.
 
 At some point you might have a prototype that will actually answer to your users needs, congrats!
 But, unfortunately this is not guaranteed. You might spend a lot of time iterating and not finding the solution you are looking for. Maybe you can go back and try with one of the other discarded ideas!
+
+
+### Conclusions
+
+The design process is powerful because it puts the user at the center. The technology, the methodology, the materials fall inevitably to the background.
+
+A brilliant technological solution without users will just be a well executed excercise (or maybe a study), an innovative device that won't be used by people will just be a mass of decaying particles.
+
+The user-centered design process will give you and your project the 
