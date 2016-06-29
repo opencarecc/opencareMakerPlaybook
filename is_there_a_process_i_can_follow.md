@@ -11,4 +11,12 @@ Rather than being a strict set of rules it's more like a series of different sta
 
 
 ### How does it work then?
-***DISCOVER - ***Sometimes you start with a brilliant idea, lucky you! Most of the times you actually start by just facing a need or a series of needs. 
+***DISCOVER - ***Sometimes you start with a brilliant idea, lucky you! Most of the times you actually start by just facing a need or a series of needs. Those needs they usually have emerged in a certain context. As the first step you define this context, the area you are going to work in.
+
+You analyze and try to find out:
+* who are the stakeholders involved
+* what kind of characteristics does the context have
+
+For instance, an issue deeply related to shortness of breath may have a bigger impact on a community of people doing tyring manual labor rather than a desk job. 
+
+***SYNTHESIZE - ***If the first phase of research will help you focus on the area of the problem, this second phase will help you define the problem and the people affected by it. The people you are gonna work for and with, your users.
