@@ -24,7 +24,7 @@ Technically a microcontroller is a
 
 > "small computer [...] on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals." 
 
-https://en.wikipedia.org/wiki/Microcontroller
+*taken from https://en.wikipedia.org/wiki/Microcontroller*
 
 What non-professionals of the IT fields usually refer to when they talk about microcontrollers are actually microcontroller-based platforms that will let you connect electronic components like sensors and actuators and read/write data through the input and output ports of the chip.
 
