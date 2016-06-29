@@ -25,8 +25,6 @@ The machine operator is familiar with the adjustments needed for each machine ba
 * http://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/
 * http://www.instructables.com/id/How-to-Use-a-Laser-Cutter/
 
-### Milling [Costantino]
-
 ## Where do I go next?
 ###Scale up!
 
