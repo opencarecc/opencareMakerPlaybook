@@ -65,8 +65,8 @@ The kind of feedback we received was diversified:
 - on one hand, more openly, we received good feedback at the end of the sessions
 - on the other hand, around half of the people that joined the sessions kept on coming back to the following co-design sessions with the local communities
 
-workshop material
-more documentation
+
+### Documentation
 https://www.flickr.com/photos/wemake_cc/sets/72157666906850805
 
 
