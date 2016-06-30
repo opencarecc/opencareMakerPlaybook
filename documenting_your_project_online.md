@@ -38,17 +38,16 @@ The lead section of their landing page, makes it easy to understand what this pr
 
 
 #### Rishalaser
-Rishalaser is an opensource laser cutter that works via mobile.  Their website is hosted on a wordpress template, and they use a mediawiki plug in, for their documentation page.  Their documentation is mostly viusal, with a plug and play style
+Rishalaser is an opensource laser cutter that works via mobile.  Their website is hosted on a wordpress template, and they use a mediawiki plug in, for their documentation page.  Their documentation is mostly viusal, with a plug and play style.
 
-
+![
+](rishalasercutter.jpg)
 
 #### Ultimaker?
-Well, even complex project that have now gone commercial do have a clear and detailed documentation of their opensource 
+Well, even complex project that have now gone commercial do have a clear and detailed documentation of their opensource project. Ultimaker the best seling 3D printer, offers a comprehensive and super detailed quide to how to build each of their designs.
 
 
-
-
-
+![](ultimaker.jpg)
 
 
 
