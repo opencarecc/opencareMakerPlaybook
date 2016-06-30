@@ -26,6 +26,7 @@ To overcome this crisis a brand new care systems has to be imagined and enhanced
 Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
 *[by Manzini]*
 1. *Care referred to a special kind of human interaction*: someone (the care giver) gives attention to, and takes action for, someone else (the care receiver).
+
 2.*Care referred to a set of artifacts*: the products and services of the system which, in a given time and place, enables the care activities (i.e. the care interaction of the point 1).
 
 #### What is open?
