@@ -33,11 +33,11 @@ These are just some of the possible questions that you may try to answer. Some q
 
 #### **// In other words**
 
-* Ask yourself in detail what kind of **deliverable** you expect obtaining
+* Ask yourself in detail what kind of **deliverable** you expect obtaining;
 
-* Write down the **answers** in order to refer to them at any time
+* Write down the **answers** in order to refer to them at any time;
 
-* Make a list of your **essential goals**
+* Make a list of your **essential goals**.
 
 #### **// opencare experience**
 
@@ -50,20 +50,12 @@ Here you can see ours, that was later enhanced once we defined better our tools:
 
 **Deliverables**
 
--- Detailed brief with:
-
-- references to user needs
-- and proposed solutions (including the ones that have not been selected)
-
-
--- Important documents related to the brainstorm session(s):
-
-* Transcriptions
-* Sketches
-* Flow charts
-
-
--- A list of possible testers
-
--- Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table
-
+3. Detailed brief with:
+  4. References to user needs
+  5. Proposed solutions (including the ones that have not been selected)
+3. Important documents related to the brainstorm session(s):
+  4. Transcriptions
+  5. Sketches
+  6. Flow charts
+3. A list of possible testers
+4. Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table
