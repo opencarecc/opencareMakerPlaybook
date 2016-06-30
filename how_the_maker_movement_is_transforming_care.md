@@ -5,7 +5,7 @@ Daelyn James, 14, likes to make things.With just some wooden sticks, an electric
 
 The maker movement demystifies and democratizes care device design.What’s exciting about the maker movement in care is that the possibilities are endless and can come from anywhere. From low-tech to high-tech solutions makers are solving real problems for patients, often at a fraction of the cost of traditional medical equipment. And in many cases, citizens themselves are the makers, like Daelyn. 
 
-An example of (hacker) community-driven care
+####An example of maker community-driven care
 
 Franco [not his real name] is an Italian music teacher and engineering student. He suffers from severe visual impairment. He has two projects in mind: (1) building a kit of Lego-style components to quickly assemble and prototype electronic circuits designs; (2) learning how to 3D-design and 3-D print. The first project would help him with his studies, allowing him to sketch on-the-fly electronic circuits diagram without having to deal with small graphics symbols, which is all but impossible with his eyesight; the second project would enable him to build a small device to hold his white cane when he needs both hands (example: at the supermarket checkout he needs to handle his wallet, and there is no obvious place to rest his cane).
 
