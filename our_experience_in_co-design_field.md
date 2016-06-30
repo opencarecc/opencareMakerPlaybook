@@ -48,13 +48,13 @@ We divided the session into three main parts:
 * The second part was more **collective**, since participants were asked to “validate” their issues/needs through a **group discussion** and choose one for each group;
 * Then, the third part was a **plenary session**, in which one member per group were asked to present the concept of the selected need.
 
-After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by **(?)**. It gave all the participants and the operational staff the possibility to relax and enjoy the time spent together. 
+After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by the center of **[Formazione San Giusto](https://www.google.it/search?client=safari&rls=en&q=centro+di+formazione+san+giusto&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=M0F1V8CXL4HA8gf0iauoBA)**. It gave all the participants and the operational staff the possibility to relax and enjoy the time spent together. 
 
 Audio and video of the meeting has been integrally recorded.
 
 **Second co-design session** - May 11th, 2016
 
-During the second meeting, we hosted altogether **(?)** participants. First of all, there was a **tight slide presentation** about:
+During the second meeting, we hosted altogether 20 participants. First of all, there was a **tight slide presentation** about:
 
 * A list of the **different issues**, revealed form the first session and divided into three macro-areas;
 * An **explanation** about the **tools** that they were going to use during the session;
@@ -76,4 +76,4 @@ But it is not all, there was even such a kind of "**tension**" between participa
 
 Moreover, we didn't talk just abut the result of the co-design sessions, actually during the presentation, we showed them how we analized and select the final project. Accordingly to our *train of thought*, we explained our selection process, illustrating the evaluation matrix and all the other related tools, with **trasparency** and **clarity**. We showed them how **opencare** community is actually acting, through what kind of channels both online and offline. At this point we get a bit in troubles, since the european project is holded in english and our audience is mostly composed by elderly people. But we were able to manage the situation explaining them the reason why. 
 
-At the end of the presentation, there was a delicious buffet organized by **[Centro di Formazione San Giusto](https://www.google.it/search?client=safari&rls=en&q=centro+di+formazione+san+giusto&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=M0F1V8CXL4HA8gf0iauoBA)**, which gaves the possibility to end this experience in the authetic **milanese way**. 
+At the end of the presentation, there was a delicious buffet organized by the center of **[Formazione San Giusto](https://www.google.it/search?client=safari&rls=en&q=centro+di+formazione+san+giusto&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=M0F1V8CXL4HA8gf0iauoBA)**, which gaves the possibility to end this experience in the authetic **milanese way**. 
