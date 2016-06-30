@@ -27,12 +27,12 @@ Once you will have got all the answers you will have defined important elements,
 
 #### **// In other words**
 
-* Define the **roles** for the session among people of your team
+* Define the **roles** for the session among people of your team;
 
-* Schedule roughly **how long** the activity is going to last
+* Schedule roughly **how long** the activity is going to last;
 
-* Delineate a suitable **moment of the day** for the co-design session
-* 
+* Delineate a suitable **moment of the day** for the co-design session.
+
 #### **// opencare experience**
 
 When we had to define these elements in order to structure our co-design session we started answering those questions simultaneously.
@@ -45,7 +45,7 @@ We also realized that the expected outcome required an amount of work and involv
 
 We planned to introduce the project to all the participants, and to divide everyone in 3 working groups, in order to think, analyze and select their personal needs related to care, in a very broad way.
 
-###### *(see [Our experience in co-design field](our_experience_in_co-design_field.md) for more details)*
+###### See [Our experience in co-design field](our_experience_in_co-design_field.md) for more details.
 
 With this planning in our mind, we defined our roles within the session, by allocating at least one **moderator** and one **analytical observer** in each group, in order to lead the activity and to record/analyze all the actions and behaviours of the people.
 
