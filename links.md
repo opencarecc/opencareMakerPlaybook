@@ -2,7 +2,7 @@
 
 Below are some links which you can find useful, in the context of developing your opensource project and the community around it.
 
-###Design thinking and where to start:
+#### // Design thinking and where to start:
 
 Design thinking is a practice that helps people visualize the different aspects of their project, the project impact, and how to test and evaluate. If you have an idea, design thinking workshop, might be one practice that can help you, explain your idea to your audiance and makerspace where you present, and helps you grow a community around your project. It also helps you plan your testing in order to evaluate your thinking.
 
@@ -14,11 +14,11 @@ Design thinking is a practice that helps people visualize the different aspects 
 
 [Design thinking](https://www.coursera.org/learn/design-thinking-innovation) via coursera, a free guide on how to plan, your project.
 
-#### Making things:
+#### // Making things:
 
 We already explained a some techniques on how to make your prototype, below are links to further technologies that you can use, and will be useful to learn about, in order to plan what technologies and processes do you need.
 
-tis a treasure board that empowers anyone to work with sensors, data and devices, without even necessarily being an engineer
+tis a treasure board that empowers anyone to work with sensors, data and devices, without even necessarily being an engineer.
 
 [Fritzing,](http://fritzing.org/home/) a very easy tool that helps you design your circuits, explore concepts and learn about electricity.
 
@@ -26,7 +26,7 @@ tis a treasure board that empowers anyone to work with sensors, data and devices
 
 [Processing](https://processing.org/tutorials), a very easy programming language, that helps you understand how to work with data, and how to visiualize and build simple effect.  Go through the tutorials step by step, this will be a great asset to you in further understanding about Arduino and programming in general. 
 
-####What is being developed as open hardware?
+#### // What is being developed as open hardware?
 
 [Open Satellite](http://opensat.cc/download/DIYSatellite_en.pdf), you can literally send data to space using opensource blue prints and guidelines 
 
