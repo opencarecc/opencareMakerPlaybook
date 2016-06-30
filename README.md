@@ -17,13 +17,13 @@ We all must be emphatic innovators, able to collaborate, create, and act in chan
 
 The Playbook describes a general path for starting collaborative processes that you can adapt as needed. The playbook is related to engagement processes (local and online), co-design sessions, prototyping and sharing documentation as parts of the entire process. 
 
-* [Local](../how_to_involve_a_local_community.md) and [online](../how_to_involve_an_online_community.md) engagement as the citizenship involvement on specific issue (in this case: care);
+* [Local](../how_to_involve_a_local_community) and [online](../how_to_involve_an_online_community) engagement as the citizenship involvement on specific issue (in this case: care);
 
-* [Co-design](../how_can_i_structure_a_co-design_session.md) as the collective detection of troubles and solutions;
+* [Co-design](../how_can_i_structure_a_co-design_session) as the collective detection of troubles and solutions;
 
-* [Prototyping](../how_can_i_make_a_prototype.md) as a the making of a service or a device from a concept;
+* [Prototyping](../how_can_i_make_a_prototype) as a the making of a service or a device from a concept;
 
-* [Sharing documentation](../how_can_i_share_a_project.md) to facilitate replicability of processes and results.
+* [Sharing documentation](../how_can_i_share_a_project) to facilitate replicability of processes and results.
 
 The Playbook is a collection of notes, tools, tips and tricks about the [opencare.cc](http://opencare.cc) project. 
 It is a work in progress and it's organized in such a way so that everyone can start from here to replicate changing process of **opencare** project.
