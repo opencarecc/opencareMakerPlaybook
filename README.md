@@ -47,7 +47,7 @@ Costantino Bongiorno
  [WeMake | fablab makersapace](http://wemake.cc):  is based in Milan (Italy) and provides a series of innovative services and training to the creative community of the region in the field of digital and traditional manufacturing, high-value technologies and access to a fully equipped Fab Lab. We foster the development of a new model of designer-producer (maker) and small-scale company by facilitating the engineering phase, the rapid iteration of design solutions, the on-demand production of physical/digital artifacts.
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" OpenCare è src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" width="50" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" OpenCare è src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" width="100" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
 
