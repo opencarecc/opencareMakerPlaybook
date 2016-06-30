@@ -48,6 +48,7 @@ We planned to introduce the project to all the participants, and to divide every
 ###### *(see [Our experience in co-design field](our_experience_in_co-design_field.md) for more details)*
 
 With this planning in our mind, we defined our roles within the session, by allocating at least one **moderator** and one **analytical observer** in each group, in order to lead the activity and to record/analyze all the actions and behaviours of the people.
+
 * **Second day** (Wednesday 11/05/2016)
 
 We presented the results of previous session and we divided once again in different groups according to the interests of participants. Everyone of our team followed and recorded the groups, helping them to **reach our main goal**: finding at least one solution for one of the needs encountered during the first day.
