@@ -26,4 +26,12 @@ tis a treasure board that empowers anyone to work with sensors, data and devices
 
 [Processing](https://processing.org/tutorials), a very easy programming language, that helps you understand how to work with data, and how to visiualize and build simple effect.  Go through the tutorials step by step, this will be a great asset to you in further understanding about Arduino and programming in general. 
 
-####Open hardware project that made it to the market
+####What is being developed as open hardware?
+
+[Open Satellite](http://opensat.cc/download/DIYSatellite_en.pdf), you can literally plan your space mission, using opensource blue prints and guidelines 
+
+You can build a [Quadcopter,](http://ardupilot.org/planner/index.html) from opensource hardware guides
+
+[Lasersaur,](https://github.com/nortd/lasersaur/wiki) You can build a high power laser machine using opensource technologies, with the cost of nearly $5K !
+
+
