@@ -40,11 +40,12 @@ When we had to define these elements in order to structure our co-design session
 Since our involvement regarded different people, from different communities, we immediately understood that it was crucial to find a moment in the day that could be fine for all the participants. In our specific case we involved adults, teenagers and also elderly people, therefore we thought that the best option could be planning the activity during the **evening**, specifically from 18 to 21.
 
 We also realized that the expected outcome required an amount of work and involvement that would have not been possible in just one day. Therefore we scheduled the activities in **two days**.
+
 * **First day** (Wednesday 4/05/2016)
 
 We planned to introduce the project to all the participants, and to divide everyone in 3 working groups, in order to think, analyze and select their personal needs related to care, in a very broad way.
 
-###### see [Our experience in co-design field](our_experience_in_co-design_field.md) for more details
+###### *(see [Our experience in co-design field](our_experience_in_co-design_field.md) for more details)*
 
 With this planning in our mind, we defined our roles within the session, by allocating at least one **moderator** and one **analytical observer** in each group, in order to lead the activity and to record/analyze all the actions and behaviours of the people.
 * **Second day** (Wednesday 11/05/2016)
