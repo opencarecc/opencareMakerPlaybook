@@ -1,4 +1,4 @@
-# What is a co-design session?
+## What is a co-design session?
 
 ####// Definition
 As we can read in the research essay *The Dynamics of Collaborative Design *(written by specialists from Massachusetts Institute of Technology and New England Complex Systems Institute):
@@ -25,8 +25,8 @@ Therefore we will have different steps (referred to a standardized co-design pro
 
 We can state that a phase of a project can be:
 
-- **open**, when the subject area is not well defined;
-- **closed**, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project;
+- **Open**, when the subject area is not well defined;
+- **Closed**, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project;
 
 In addition, the governance of collaboration, in order to be successful, requires the participants to agree on same goals (**flat**), or have their own goals within the hierarchy (**hierarchical**).
 
@@ -57,10 +57,10 @@ You may want to commit yourself to participatory activities because you want to 
 
 Whatever your reason is going to be, always keep in mind that collaborative design has 4 main potentials:
 
-- **participation** (it empowers the user to create innovation);
-- **inspiration** (it manages to stimulate creativity of designers);
-- **information** (it is useful to frame challenges);
--  **dialogue** (it is a powerful way to create a conversation among organizations and not only).
+- **Participation** (it empowers the user to create innovation);
+- **Inspiration** (it manages to stimulate creativity of designers);
+- **Information** (it is useful to frame challenges);
+-  **Dialogue** (it is a powerful way to create a conversation among organizations and not only).
 
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
 Even though following subchapters will regard the specific situation of **opencare**, we will try to provide some general tips that will help you shaping your sessions accordingly.
