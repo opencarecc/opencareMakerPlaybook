@@ -39,7 +39,6 @@
 * [How can I make a prototype?](how_can_i_make_a_prototype.md)
    * [Is there a process I can follow?](is_there_a_process_i_can_follow.md)
    * [What kind of technologies can I use?](what_kind_of_technologies_can_i_use.md)
-   * [[NEXT] Where do I go next?](where_do_i_go_next.md)
 * [How can I share a project?](how_can_i_share_a_project.md)
    * [Documenting your activities](documenting_your_activities.md)
    * [Documenting your project online](documenting_your_project_online.md)
