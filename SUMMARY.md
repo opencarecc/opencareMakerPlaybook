@@ -42,5 +42,5 @@
 * [How can I share a project?](how_can_i_share_a_project.md)
    * [Documenting your activities](documenting_your_activities.md)
    * [Documenting your project online](documenting_your_project_online.md)
-* [links](links.md)
+* [Links](links.md)
 
