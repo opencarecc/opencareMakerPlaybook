@@ -21,7 +21,7 @@ It was a meeting with a **group of young new comers** at Villa Pallavicini. Duri
 
 The first **workshop** holded during Fa' La Cosa Giusta, a fair of critical consumption and sustainable lifestyles. The participants realized, in few hours, an opensource remote monitoring and caring IoT service.
 
-**4. XVivaio - March 30th, 2016** // meeting
+**4. [XVivaio](https://associazionexvivaio.wordpress.com) - March 30th, 2016** // meeting
 
 ![](OC-img_Opencare_incontri_xvivaio.png)
 
