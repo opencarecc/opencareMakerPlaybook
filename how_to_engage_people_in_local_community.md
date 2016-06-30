@@ -11,7 +11,7 @@ This will help to start citizen engagement process and create a new local commun
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.);
 - The type of output.
 
-###### See [Tips](general_notes.html) subchapters for more details.
+###### See [Tips](general_notes.html) subchapter for more details.
 
 
 #### // How many people I have to contact?
