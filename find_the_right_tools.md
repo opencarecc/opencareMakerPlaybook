@@ -76,6 +76,7 @@ To achieve this we prepared some **slides** that we decided to present to all th
 ###### *(See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides)*
 
 We also designed 4 **posters** representing:
+
 * What is opencare
 
 ![](OC-img_A2_Poster-1.jpg)
@@ -92,7 +93,6 @@ The last poster was about two case studies well representing the spirit and ideo
 They were all sticked on the walls, in order to be seen by everyone entering in the makerspace.
 
 ![](OC-img_A2_Poster_progetti.jpg)
-
 
 Since we planned to work in 3 groups we prepared some **stickers** representing the three names of the groups: “Hammer”, “Pincer”, “Screwdriver”. The stickers were meant to be given to the participants at the beginning of the activity, in order to be placed on their t shirts and to **create the groups**.
 (The distribution of the people within the groups was decided by us, to create clusters with different people according to age, profession, competencies, exc.)
