@@ -10,7 +10,7 @@ Therefore, it might be very appreciated having some **quick breaks** in the mean
 
 The breaks must be organized in the advance, possibly together with the **schedule/timing** of the session. So, the team is going to be as **tidy** and **coordinated** as possible.
 
-###### See [Don't underestimate the details](dont_underestimate_the_details.md) tip for gaining more insights about the timing sheet. 
+###### *(See [Don't underestimate the details](dont_underestimate_the_details.md) tip for gaining more insights about the timing sheet)*
 
 But please be aware and don't underestimate the **unpredictable aspect** of the participatory design. The organizational staff (composed mostly by mentors, moderators, organizers, speakers and designers) has to be able to understand when it is time to change tone of voice, being more ironic or **playful** and when it is time to have a more serious and **demanding** attitude.
 
