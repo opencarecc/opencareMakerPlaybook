@@ -5,8 +5,11 @@ Since January 2016, thanks to **opencare**, we had the great opportunity to laun
 As **WeMake**, we are going to approach different challenges, such as:
 					
 * collect experiences of community-driven care services;
+
 * validate them through open discussion, both online and offline;
+
 * augment them with state-of-the-art maker technology (3D printing, laser cutting, biohacking...);
+
 * combine everything we learn into the design and prototype of next generation community driven care services. 
 
 How are we going to face them? Easy, by using a so-called **strategic design** approach. 
@@ -14,15 +17,18 @@ How are we going to face them? Easy, by using a so-called **strategic design** a
 During the last **six months** we organized and divided our **timetable** into four main phases: 
 
 1. **[Inspiration](Our_experience_in_co-design_filed.md#inspiration-phase)** phase; 
+
 2. **[Ideation](Our_experience_in_co-design_filed.md#ideation-phase)** phase;
+
 3. **[Implementation](Our_experience_in_co-design_filed.md#implementation-phase)** phase;
+
 4. **[Recognition](Our_experience_in_co-design_filed.md#recognition-phase)** phase. 
 
 ####// Inspiration phase
 
 During this first step, we did a lot of research at the same time both online and offline. On one hand, we searched for the most popular **methodologies** and **strategies** used and known in **co-design discipline**, in order to build a general background material and information about what is alredy done and what can be customized for our specific experience; on the other hand we organized, thanks also to the **Municipality of Milan**, a lot of **meetings, workshops **and **events** in order to engage and reach many *qualitative* people as possibile. It gave us the possibilty have face-to-face meetings and to get in touch with different kind of **citizens** and their **communities**.
 
-###### see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) for more details
+###### *(see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) for more details)*
 
 
 
@@ -32,7 +38,7 @@ Once we had identified the communities, we defined what kind of **communication*
 
 While we were typing this playbook, we found very useful to distinguish the designed tools into two categories: **passive** and **active** tools. The first ones, are more about the tools used by the **WeMake's staff** in order to show, explain and get in touch with the different audience; the second ones are those tools and materials used by the **participants** during the two co-design sessions. 
 
-###### see [Tips](tips.md) and [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md) in order to gain deeper insights
+###### *(see [Tips](tips.md) and [Survival table of contents for a co-design session](overview__survival_table_of_contents_for_a_co-desi.md) in order to gain deeper insights)*
 
 ####// Implementation Phase
 
@@ -47,7 +53,9 @@ During the **first co-design session**, we  hosted altogether 27 participants (1
 We divided the session into three main parts:
 
 * The first part was very **individual**, each participant was asked to focus on one or at most two practical needs in the sphere of daily care activities;
+
 * The second part was more **collective**, since participants were asked to “validate” their issues/needs through a **group discussion** and choose one for each group;
+
 * Then, the third part was a **plenary session**, in which one member per group were asked to present the concept of the selected need.
 
 After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by **(?)**. It gave all the participants and the operational staff the possibility to relax and enjoy the time spent together. 
@@ -59,7 +67,9 @@ Audio and video of the meeting has been integrally recorded.
 During the second meeting, we hosted altogether **(?)** participants. First of all, there was a **tight slide presentation** about:
 
 * a list of the **different issues**, revealed form the first session and divided into three macro-areas;
+
 *  an **explanation** about the **tools** that they were going to use during the session;
+
 *  a **general overview **about the **evaluation matrix** that the staff will use for selecting the project to prototype. 
 
 Then, the participants were divided into three groups according to their interest in one isssue instead of the other ones. Then, the participants were asked to collaborate and work together in order to define better their idea and **concept** through the tools. Obviously, they were supported by the mentor. *Don't be afraid to get your hands dirty!*
