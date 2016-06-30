@@ -57,5 +57,5 @@ Here you can see ours, that was later enhanced once we defined better our tools:
   4. Transcriptions
   5. Sketches
   6. Flow charts
-3. A list of possible testers
-4. Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table
+3. A list of possible testers;
+4. Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table.
