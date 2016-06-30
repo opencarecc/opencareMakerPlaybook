@@ -47,9 +47,6 @@ Costantino Bongiorno
 
 ---
 
-This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670
-
-<a href="http://wemake.cc/core/uploads/2015/12/logo_ce-it-rvb-hr.jpg"><img class="alignnone wp-image-83875" src="http://wemake.cc/core/uploads/2015/12/logo_ce-it-rvb-hr.jpg" alt="logo_ce-it-rvb-hr" width="50" />
-</a>
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
 
 The book has been built on top of the [gitbook](http://gitbook.com) service.
