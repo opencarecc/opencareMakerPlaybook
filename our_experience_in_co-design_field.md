@@ -70,10 +70,10 @@ As said above, after the two workout sessions, we decided to organize a last mee
 
 **Aperitif **- June 1st, 2016
 
-The last meeting with the communities was totally different from the previous two collaborative sessions. This one was more like an **aperitif**, during which the **atmosphere** was very **relaxing** and enjoyable. We hosted **(?)** participants and even some **newcomers** (few professors and experts interested in **opencare** topics). The aperitif lasted more or less three hours (from 6 pm to 9 pm).
+The last meeting with the communities was totally different from the previous two collaborative sessions. This one was more like an **aperitif**, during which the **atmosphere** was very **relaxing** and enjoyable. We hosted 15 participants and even some **newcomers** (few professors and experts interested in **opencare** topics). The aperitif lasted more or less three hours (from 6 pm to 9 pm).
 
 But it is not all, there was even such a kind of "**tension**" between participants, because they knew that during this last meeting we were going to state the project that will be *prototyped* in the next month. It was very funny feeling a sort of competition between the past groups! Some of them were also a bit sad when they heard that their project wasn't choosen.
 
 Moreover, we didn't talk just abut the result of the co-design sessions, actually during the presentation, we showed them how we analized and select the final project. Accordingly to our *train of thought*, we explained our selection process, illustrating the evaluation matrix and all the other related tools, with **trasparency** and **clarity**. We showed them how **opencare** community is actually acting, through what kind of channels both online and offline. At this point we get a bit in troubles, since the european project is holded in english and our audience is mostly composed by elderly people. But we were able to manage the situation explaining them the reason why. 
 
-At the end of the presentation, there was a delicious buffet organized by **(?)**, which gaves the possibility to end this experience in the authetic **milanese way**. 
+At the end of the presentation, there was a delicious buffet organized by **[Centro di Formazione San Giusto](https://www.google.it/search?client=safari&rls=en&q=centro+di+formazione+san+giusto&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=M0F1V8CXL4HA8gf0iauoBA)**, which gaves the possibility to end this experience in the authetic **milanese way**. 
