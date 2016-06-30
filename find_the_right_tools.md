@@ -82,20 +82,22 @@ We also designed 4 **posters** representing:
 
 * Who we are and Who you are
 
+![](OC-img_A2_Poster-2.jpg)
 
+* opencare light System Map.
 
-* opencare System Map.
+![](OC-img_A2_Poster_light_map-1.jpg)
 
 The last poster was about two case studies well representing the spirit and ideology of **open source care solutions**.
 They were all sticked on the walls, in order to be seen by everyone entering in the makerspace.
 
+![](OC-img_A2_Poster_progetti.jpg)
 
-(OC-A2_Poster_light_map.pdf / OC-A2_Poster_progetti.pdf / OC-A2_Poster.pdf)
 
 Since we planned to work in 3 groups we prepared some **stickers** representing the three names of the groups: “Hammer”, “Pincer”, “Screwdriver”. The stickers were meant to be given to the participants at the beginning of the activity, in order to be placed on their t shirts and to **create the groups**.
 (The distribution of the people within the groups was decided by us, to create clusters with different people according to age, profession, competencies, exc.)
 
-(stickers)
+![](OC-img_A4_Stickers_carta_adesiva.jpg)
 
 We decided to divide the session in three parts: **individual** one, **collective** one, **plenary** session.
 We wanted the first one to be very **intimate**, lasting more or less 15 minutes, in order to let each participant focus on one or at most two practical needs in the sphere of daily care activities.
@@ -108,7 +110,7 @@ After filling the sheet we wanted each group to **discuss** about the different 
 The second meeting had the goal of finding with the participants **three solutions** to three previously identified problems.
 Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the **issues emerged**, clustered by topic.
 
-(OC_Ostacoli.pdf)
+![](OC-img_Ostacoli.jpg)
 
 The aim was to give everyone a copy of the Obstacles to refresh in their memory the different needs and help them choosing the one they were more interested into. We also prepared 9 **slides** to present them, before starting the activity, all the tools that we would have used, to make them more familiar.
 
