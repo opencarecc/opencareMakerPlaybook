@@ -21,12 +21,12 @@ A very useful and inspiring set of tools that you can check is the **method card
 * The first one is a deck of cards that you can purchase online. There are 51 cards, and each card represents one tool. The tools are split in 4 different categories: **Learn**, **Look**, **Ask**, **Try**, according to your aim.
 Furthermore, the tool itself is structured as follows: **HOW** (description of the action), **WHY** (reason why you should use it).
 
-(OC-IDEO_cards)
+![](http://wemake.cc/core/uploads/2016/06/OC-IDEO_cards.jpg)
 
 * Collective Action Toolkit, on the other hand, is a PDF that you can download. As well as the previous one, every tool is split in different categories: **Clarify your goal**, **Build your group**, **Seek new understanding**, **Imagine more ideas**, **Make something real**, **Plan for action**.
 The toolkit is very well structured because it suggests simple or more articulated sequences of tools. Every single tool is divided into steps, that will help you structuring the activity. Other aspects are also pointed out, such as **Time**, **Roles** and **Materials**.
 
-(OC-FRONG_toolkit)
+![](http://wemake.cc/core/uploads/2016/06/OC-FROG_toolkit.jpg)
 
 These sets of tools will be able to **inspir**e you and give you the possibility to **select** properly according to your aim, time, participants, exc.
 
@@ -65,7 +65,7 @@ Our co-design session was meant to involve a variety of people in order to ident
 As we mentioned before, we decided to split the sessions in two days; each activity lasted nearly 4 hours.
 During the activity planning we tried to understand what kind of tools would have been helpful for us.
 
-* **1st session**
+**1st session**
 
 In the first session we wanted our participants to feel **comfortable**, to **learn** about the project and understand clearly what would have happened during these two meetings.
 
@@ -73,7 +73,7 @@ At the end of the first session our aim was to get a list of personal needs that
 
 To achieve this we prepared some **slides** that we decided to present to all the audience at the beginning of the evening.
 
-######See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides.
+###### *(See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides)*
 
 We also designed 4 **posters** representing:
 * What is opencare
@@ -83,12 +83,13 @@ We also designed 4 **posters** representing:
 The last poster was about two case studies well representing the spirit and ideology of **open source care solutions**.
 They were all sticked on the walls, in order to be seen by everyone entering in the makerspace.
 
+
 (OC-A2_Poster_light_map.pdf / OC-A2_Poster_progetti.pdf / OC-A2_Poster.pdf)
 
 Since we planned to work in 3 groups we prepared some **stickers** representing the three names of the groups: “Hammer”, “Pincer”, “Screwdriver”. The stickers were meant to be given to the participants at the beginning of the activity, in order to be placed on their t shirts and to **create the groups**.
 (The distribution of the people within the groups was decided by us, to create clusters with different people according to age, profession, competencies, exc.)
 
-(OC-A4_Stickers_carta_adesiva.pdf)
+(stickers)
 
 We decided to divide the session in three parts: **individual** one, **collective** one, **plenary** session.
 We wanted the first one to be very **intimate**, lasting more or less 15 minutes, in order to let each participant focus on one or at most two practical needs in the sphere of daily care activities.
@@ -96,7 +97,7 @@ We wanted the first one to be very **intimate**, lasting more or less 15 minutes
 The tool that we designed for this purpose was the **Obstacle Paper**. On this paper we asked them to write or draw a specific need that together we could have found a solution to.
 After filling the sheet we wanted each group to **discuss** about the different needs, and decide, with the help of a moderator, which specific needs they wanted to take care of and present to other groups during the plenary session. To take this decision we provided them **big blank sheets of papers and sharpies**. These tools were useful to inspire them and help them delineating on a poster their flow of thoughts.
 
-* **2nd session**
+**2nd session**
 
 The second meeting had the goal of finding with the participants **three solutions** to three previously identified problems.
 Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the **issues emerged**, clustered by topic.
@@ -144,4 +145,4 @@ For all the above mentioned activities we referred to the **Open Space Technolog
 
 [https://en.wikipedia.org/wiki/Open_Space_Technology]
 
-######See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology.
+###### *(See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology)*
