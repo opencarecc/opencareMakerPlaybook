@@ -4,7 +4,7 @@
 
 
 #### // Why document?
-Honestly, documentation isn't an easy task. Once you are focused on the job you are doing and the tinkering it sometimes becomes a burden that you have to worry about making documents of how stuff has developed and how things work, but documentation isn'ta burden, it is a real treasure, and here is why:
+Honestly, documentation isn't an easy task. Once you are focused on the job you are doing and the tinkering it sometimes becomes a burden that you have to worry about making documents of how stuff has developed and how things work, but documentation isn't a burden, it is a real treasure, and here is why:
 
 1. The clearer your documentation, the more engaged online community you can grow;
 2. The more you document, the more you tell the story of your product, which is a great asset for media coverage, supporters, and again, your online community;
