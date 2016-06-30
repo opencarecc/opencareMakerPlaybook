@@ -14,3 +14,11 @@ Design thinking is a practice that helps people visualize the different aspects 
 
 [Design thinking](https://www.coursera.org/learn/design-thinking-innovation) via coursera, a free guide on how to plan, your project.
 
+#### Making things:
+
+We already explained a some techniques on how to make your prototype, below are links to further technologies that you can use, and will be useful to learn about, in order to plan what technologies and processes do you need.
+
+[Arduino ](https://www.arduino.cc, a treasure board that empowers anyone to work with sensors, data and devices, without even necessarily being an engineer
+
+[Fritzing,](http://fritzing.org/home/) a very easy tool that helps you design your circuits, explore concepts and learn about electricity.
+
