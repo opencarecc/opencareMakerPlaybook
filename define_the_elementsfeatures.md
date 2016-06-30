@@ -4,7 +4,7 @@ MODERATOR - ROLES - DATES
 
 #### **// Description**
 Arrived at this point you should have understood who you want to involve and what you want to accomplish/obtain. It is now time to start defining how to run your co-design session.
-Before defining the tools that you are going to use, that we will see in depth in the next tip [Find the right tools](find_the_right_tools.md), you should think about the **base** and the **frame** of your activity.
+Before defining the tools that you are going to use, that we will see in depth in the next tip **[Find the right tools](find_the_right_tools.md)**, you should think about the **base** and the **frame** of your activity.
 
 *Who are you going to work with?*
 
@@ -15,7 +15,7 @@ In case you won’t be alone it is a good practice to define the **roles** durin
 In practical terms, *how long is the collaborative activity going to last?* Obviously there are plenty of variables that will shape this answer, starting from the amount of time that you want/can dedicate, but first of all you have to think about the **typology of participants**.
 Always keep in mind that keeping the attention and commitment level of a group of people is a very arduous task. Anyhow, it all depends on the **involvement** of your community and the rewards you are offering them. If these variables are high, then you may want to involve them for longer periods. If, on the other hand, the motivation of your participants is not well-founded, then you shouldn't ask them a long and tiring effort, since it may compromise their future involvement.
 
-Now, let’s say that you have decided to focus your activity in one day only, for about 5 hours. We suggest you to go back to the previous tip [Point out the desired outcomes](point_out_the_desired_outcomes.md) and **double check** if your goals may presumably be reached in your schedule and time frame.
+Now, let’s say that you have decided to focus your activity in one day only, for about 5 hours. We suggest you to go back to the previous tip **[Point out the desired outcomes](point_out_the_desired_outcomes.md)** and **double check** if your goals may presumably be reached in your schedule and time frame.
 We know that you may not have enough elements or experience to define a proper necessary time, but a rough double check is going to be more than enough for now.
 
 *What is the age span of the participants?*
