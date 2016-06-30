@@ -30,7 +30,7 @@ Try to answer to the following questions, they may give you the starting point w
 After choosing all these **key factors**, keep in mind that a pipeline will be more than appreciated. It is almost necessary to organize the releases in a strict **schedule** since it will make your staff able to define the roles and the timelines, who does what and when. It is a bit a time consuming at the beginning, but it will avoid further wasting time. Trust us, it is very helpful!
 
 
-###### see [How to involve citizens in a local community?](how_to_involve_an_online_community.md) for more details
+###### *(see [How to involve citizens in a local community?](how_to_involve_an_online_community.md) for more details)*
 
 #### **// In other words**
 
