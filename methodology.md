@@ -1,12 +1,13 @@
-# Methodology and goals
+## Methodology and goals
 
-### Methodology - How involve citizens in a participatory process?
+#### // Methodology - How involve citizens in a participatory process?
 
 The goal must be to present yourself and the goal for which you require the participation. An informal meeting facilitates interaction and trust-building between people. 
 
 In the meeting we must provide time for talk about:
-- who you are
-- what do you want
+
+- Who you are
+- What do you want
 - Why did you choose that community
 - How you intend to achieve your goal
 
@@ -21,16 +22,18 @@ Put final decisions into action as soon as possible. This will strengthen partic
 
 The location is very important. The first event can be hosted by the community you have contacted.  You have to offer food, drinks, music or whatever. 
 
-###Goals - Why involve citizens in a participatory process this time?
+#### // Goals - Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
-1. to test a new methodology
-2. to inform people about something and collect their opinions
-3. to test a process or a product
+
+1. To test a new methodology
+2. To inform people about something and collect their opinions
+3. To test a process or a product
 4. To design a new service or product 
 5. ...
 
-In OpenCare project the goals is to involve citizens in co-design sessions to encorage citizens:
-* to bring out their needs or obstacles in life
-* to define solutions to respond to individual or collective problems.
+In **opencare** project the goals is to involve citizens in co-design sessions to encourage citizens:
+
+* To bring out their needs or obstacles in life
+* To define solutions to respond to individual or collective problems.
 
 
