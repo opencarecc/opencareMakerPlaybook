@@ -110,7 +110,7 @@ After filling the sheet we wanted each group to **discuss** about the different 
 The second meeting had the goal of finding with the participants **three solutions** to three previously identified problems.
 Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the **issues emerged**, clustered by topic.
 
-![](OC-img_Ostacoli.jpg)
+
 
 The aim was to give everyone a copy of the Obstacles to refresh in their memory the different needs and help them choosing the one they were more interested into. We also prepared 9 **slides** to present them, before starting the activity, all the tools that we would have used, to make them more familiar.
 
@@ -128,7 +128,7 @@ The first tool they had to use was the **Project Sheet**, an A3 paper regarding 
 * description of its f**unctionalities**
 * notes
 
-(OC-Schema_progetto_15xA3.pdf)
+![](OC-img_Schema_progetto_15xA3.jpg)
 
 Every group, as in the previous session, worked with a moderator that helped them to keep the focus.
 
