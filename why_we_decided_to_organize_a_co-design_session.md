@@ -9,4 +9,4 @@ We must take always into account the so-called **empathic approach**. But that i
 
 Well, nuff said, if you want to organize a your own co-design session, don't be afraid of it. Read the following tips and you will be able to customize your own one. 
 
-But keep in mind: *DO NOT TRY THIS AT HOME!*
+But keep in mind: *don't try this at home!*
