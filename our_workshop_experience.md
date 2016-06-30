@@ -64,7 +64,7 @@ With some experience on our shoulder dealing with this kind of issues we came pr
 |In the end **we shared the connection from a 4G GSM modem to all the devices** through a standard switch. This worked well enough for small packets of data like the ones that you send with such hardware.|
 
 
-### Response
+#### // Response
 The sessions were joined by around ten to twelve people each. Some of the participants were more intrigued by the technology on its own, some were more into the opencare project at large.
 The kind of feedback we received was diversified:
 
@@ -72,7 +72,8 @@ The kind of feedback we received was diversified:
 - On the other hand, around half of the people that joined the sessions kept on coming back to the following co-design sessions with the local communities
 
 
-### Documentation
+#### // Documentation
+
 (https://www.flickr.com/photos/wemake_cc/sets/72157666906850805)
 
 
