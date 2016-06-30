@@ -18,15 +18,15 @@ A complete collaborative process, however, is characterized by an alternation of
 
 Therefore we will have different steps (referred to a standardized co-design process):
 
-- **Discover** (closed and flat): a chosen group shares ideas and contributes together
-- **Define** (closed and hierarchical): an authority decides which idea will be further developed
-- **Develop** (open and flat): anyone can contribute to the innovation process
+- **Discover** (closed and flat): a chosen group shares ideas and contributes together;
+- **Define** (closed and hierarchical): an authority decides which idea will be further developed;
+- **Develop** (open and flat): anyone can contribute to the innovation process;
 - **Deliver** (open and hierarchical): anyone can contribute but the final decision about the project to deliver is in the hands of the person/company/organization in charge.
 
 We can state that a phase of a project can be:
 
 - **Open**, when the subject area is not well defined;
-- **Closed**, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project;
+- **Closed**, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project.
 
 In addition, the governance of collaboration, in order to be successful, requires the participants to agree on same goals (**flat**), or have their own goals within the hierarchy (**hierarchical**).
 
