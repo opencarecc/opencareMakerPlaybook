@@ -28,4 +28,4 @@ The first step to involve citizens of different communities is inform and share 
 3. Migrants
 4. A “Social street”
 
-###### See [Engagement](engagement_in_opencare_project.html) in **opencare** project subchapters for more details.
+###### See [Engagement in opencare project](engagement_in_opencare_project.html) subchapter for more details.
