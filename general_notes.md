@@ -9,7 +9,7 @@ If you are replicating/localizing an existing global project make sure your loca
 
 * **Understand your local community: ** Spend time understanding why they are interested in your project. Make sure you engage them in the scope they are interested in, for example: A geek who wants to tinker has a different interest from a person who wants to eventually use your project/product.
 
-#### // Find your friends?
+#### // Find your friends
 
 1. Which **makerspaces** can help you work on your project?
 
