@@ -36,4 +36,6 @@ You can build a [Quadcopter,](http://ardupilot.org/planner/index.html) from open
 
 [Ultimaker 3D printer,](https://ultimaker.com/en/resources/manuals) you can build your personalized version of the world's leading 3D printer, it is opensource.
 
+[DIY mobile phone](http://web.media.mit.edu/~mellis/cellphone/), well, literally you can build your mobile phone yourself using open schematics.
+
 
