@@ -25,15 +25,15 @@ The location is very important. The first event can be hosted by the community y
 #### // Goals - Why involve citizens in a participatory process this time?
 To involve citizens it is necessary to establish a relation of trust and answer this question. The reasons may be different:
 
-1. To test a new methodology
-2. To inform people about something and collect their opinions
-3. To test a process or a product
-4. To design a new service or product 
+1. To test a new methodology;
+2. To inform people about something and collect their opinions;
+3. To test a process or a product;
+4. To design a new service or product;
 5. ...
 
 In **opencare** project the goals is to involve citizens in co-design sessions to encourage citizens:
 
-* To bring out their needs or obstacles in life
+* To bring out their needs or obstacles in life;
 * To define solutions to respond to individual or collective problems.
 
 
