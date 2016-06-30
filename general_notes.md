@@ -1,14 +1,15 @@
-# Tips
+## Tips
 
 If your project is inspired by an idea that helps your local community, make sure your emphasis the fact that it can help solve a problem or create opportunities in your local community:
-1. **Language:** Make sure your communicate in languages that are understandable by your local community
-2. **Relate to your community problems**, present your project from the scope of the local community
+
+* **Language:** Make sure your communicate in languages that are understandable by your local community
+*  **Relate to your community problems**, present your project from the scope of the local community
 
 If you are replicating/localizing an existing global project make sure your localize your materials to make it easy to involve your local community.
-3. 
-**Understand your local community: ** Spend time understanding why they are interested in your project.  Make sure you engage them in the scope they are interested in, for example: A geek who wants to tinker has a different interest from a person who wants to eventually use your project/product
 
-####Find your friends?
+* **Understand your local community: ** Spend time understanding why they are interested in your project.  Make sure you engage them in the scope they are interested in, for example: A geek who wants to tinker has a different interest from a person who wants to eventually use your project/product
+
+#### // Find your friends?
 
 1. Which **makerspaces** can help you work on your project?
 
@@ -18,7 +19,8 @@ If you are replicating/localizing an existing global project make sure your loca
 
 4. If your project relates to a medical cause, or industrial, or elderly, etc, layout the scope of your project, and reach out to **related organizations**, or groups 
 
-####Connecting the dots:
+#### // Connecting the dots:
+
 1. Make sure you **build connections** between the community of the makerspace and the new community that your bring for your project.
 2. Ensure that the local community can **work together** nicely.
 3. In tech projects, **female participation ** could be challenging. Make sure females in your project are welcomed, trusted and can participate freely in areas that they are interested in.
