@@ -1,8 +1,8 @@
 # Engagement in opencare project
 
-###Engagement in Opencare project:
 
-Here, there is a list of all the **meetings/workshops/events** that we holded with local communities:
+
+Here, there is a list of all the **meetings/workshops/events** that we holded with local communities in Milan:
 
 **1. [Mare Culturale Milano](http://maremilano.org) - March 12th, 2016** // meeting
 
