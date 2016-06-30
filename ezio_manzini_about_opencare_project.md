@@ -1,7 +1,7 @@
 ## Ezio Manzini about opencare project
 
 
-The goals of **opencare** imply that the Consortium will be running an online platform to host EU citizens’ conversation about their care needs, worries, and personal experiences, or ideas to work within the current welfare ecosystem, whether as practitioners, beneficiaries, or stakeholders. Ezio Manzini has written a [contribution in **opencare** platform](https://edgeryders.eu/en/opencare/open-care-as-radical-socio-technical-innovation-reflecting-on). 
+The goals of **opencare** imply that the Consortium will be running an online platform to host EU citizens’ conversation about their care needs, worries, and personal experiences, or ideas to work within the current welfare ecosystem, whether as practitioners, beneficiaries, or stakeholders. Ezio Manzini has written a [contribution on the **opencare** platform](https://edgeryders.eu/en/opencare/open-care-as-radical-socio-technical-innovation-reflecting-on). 
 
 
 #### // Where does the idea come from?
@@ -64,6 +64,3 @@ Considering the different meanings of “care” and “open” there is a clear
 
 * B2.
 *Open care refers to the design/production process.* That is, it refers to the characteristics of a co-design and co-production process: the process leading to the realization of the products and services on which an aimed care system is based.
-
-
-
