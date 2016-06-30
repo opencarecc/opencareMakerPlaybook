@@ -10,6 +10,7 @@ There is a variety of tools and platforms that you can depend on, in order to do
 2. [Instructables]( http://www.instructables.com).  An open community of people who make things.  You can find projects shared by others and an easy way to document your project step by step.
 3. [Hackaday](http://hackaday.com) is another place that can host your tutorials and work on progress.  It is good to use different online documentation platforms as it helps you grow your online community base.
 4. [Arduino forum:](https://forum.arduino.cc)  If you are Arduino base, make sure you drop a line about your project in the Arduino form.  Something along the lines of "Hey, I am currently building this" or ask for help or simple ask for feedback.
+
 ### Examples of documented projects:
 
 Below are samples of hardware opensource community oriented projects that share a ver detailed documentation, making it easy for others to replicate their ideas, join their efforts, or at least engage and understand what are they building:
