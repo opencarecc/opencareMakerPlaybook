@@ -19,17 +19,13 @@ A complete collaborative process, however, is characterized by an alternation of
 Therefore we will have different steps (referred to a standardized co-design process):
 
 - **Discover** (closed and flat): a chosen group shares ideas and contributes together
-
 - **Define** (closed and hierarchical): an authority decides which idea will be further developed
-
 - **Develop** (open and flat): anyone can contribute to the innovation process
-
 - **Deliver** (open and hierarchical): anyone can contribute but the final decision about the project to deliver is in the hands of the person/company/organization in charge.
 
 We can state that a phase of a project can be:
 
 - **open**, when the subject area is not well defined;
-
 - **closed**, when the subject area is well defined and it is possible to determine the most appropriate contributors for the project;
 
 In addition, the governance of collaboration, in order to be successful, requires the participants to agree on same goals (**flat**), or have their own goals within the hierarchy (**hierarchical**).
@@ -51,7 +47,6 @@ This is more similar to the “classic” design thinking approach: the designer
 
 > [...] the key attribute of participatory design, a process which allows multiple voices to be heard and involved in the design, resulting in outcomes which suite a wider range of users. As planning affects everyone it is believed that ‘those whose livelihoods, environments and lives are at stake should be involved in the decisions which affect them.
 
-
 ([https://en.wikipedia.org/wiki/Participatory_design#Community_planning_and_placemaking](https://en.wikipedia.org/wiki/Participatory_design#Community_planning_and_placemaking))
 
 This approach is probably harder to implement when compared to the “classic” design thinking approach. It involves a concentrated activity where any of the involved actors can share and discuss their problems (and solution in some cases) and understand the other participants’ point of view.
@@ -63,11 +58,8 @@ You may want to commit yourself to participatory activities because you want to 
 Whatever your reason is going to be, always keep in mind that collaborative design has 4 main potentials:
 
 - **participation** (it empowers the user to create innovation);
-
 - **inspiration** (it manages to stimulate creativity of designers);
-
 - **information** (it is useful to frame challenges);
-
 -  **dialogue** (it is a powerful way to create a conversation among organizations and not only).
 
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
