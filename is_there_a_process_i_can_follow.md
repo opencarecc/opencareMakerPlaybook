@@ -42,9 +42,10 @@ You brainstorm around the needs and the users and you go deeper adding details, 
 
 *For more info on how to build a prototype you can refer to the  [next part of the chapter](what_kind_of_technologies_can_i_use.md)*
 
-***Test -*** This is possibly the most important and too often forgotten phase of the whole process. Once you have a working prototype in your hands you are only at the beginning of your trip. Now, go out and test it
-* in every possible condition!
-* with any possible users!
+***Test -*** This is possibly the most important and too often forgotten phase of the whole process. Once you have a working prototype in your hands you are only at the beginning of your trip. *Now, go out and test it!*
+
+* In every possible condition!
+* With any possible users!
 
 Testing is not easy, it requires time and logistics to organize the testing sessions, experience in talking to people, and improvisation so that you can **make any of the interviews useful for your research**.
 
