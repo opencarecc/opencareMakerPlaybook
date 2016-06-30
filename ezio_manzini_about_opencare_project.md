@@ -46,8 +46,8 @@ A.
 B.
 *Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
 
-### What is *opencare* then?
-[by Manzini]
+#### What is *opencare* then?
+*[by Manzini]*
 Considering the different meanings of “care” and “open” there is a clear correlation between 1 and A, and between 2 and B:
 * 
 A1.
