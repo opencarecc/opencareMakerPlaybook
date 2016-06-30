@@ -143,6 +143,6 @@ For all the above mentioned activities we referred to the **Open Space Technolog
 > a process that focuses on expanding time and space for the force of self-organisation to do its thing. Although one can't predict specific outcomes, it's always highly productive for whatever issue people want to attend to. Some of the inspiring side effects that are regularly noted are laughter, hard work which feels like play, surprising results and fascinating new questions.
 
 
-[https://en.wikipedia.org/wiki/Open_Space_Technology]
+([https://en.wikipedia.org/wiki/Open_Space_Technology](https://en.wikipedia.org/wiki/Open_Space_Technology))
 
 ###### *(See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology)*
