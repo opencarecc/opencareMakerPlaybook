@@ -6,7 +6,7 @@ VARIETY - TONE OF VOICE - LANGUAGE
 
 One of the first things that you need to understand is the **type of community** that you are involving or willing to involve.
 
-###### *(see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) in order to gain deeper insights)*
+###### See [How to involve citizens in a local community?](how_to_involve_a_local_community.md) in order to gain deeper insights.
 
 If you decided to structure a co-design session it means that you have an aim, a strong reason; whether you are trying to **gather information** about a specific topic, or you are willing to **improve** the characteristics of your product/service with the help of your customers, or again you want to find an **innovative solution** to an identified problem, you need to **involve** a community of people.
 Understanding your community is one of the first fundamental steps, because according to it you will have to **shape your tone of voice**.
@@ -22,13 +22,13 @@ Lastly, consider the possibility of having a **various audience**. In this case 
 
 #### **// In other words**
 
-* **Modulate** your tone of voice according to your audience
+* **Modulate** your tone of voice according to your audience;
 
-* Make the aim and structure of the activity **clear** and** understandable**
+* Make the aim and structure of the activity **clear** and** understandable**;
 
-* Pay attention to the **privacy** of participants and sensibility of the topic
+* Pay attention to the **privacy** of participants and sensibility of the topic;
 
-* Evaluate the **variety **of the participants and shape your tone of voice accordingly
+* Evaluate the **variety **of the participants and shape your tone of voice accordingly.
 
 #### **// opencare experience**
 
