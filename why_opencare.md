@@ -1,7 +1,6 @@
 # Why opencare? 
 
-
-Opencare is a European project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670. 
+**opencare** is a European project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670. 
 
 For most of humanity’s history, care services – which today we call health and social care – were provided by communities: family members, friends and neighbours would check on each other to make sure everyone was fine, keep an eye on each other’s children or elderly parents, even administer simple medical treatments. 
 
@@ -11,21 +10,23 @@ This new solution has achieved brilliant results, based on the deployment of sci
 What if we could come up with a system that combines the access to modern science and technology of state- and private sector-provided care to the low overhead and human touch of community-provided care?
 
 We are going to attempt to do just that. We are launching **opencare**, a two-year, 1.6 million euro research project to design and prototype new care services. We will:
-* collect experiences of community-driven care services
-* validate them through open discussion, both online and offline.
-* augment them with state-of-the-art [maker technology](how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
-* combine everything we learn into the design and prototype of next generation community driven care services.
+
+* Collect experiences of community-driven care services
+* Validate them through open discussion, both online and offline.
+* Augment them with state-of-the-art [maker technology](how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
+* Combine everything we learn into the design and prototype of next generation community driven care services.
 
 [Ezio Manzini](ezio_manzini_about_opencare_project.html), one of the world's most prominent experts in design for social innovation, said "Care referred to a special kind of human interaction". 
 
-WeMake is part of the **opencare** consortium with the following partners:
-Edgeryders
-Città di Milano
-ScimPulse Foundation
-The Stockholm School of Economics
-Università di Bordeaux
+[WeMake](http://wemake.cc) is part of the **opencare** consortium with the following partners:
 
-More info: opencare.cc
+* [Edgeryders](http://edgeryders.eu/company/home)
+* [Città di Milano](http://www.comune.milano.it/wps/portal/ist/it)
+* [ScimPulse Foundation](http://www.scimpulse.org)
+* [The Stockholm School of Economics](https://www.hhs.se)
+* [Università di Bordeaux](http://www.u-bordeaux.fr)
+
+More info: [opencare.cc](http://opencare.cc)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670
 
