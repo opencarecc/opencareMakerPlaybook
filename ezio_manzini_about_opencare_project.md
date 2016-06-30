@@ -1,9 +1,7 @@
 # Ezio Manzini about opencare project
 
 
-
-
-blablablablal
+The goals of OpenCare imply that the Consortium will be running an online platform to host EU citizens’ conversation about their care needs, worries, and personal experiences, or ideas to work within the current welfare ecosystem, whether as practitioners, beneficiaries, or stakeholders. Ezio Manzini has written a contribution in opencare platform. 
 
 
 #### Where does the idea come from?
@@ -22,7 +20,7 @@ The gap between the growing demand and the shrinking offer of care is the basis 
 
 To overcome this crisis a brand new care systems has to be imagined and enhanced. To move in this direction, a first step is to better understand caring activities, considering their nature and diversity.
 
-**[Ale] I would also briefly add more details on how the project actually started, that the idea came out at LOTE and how the partners got together**
+
 
 ### What is care?
 Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
