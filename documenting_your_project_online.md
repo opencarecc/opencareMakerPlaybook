@@ -40,7 +40,6 @@ Well, the target of documentation here is not to give an intro to electricity. W
 
 The lead section of their landing page, makes it easy to understand what this project is about. In 3 seconds you can understand what is the project, watch it in action, and even check how to build your own.
 
-
 * **Rishalaser**
 
 [Rishalaser](http://reshalaser.org/wiki/documentation/build-your-own-risha) is an opensource laser cutter that works via mobile.  Their website is hosted on a wordpress template, and they use a mediawiki plug in, for their documentation page.  Their documentation is mostly viusal, with a plug and play style.
