@@ -51,9 +51,7 @@ Costantino Bongiorno
 
 ---
 
-
-
-![](https://raw.githubusercontent.com/opencarecc/OpenCarePlaybook/master/logo_ce-en-rvb-hr.jpg)
+![](OC-img_logo_ce-en-rvb-hr.jpg)
 
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
 
