@@ -6,7 +6,7 @@ WEBSITE - LANDING PAGE - NEWSLETTER - BLOGPOST
 
 Once you have defined which kind of **communities** and **people** you are going to **collaborate** with, you are ready to start improving and enhancing the **relation** between your staff and your further participants. Obviously, there are plenty ways to engage and contact people, but keep in mind that the two main strategies, the online and offline one, are complementary since both of them are not totally efficient. One requires the other one and vice versa. In this tip we are going to talk about the **online channels** that we used to get more in touch with people. 
 
-###### see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) if you want to know more about the offline activities
+###### *(see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) if you want to know more about the offline activities)*
 
 So, moving on, thanks to the new technologies, there are now many tools available to create links and connections between people. Moreover, there are plenty of channels given by the **global network**, such as: social networks, newsletters, blogs, forums, websites, exc. It is mandatory to choose the **right channels** in order to set up the right basis for a collaborative design approach. The choice mainly depends on which kind of informations you want to spread through those channels and to whom. 
 
@@ -48,12 +48,17 @@ Since the beginning of our co-design experience, we have had to create a **solid
 
 So, first of all, we engaged people by means of **invitations** and **general posts** shared on social networks (Facebook, Twitter, Google+ and YouTube), emails and our **blog**. 
 
-(picture “OC-blogpost”)
+![](OC-img_blogpost.png)
 
 Then we found out that an appropriate **basic knowledge** was necessary in order to have an efficient co-design with citizens, so we started to revise and re-design the **opencare website** and its **landing page**. 
 
-(picture “OC-landingpage-01/02”)
+![](OC-img_landingpage-01.png)
+([http://opencarecc.github.io/OpenCareLandingPage/](http://opencarecc.github.io/OpenCareLandingPage/))
+
+![](OC-img_landingpage-02.png)
+
+([http://wemake.cc/opencare/](http://wemake.cc/opencare/))
 
 But that is far from enough, we started sending a **newsletter** about some projects that might be useful for gaining a **first approach** and a **better understanding** of the wide world of open source products and services for care. In these newsletters we used colloquial words and expressions in a *three-questions template*. This because, since our “target” was mainly composed by “no-tinkerer people”, we wanted to make those projects as more comprehensible as possible to them. We wanted to **arouse curiosity** but at the same time we wanted to **make people feel valuable**. At the end of the newsletter we always put our *contacts*, and sometimes the invitation for a specific event (the two co-design sessions, some other workshops, exc).
 
-(picture “OC-newsletter”)
+![](OC-img_I consigli opencare AraSuite-1.jpg)

@@ -21,12 +21,12 @@ A very useful and inspiring set of tools that you can check is the **method card
 * The first one is a deck of cards that you can purchase online. There are 51 cards, and each card represents one tool. The tools are split in 4 different categories: **Learn**, **Look**, **Ask**, **Try**, according to your aim.
 Furthermore, the tool itself is structured as follows: **HOW** (description of the action), **WHY** (reason why you should use it).
 
-(ideo cards)
+![](OC-img_IDEO_cards.jpg)
 
 * Collective Action Toolkit, on the other hand, is a PDF that you can download. As well as the previous one, every tool is split in different categories: **Clarify your goal**, **Build your group**, **Seek new understanding**, **Imagine more ideas**, **Make something real**, **Plan for action**.
 The toolkit is very well structured because it suggests simple or more articulated sequences of tools. Every single tool is divided into steps, that will help you structuring the activity. Other aspects are also pointed out, such as **Time**, **Roles** and **Materials**.
 
-(frog picture)
+![](OC-img_FROG_toolkit.jpg)
 
 These sets of tools will be able to **inspir**e you and give you the possibility to **select** properly according to your aim, time, participants, exc.
 
@@ -76,20 +76,28 @@ To achieve this we prepared some **slides** that we decided to present to all th
 ###### *(See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides)*
 
 We also designed 4 **posters** representing:
+
 * What is opencare
+
+![](OC-img_A2_Poster-1.jpg)
+
 * Who we are and Who you are
-* opencare System Map.
+
+![](OC-img_A2_Poster-2.jpg)
+
+* opencare light System Map.
+
+![](OC-img_A2_Poster_light_map-1.jpg)
 
 The last poster was about two case studies well representing the spirit and ideology of **open source care solutions**.
 They were all sticked on the walls, in order to be seen by everyone entering in the makerspace.
 
-
-(OC-A2_Poster_light_map.pdf / OC-A2_Poster_progetti.pdf / OC-A2_Poster.pdf)
+![](OC-img_A2_Poster_progetti.jpg)
 
 Since we planned to work in 3 groups we prepared some **stickers** representing the three names of the groups: “Hammer”, “Pincer”, “Screwdriver”. The stickers were meant to be given to the participants at the beginning of the activity, in order to be placed on their t shirts and to **create the groups**.
 (The distribution of the people within the groups was decided by us, to create clusters with different people according to age, profession, competencies, exc.)
 
-(stickers)
+![](OC-img_A4_Stickers_carta_adesiva.jpg)
 
 We decided to divide the session in three parts: **individual** one, **collective** one, **plenary** session.
 We wanted the first one to be very **intimate**, lasting more or less 15 minutes, in order to let each participant focus on one or at most two practical needs in the sphere of daily care activities.
@@ -102,7 +110,7 @@ After filling the sheet we wanted each group to **discuss** about the different 
 The second meeting had the goal of finding with the participants **three solutions** to three previously identified problems.
 Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the **issues emerged**, clustered by topic.
 
-(OC_Ostacoli.pdf)
+![](OC-img_Ostacoli.jpg)
 
 The aim was to give everyone a copy of the Obstacles to refresh in their memory the different needs and help them choosing the one they were more interested into. We also prepared 9 **slides** to present them, before starting the activity, all the tools that we would have used, to make them more familiar.
 
@@ -120,18 +128,18 @@ The first tool they had to use was the **Project Sheet**, an A3 paper regarding 
 * description of its f**unctionalities**
 * notes
 
-(OC-Schema_progetto_15xA3.pdf)
+![](OC-img_Schema_progetto_15xA3.jpg)
 
 Every group, as in the previous session, worked with a moderator that helped them to keep the focus.
 
 Another tool that we decided to provide them was the **Evaluation Indicators** and **Evaluation Cards**.
 This tool was particularly important for us. Our aim, as we said before, was to end up the co-design session with 3 solutions to 3 existing problems. After analyzing and evaluating each solution proposed we had to decide which one of those three solutions we would have prototyped. In order to make this selection we designed a deck of cards with the indicators that we took into account during the decisional process. Here you can read our evaluation principles:
 
-(OC-Evaluation_matrix.pdf pag. 3 and 4)
+![](OC-img_Evaluation_matrix-3.jpg)
 
 This tools was shared with the participants to make them shape their solution in a more **appropriate** way, trying to think about a **feasible** project and to help them following a path. Many participants, indeed, didn’t have any experience of design thinking and generating solutions. This tool was designed to **simplify** and lead the process.
 
-(OC-Indicatori.pdf)
+![](OC-img_Indicatori.jpg)
 
 At the end of the second session all the groups completed the Project Scheme and presented their solutions in plenary session.
 After this all the decisions were depending on us. We took few weeks to **evaluate the projects** and research about existing products solving similar problems. Therefore we elaborated a new tool, used by our team, that we called **Evaluation Rubric**. This document helped us assigning points and understanding which project was the most suitable to be prototyped.
