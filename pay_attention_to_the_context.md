@@ -6,7 +6,7 @@ VARIETY - TONE OF VOICE - LANGUAGE
 
 One of the first things that you need to understand is the **type of community** that you are involving or willing to involve.
 
-###### see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) in order to gain deeper insights
+###### *(see [How to involve citizens in a local community?](how_to_involve_a_local_community.md) in order to gain deeper insights)*
 
 If you decided to structure a co-design session it means that you have an aim, a strong reason; whether you are trying to **gather information** about a specific topic, or you are willing to **improve** the characteristics of your product/service with the help of your customers, or again you want to find an **innovative solution** to an identified problem, you need to **involve** a community of people.
 Understanding your community is one of the first fundamental steps, because according to it you will have to **shape your tone of voice**.
@@ -44,4 +44,4 @@ Since **opencare** co-design session regarded personal
  stories related with **health** and **social care**, we clearly talked with the communities involved and pointed out that their stories would have been anonymously published on our online platform EdgeRyders, and that we would have recorded the activity itself with microphones and cameras. Those people who agreed signed a paper which stated that they had been informed and that they accepted to share all the generated content.
 In this way we managed to protect both parties.
 
-(picture of the privacy paper)
+![](http://wemake.cc/core/uploads/2016/06/OC-Privacy_paper.pdf)
