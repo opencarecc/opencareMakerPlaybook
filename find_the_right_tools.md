@@ -21,12 +21,12 @@ A very useful and inspiring set of tools that you can check is the **method card
 * The first one is a deck of cards that you can purchase online. There are 51 cards, and each card represents one tool. The tools are split in 4 different categories: **Learn**, **Look**, **Ask**, **Try**, according to your aim.
 Furthermore, the tool itself is structured as follows: **HOW** (description of the action), **WHY** (reason why you should use it).
 
-![](http://wemake.cc/core/uploads/2016/06/OC-IDEO_cards.jpg)
+(ideo cards)
 
 * Collective Action Toolkit, on the other hand, is a PDF that you can download. As well as the previous one, every tool is split in different categories: **Clarify your goal**, **Build your group**, **Seek new understanding**, **Imagine more ideas**, **Make something real**, **Plan for action**.
 The toolkit is very well structured because it suggests simple or more articulated sequences of tools. Every single tool is divided into steps, that will help you structuring the activity. Other aspects are also pointed out, such as **Time**, **Roles** and **Materials**.
 
-![](http://wemake.cc/core/uploads/2016/06/OC-FROG_toolkit.jpg)
+(frog picture)
 
 These sets of tools will be able to **inspir**e you and give you the possibility to **select** properly according to your aim, time, participants, exc.
 
