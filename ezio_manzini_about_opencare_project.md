@@ -22,9 +22,9 @@ To overcome this crisis a brand new care systems has to be imagined and enhanced
 
 
 #### // What is care?
-Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
-
 *[by Ezio Manzini]*
+
+Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
 
 1. *Care referred to a special kind of human interaction*: someone (the care giver) gives attention to, and takes action for, someone else (the care receiver).
 
@@ -32,6 +32,7 @@ Aside from being a word that we use regularly, the meaning of "care" might have 
 
 
 #### What is open?
+*[by Ezio Manzini]*
 
 > Open source, open data, open knowledge, open mind...
 
@@ -42,8 +43,6 @@ A succinct summary from the *Open Definition* website ([http://opendefinition.or
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
 
 Starting from this assumption, "open" could gain a more complex meaning within the field of care:
-
-*[by Ezio Manzini]*
 
 * A.
 *Open referred to the care system:* a system is open when different actors have the possibility to play a role. This can happen when the whole activity package is opened and divided into parts with the possibility, for these different parts, to be distributed among different actors.
