@@ -14,7 +14,7 @@ This strategy can be handled in various ways and through different tools, but it
 
 The tools might be the same of those used for the involvement of the communities, but, obviously the informations are going to change in the *layout* and in the *content*. The new informations should be still interesting and able to **provoke the curiosity** of the people. 
 
-###### See [Keep the interest alive - Part I](keep_the_interest_alive.md) tip for more details about the different involving online channels.
+###### *(See [Keep the interest alive - Part I](keep_the_interest_alive.md) tip for more details about the different involving online channels)*
 
 #### **// In other words**
 
@@ -41,6 +41,6 @@ It was a very interesting moment of sharing knowledges and ways of thinking.
 
 After the presentation and **exchange of views**, we enjoyed greatly the end of the meeting and the end of our first co-design experience with a delicious buffet.
 
-###### See [Recognition Phase](Our_experience_in_co-design_filed.md#recognition-phase) paragraph to read any detail of the meeting. 
+###### *(See [Recognition Phase](Our_experience_in_co-design_filed.md#recognition-phase) paragraph to read any detail of the meeting)* 
 
 Last but not least, we continued to publish some **blog posts** and send the **newsletter** about some case studies, in order to **keep the interest alive** until we are going to start the **prototyping phase**. 
