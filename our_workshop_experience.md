@@ -24,17 +24,17 @@ The **Internet of Things as a field of action** was picked because it is deeply 
 #### // The target group
 The opencare workshop was not addressing a specific target group. To put it short:
 
-- It was open to anyone with an interest in the topic or the technology
+- It was open to anyone with an interest in the topic or the technology,
 - No limitations to age, gender, skillset and background
-- No prerequisites needed
-- It was entirely for free and we brought the material that we lent to participants for the duration of the workshop 
+- No prerequisites needed,
+- It was entirely for free and we brought the material that we lent to participants for the duration of the workshop. 
 
 
 #### // Places
 The workshop was held in public places with the help of the local municipality, the city of Milan. We tried to go where we could find open-minded people ready to possibly embark on the project and commit to a more structured and durable effort.
 
-- We held the first workshop at "Fa' la cosa giusta - The national faire of conscious consumption and sustainable lifestyles in Italy" 
-- We held the second workshop at "Forum delle politiche sociali" a series of meetings with the citizens organized by the local municipality
+- We held the first workshop at "Fa' la cosa giusta - The national faire of conscious consumption and sustainable lifestyles in Italy".
+- We held the second workshop at "Forum delle politiche sociali" a series of meetings with the citizens organized by the local municipality.
 
 
 #### // Technology and issues
@@ -53,7 +53,7 @@ Running an Internet of Things is not always an easy choice from a tech perspecti
 - Public networks have firewalls you need to deal with
 - Public wireless networks don't like 20 devices trying to connect at the same time
 - Public networks require multiple authentication which is hard when dealing with simple hardware like Arduino
-- The errors you have to deal with when trying to connect and send packets of data over a network are a lot harder to troubleshoot and fix
+- The errors you have to deal with when trying to connect and send packets of data over a network are a lot harder to troubleshoot and fix.
 
 With some experience on our shoulder dealing with this kind of issues we came prepared to the workshop.
 
