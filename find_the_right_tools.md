@@ -110,7 +110,7 @@ After filling the sheet we wanted each group to **discuss** about the different 
 The second meeting had the goal of finding with the participants **three solutions** to three previously identified problems.
 Before the session we rearranged the material in order to summarize the work completed the week before. We structured an A4 paper with the **issues emerged**, clustered by topic.
 
-
+![](OC-img_Ostacoli.jpg)
 
 The aim was to give everyone a copy of the Obstacles to refresh in their memory the different needs and help them choosing the one they were more interested into. We also prepared 9 **slides** to present them, before starting the activity, all the tools that we would have used, to make them more familiar.
 
@@ -135,11 +135,11 @@ Every group, as in the previous session, worked with a moderator that helped the
 Another tool that we decided to provide them was the **Evaluation Indicators** and **Evaluation Cards**.
 This tool was particularly important for us. Our aim, as we said before, was to end up the co-design session with 3 solutions to 3 existing problems. After analyzing and evaluating each solution proposed we had to decide which one of those three solutions we would have prototyped. In order to make this selection we designed a deck of cards with the indicators that we took into account during the decisional process. Here you can read our evaluation principles:
 
-(OC-Evaluation_matrix.pdf pag. 3 and 4)
+![](OC-img_Evaluation_matrix-3.jpg)
 
 This tools was shared with the participants to make them shape their solution in a more **appropriate** way, trying to think about a **feasible** project and to help them following a path. Many participants, indeed, didn’t have any experience of design thinking and generating solutions. This tool was designed to **simplify** and lead the process.
 
-(OC-Indicatori.pdf)
+![](OC-img_Indicatori.jpg)
 
 At the end of the second session all the groups completed the Project Scheme and presented their solutions in plenary session.
 After this all the decisions were depending on us. We took few weeks to **evaluate the projects** and research about existing products solving similar problems. Therefore we elaborated a new tool, used by our team, that we called **Evaluation Rubric**. This document helped us assigning points and understanding which project was the most suitable to be prototyped.
