@@ -2,13 +2,14 @@
 
 You are ready to start your workshop, then don't forget to let people know your amazing workshop is taking place!
 When communicating your workshop is always a good idea to make clear:
-- what is the topic in a clear and intuitive way
-- why your workshop is interesting and cool
-- what they will learn/make during the session
-- who is teaching it
-- where and when it is taking place
-- how they can sign-up (if it's for free or they have to pay a fee)
-- what they need to bring
+
+- What is the topic in a clear and intuitive way
+- Why your workshop is interesting and cool
+- What they will learn/make during the session
+- Who is teaching it
+- Where and when it is taking place
+- How they can sign-up (if it's for free or they have to pay a fee)
+- What they need to bring
 
 |TIPS|
 |-|
