@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Why opencare?](why_opencare.md)
+* [opencare: a little bit of context](opencare_context.md)
    * [How the maker movement is transforming care](how_the_maker_movement_is_transforming_care.md)
    * [Ezio Manzini about opencare project](ezio_manzini_about_opencare_project.md)
 * [How to involve citizens in a local area?](how_to_involve_a_local_community.md)
