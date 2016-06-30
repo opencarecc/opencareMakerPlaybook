@@ -44,4 +44,4 @@ Since **opencare** co-design session regarded personal
  stories related with **health** and **social care**, we clearly talked with the communities involved and pointed out that their stories would have been anonymously published on our online platform EdgeRyders, and that we would have recorded the activity itself with microphones and cameras. Those people who agreed signed a paper which stated that they had been informed and that they accepted to share all the generated content.
 In this way we managed to protect both parties.
 
-(privacy paper)
+![](OC-img_Privacy_paper.jpg)
