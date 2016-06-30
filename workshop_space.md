@@ -1,4 +1,4 @@
-# Workshop Space
+## Workshop Space
 
 There is no right or wrong space for a workshop, and usually a space can be finetuned to meet diverse needs. One thing for sure, **it's very important to make participants feel comfortable and give them a warm welcome**.
 You can use the space in many different ways according to the topic and the methodologies of your workshop. In general when setting up hardware prototyping, digital fabrication and design workshops we have found these practices very helpful:
