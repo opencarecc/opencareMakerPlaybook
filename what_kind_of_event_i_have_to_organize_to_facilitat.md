@@ -23,7 +23,7 @@ Why is a workshop good for you?
 
 
 ##Keep the interest alive - how to keep the people involved?
-Once citizens have agreed to participate, you will keep them connected. Regular communication about your project is important. It can keep your issue fresh and your meetings in the minds of the people, and improve the community’s credibility. Following are several ways to maintain open lines of communication with citizens:
+Once citizens have agreed to participate, you will keep them connected. Regular communication about your project is important. It can keep your issue fresh and your meetings in the minds of the people, and improve the community credibility. Following are several ways to maintain open lines of communication with citizens:
 Newsletter
 Blogpost
 Social network
