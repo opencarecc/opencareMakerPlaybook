@@ -10,7 +10,7 @@ This will help to start citizen engagement process and create a new local commun
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
 - The type of output 
 
-######*(see ["General notes"](###-General-notes) subchapters for more details)*
+######*(see [Tips](https://wemakecc.gitbooks.io/opencareplaybook/content/general_notes.html) chapters for more details)*
 
 
 ####How many people I have to contact?
