@@ -1,8 +1,8 @@
 # How to involve citizens in a local area?
 
-Introduction bla bla bla
-
 Citizen involvement is a key part of the development of social innovations. Citizens are best placed to frame and articulate the nature of the social challenges they experience, so it is important that they are brought into any process of understanding needs. 
+
+In this chapter we talk about  communities and fablab, **[tools**](how_to_engage_people_in_local_community.html), **[method](what_kind_of_event_i_have_to_organize_to_facilitat.html)** and **[tips](general_notes.html)**  to engage citizens in co-design process.
 
 ####Why we talk about community?
 
