@@ -21,7 +21,7 @@ The citizens involved in communities have the greatest skills in listening, and 
 Then you have to choose four or five communities with different characteristics.
 The first step to involve citizens of different communities is inform and share goals, timing, methods and tools.
 
-Opencare local team ([WeMake](wemake.cc) and [Municipality of Milan](www.comune.milano.it)) contacted four communities:
+**opencare** local team ([WeMake](wemake.cc) and [Municipality of Milan](www.comune.milano.it)) contacted four communities:
 
 1. Elderly people with a common passion: dancing 
 2. Parents of disabled childrens
