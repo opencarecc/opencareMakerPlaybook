@@ -61,9 +61,13 @@ These two approaches are trying to cluster a number of shades that, unfortunatel
 You may want to commit yourself to participatory activities because you want to **differentiate** your product from competitors’ invention; or because you want to develop **new solutions**, drastically different and powerfully innovated; or still because you want to **implement** a project; or just because you want to **experiment**, learn or stimulate creativity.
 
 Whatever your reason is going to be, always keep in mind that collaborative design has 4 main potentials:
+
 - **participation** (it empowers the user to create innovation);
+
 - **inspiration** (it manages to stimulate creativity of designers);
+
 - **information** (it is useful to frame challenges);
+
 -  **dialogue** (it is a powerful way to create a conversation among organizations and not only).
 
 Keep in mind: there is no one-size-fits-all rule regarding collaborative design: every characteristic may change according to different aspects, such as aim, motivation, problem, context, exc.
