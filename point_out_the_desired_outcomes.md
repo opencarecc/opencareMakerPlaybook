@@ -50,18 +50,20 @@ Here you can see ours, that was later enhanced once we defined better our tools:
 
 **Deliverables**
 
-* Detailed brief with:
+-- Detailed brief with:
 
-- - references to user needs
-- - and proposed solutions (including the ones that have not been selected)
-
-* Important documents related to the brainstorm session(s):
-
-* * Transcriptions
-* * Sketches
-* * Flow charts
+- references to user needs
+- and proposed solutions (including the ones that have not been selected)
 
 
-* A list of possible testers
-* Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table
+-- Important documents related to the brainstorm session(s):
+
+* Transcriptions
+* Sketches
+* Flow charts
+
+
+-- A list of possible testers
+
+-- Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table
 
