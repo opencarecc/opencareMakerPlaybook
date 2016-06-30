@@ -30,27 +30,30 @@ The opencare workshop was not addressing a specific target group. To put it shor
 - It was entirely for free and we brought the material that we lent to participants for the duration of the workshop 
 
 
-### Places
+#### // Places
 The workshop was held in public places with the help of the local municipality, the city of Milan. We tried to go where we could find open-minded people ready to possibly embark on the project and commit to a more structured and durable effort.
-- we held the first workshop at "Fa' la cosa giusta - The national faire of conscious consumption and sustainable lifestyles in Italy" 
-- we held the second workshop at "Forum delle politiche sociali" a series of meetings with the citizens organized by the local municipality
+
+- We held the first workshop at "Fa' la cosa giusta - The national faire of conscious consumption and sustainable lifestyles in Italy" 
+- We held the second workshop at "Forum delle politiche sociali" a series of meetings with the citizens organized by the local municipality
 
 
-### Technology and issues
+#### // Technology and issues
 From a technology point of view we decided to structure the workshop around the Arduino platform, the reasons for this choice have been explained above.
 The participants were asked to bring their own laptop to join the workshop, then at the beginning of the session any of the participants received a kit containing:
-- an Arduino UNO board
-- an Arduino Ethernet shield
-- a TinkerKit shield
-- a series of Tinkerkit modules (sensors and actuators)
-- a USB cable
-- an Ethernet LAN cable
+
+- An Arduino UNO board
+- An Arduino Ethernet shield
+- A TinkerKit shield
+- A series of Tinkerkit modules (sensors and actuators)
+- A USB cable
+- An Ethernet LAN cable
 
 Running an Internet of Things is not always an easy choice from a tech perspective, unfortunately most of the time:
-- public networks have firewalls you need to deal with
-- public wireless networks don't like 20 devices trying to connect at the same time
-- public networks require multiple authentication which is hard when dealing with simple hardware like Arduino
-- the errors you have to deal with when trying to connect and send packets of data over a network are a lot harder to troubleshoot and fix
+
+- Public networks have firewalls you need to deal with
+- Public wireless networks don't like 20 devices trying to connect at the same time
+- Public networks require multiple authentication which is hard when dealing with simple hardware like Arduino
+- The errors you have to deal with when trying to connect and send packets of data over a network are a lot harder to troubleshoot and fix
 
 With some experience on our shoulder dealing with this kind of issues we came prepared to the workshop.
 
