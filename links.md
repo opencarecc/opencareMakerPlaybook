@@ -22,3 +22,6 @@ We already explained a some techniques on how to make your prototype, below are 
 
 [Fritzing,](http://fritzing.org/home/) a very easy tool that helps you design your circuits, explore concepts and learn about electricity.
 
+[Fab Academy course](http://archive.fabacademy.org/archives/2016/doc/index_english.html), a great resource to learn about how to use the different fabrication technologies and how to design basic circuits.
+
+
