@@ -1,4 +1,4 @@
-# Workshop Coaches
+## Workshop Coaches
 
 ***Who's gonna run the workshop? -*** Are you running it? Are you sure you won't need help from someone else when having to jump from participants to participants asking you questions like there's no tomorrow? Are you sure you can deal with the amount of participants attending the workshop?
 These are the kind of questions you should ask yourself when setting up a workshop. They will help you decide the maximum number of participants, and they will make you understand how many coaches are needed to run the workshop successfully.
