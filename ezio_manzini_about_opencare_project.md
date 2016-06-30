@@ -29,6 +29,7 @@ Aside from being a word that we use regularly, the meaning of "care" might have 
 
 2.*Care referred to a set of artifacts*: the products and services of the system which, in a given time and place, enables the care activities (i.e. the care interaction of the point 1).
 
+
 #### What is open?
 *Open source, open data, open knowledge, open mind...* What exactly is the meaning of "open" in the contemporary world?
 
