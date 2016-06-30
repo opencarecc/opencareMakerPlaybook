@@ -19,11 +19,13 @@ Part of the selection will be **supported by what you have defined so far**: if 
 A very useful and inspiring set of tools that you can check is the **method cards**. In particular, we suggest you these two toolkits: **[IDEO Method Cards](https://www.ideo.com/work/method-cards)** and **[FROGDESIGN Collective Action Toolkit](http://www.frogdesign.com/work/frog-collective-action-toolkit.html)**.
 
 * The first one is a deck of cards that you can purchase online. There are 51 cards, and each card represents one tool. The tools are split in 4 different categories: **Learn**, **Look**, **Ask**, **Try**, according to your aim.
+
 Furthermore, the tool itself is structured as follows: **HOW** (description of the action), **WHY** (reason why you should use it).
 
 ![](OC-img_IDEO_cards.jpg)
 
 * Collective Action Toolkit, on the other hand, is a PDF that you can download. As well as the previous one, every tool is split in different categories: **Clarify your goal**, **Build your group**, **Seek new understanding**, **Imagine more ideas**, **Make something real**, **Plan for action**.
+
 The toolkit is very well structured because it suggests simple or more articulated sequences of tools. Every single tool is divided into steps, that will help you structuring the activity. Other aspects are also pointed out, such as **Time**, **Roles** and **Materials**.
 
 ![](OC-img_FROG_toolkit.jpg)
@@ -45,13 +47,13 @@ Beware, this way is risky and may imply failure. But don’t be afraid of this, 
 
 #### **// In other words**
 
-* Sum up your **Who**, **What** and **How**, that you have defined until now
+* Sum up your **Who**, **What** and **How**, that you have defined until now;
 
-* Search among **existing tools** the one that is more efficient for you
+* Search among **existing tools** the one that is more efficient for you;
 
-* Try and **experiment** it before the activity
+* Try and **experiment** it before the activity;
 
-* Design **your own tool**, taking inspiration from existing ones
+* Design **your own tool**, taking inspiration from existing ones.
 
 * Take advantage of the **competencies** of a well assorted team
 
@@ -73,7 +75,7 @@ At the end of the first session our aim was to get a list of personal needs that
 
 To achieve this we prepared some **slides** that we decided to present to all the audience at the beginning of the evening.
 
-###### *(See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides)*
+###### See [Be clear and complete about the project/meeting/outcomes](be_clear_and_complete_about_the_projectmeetingoutc.md) for more details about our slides.
 
 We also designed 4 **posters** representing:
 
@@ -158,4 +160,4 @@ For all the above mentioned activities we referred to the **Open Space Technolog
 
 ([https://en.wikipedia.org/wiki/Open_Space_Technology](https://en.wikipedia.org/wiki/Open_Space_Technology))
 
-###### See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology
+###### See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology.
