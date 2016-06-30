@@ -48,13 +48,13 @@ We divided the session into three main parts:
 * The second part was more **collective**, since participants were asked to “validate” their issues/needs through a **group discussion** and choose one for each group;
 * Then, the third part was a **plenary session**, in which one member per group were asked to present the concept of the selected need.
 
-After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by **(?)**. It gave all the participants and the operational staff the possibility to relax and enjoy the time spent together. 
+After this **teamwork** experience, the Municipality of Milan offered a delicious buffet organized by the center of **[Formazione San Giusto](https://www.google.it/search?client=safari&rls=en&q=centro+di+formazione+san+giusto&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=M0F1V8CXL4HA8gf0iauoBA)**. It gave all the participants and the operational staff the possibility to relax and enjoy the time spent together. 
 
 Audio and video of the meeting has been integrally recorded.
 
 **Second co-design session** - May 11th, 2016
 
-During the second meeting, we hosted altogether **(?)** participants. First of all, there was a **tight slide presentation** about:
+During the second meeting, we hosted altogether 20 participants. First of all, there was a **tight slide presentation** about:
 
 * A list of the **different issues**, revealed form the first session and divided into three macro-areas;
 * An **explanation** about the **tools** that they were going to use during the session;
