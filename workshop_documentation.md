@@ -22,8 +22,8 @@ Collecting shareable media about the session will make your communication more e
 
 |TIPS|
 |-|
-|About documenting the session, **it's always a good idea to ask the participants if they desire to be photographed or not**. You can easily do that at the beginning of the session. Depending on the legislation about privacy of your country you might need to submit a paper to the participants that they can sign if they allow to be photographed or videotaped. *Some info can be found here [https://en.wikipedia.org/wiki/Photography_and_the_law](https://en.wikipedia.org/wiki/Photography_and_the_law)*|
+|About documenting the session, **it's always a good idea to ask the participants if they desire to be photographed or not**. You can easily do that at the beginning of the session. Depending on the legislation about privacy of your country you might need to submit a paper to the participants that they can sign if they allow to be photographed or videotaped. Some info can be found here [https://en.wikipedia.org/wiki/Photography_and_the_law](https://en.wikipedia.org/wiki/Photography_and_the_law)|
 |About pictures, **it's not important to have a professional photographer. Pictures taken with a smartphone are usually good enough** to be published and shared online. Nowadays it might happen that participants will take pictures as well, it's a good idea to ask them if they want to share the pictures with you so you can use them for communication purposes, that will generally make them feel more part of the project!|
 |About videos, it's generally harder to make a good video without proper devices. **In our experience having a dedicated video maker for the session will make the video documentation exponentially better**.|
 
-*For more info about documentation please refer to the ["How can I share a project? chapter](how_can_i_share_a_project.md).*
+###### See the [How can I share a project?](how_can_i_share_a_project.md) chapter for more info about documentation.
