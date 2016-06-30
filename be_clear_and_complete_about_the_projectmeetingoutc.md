@@ -49,9 +49,9 @@ In the following picture, you can see one slide of one our presetation for an **
 
 We always used **Google Slides** for many reasons: 
 
-* the possibility to **edit** the presentation with others at the same time
-* to get the files **instantly** while on the meeting place (be aware, it requires an **internet connection**!)
-* as all the common slide applications, it gives the possibility to add hidden **notes** in each slide (it is very helpful to not lose the thread of the conversation)
+* The possibility to **edit** the presentation with others at the same time;
+* To get the files **instantly** while on the meeting place (be aware, it requires an **internet connection**!);
+* As all the common slide applications, it gives the possibility to add hidden **notes** in each slide (it is very helpful to not lose the thread of the conversation).
 
 ![](OC-img_slidepresentation-02.jpg)
 
