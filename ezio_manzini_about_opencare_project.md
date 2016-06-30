@@ -1,10 +1,10 @@
-# Ezio Manzini about opencare project
+## Ezio Manzini about opencare project
 
 
 The goals of **opencare** imply that the Consortium will be running an online platform to host EU citizens’ conversation about their care needs, worries, and personal experiences, or ideas to work within the current welfare ecosystem, whether as practitioners, beneficiaries, or stakeholders. Ezio Manzini has written a [contribution in **opencare** platform](https://edgeryders.eu/en/opencare/open-care-as-radical-socio-technical-innovation-reflecting-on). 
 
 
-#### Where does the idea come from?
+#### // Where does the idea come from?
 *Premise [by Ezio Manzini]*
 
 Since the beginning of human history, care has been exchanged (given and received) inside homogeneous, durable and relatively closed groups of individuals: families, clans, village communities, urban neighborhoods...
@@ -21,13 +21,14 @@ The gap between the growing demand and the shrinking offer of care is the basis 
 To overcome this crisis a brand new care systems has to be imagined and enhanced. To move in this direction, a first step is to better understand caring activities, considering their nature and diversity.
 
 
-
-####What is care?
+#### // What is care?
 Aside from being a word that we use regularly, the meaning of "care" might have different interpretations:
+
 *[by Ezio Manzini]*
+
 1. *Care referred to a special kind of human interaction*: someone (the care giver) gives attention to, and takes action for, someone else (the care receiver).
 
-2.*Care referred to a set of artifacts*: the products and services of the system which, in a given time and place, enables the care activities (i.e. the care interaction of the point 1).
+2. *Care referred to a set of artifacts*: the products and services of the system which, in a given time and place, enables the care activities (i.e. the care interaction of the point 1).
 
 
 #### What is open?
@@ -38,24 +39,29 @@ A succinct summary from the *Open Definition* website ([http://opendefinition.or
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
 
 Starting from this assumption, "open" could gain a more complex meaning within the field of care:
-[by Ezio Manzini]
 
-* 
-A.
+*[by Ezio Manzini]*
+
+* A.
 *Open referred to the care system:* a system is open when different actors have the possibility to play a role. This can happen when the whole activity package is opened and divided into parts with the possibility, for these different parts, to be distributed among different actors.
 
-* 
-B.
+* B.
 *Open referred to the information flow:* a system is open when the information on which it is based are open. This can happen when these information are totally visible, accessible and transferable to other systems.
 
-#### What is *opencare* then?
+#### // What is *opencare* then?
+
 *[by Ezio Manzini]*
+
 Considering the different meanings of “care” and “open” there is a clear correlation between 1 and A, and between 2 and B:
-* 
-A1.
+
+
+* A1.
 *Open care refers to the final result.* That is, it refers to the characteristics of the care system we intend to create: a care system where different actors (experts and non experts) are in condition to play a relevant role.
 
-B2.
+
+
+* B2.
 *Open care refers to the design/production process.* That is, it refers to the characteristics of a co-design and co-production process: the process leading to the realization of the products and services on which an aimed care system is based.
+
 
 
