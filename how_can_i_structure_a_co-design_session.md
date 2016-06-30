@@ -1,4 +1,4 @@
-# How can I structure a co-design session? [Silvia and Chiara]
+# How can I structure a co-design session? 
 
 
 #### // How is this chapter structured?
