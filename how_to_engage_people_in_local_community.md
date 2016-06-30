@@ -26,4 +26,4 @@ Opencare local team (WeMake and Municipality of Milan) contacted four communitie
 3. Migrants 
 4. A “Social street”
 
-#####see [Engagement](engagement_in_opencare_project.html) in **opencare** project subchapters for more details)
+#####(see [*Engagement*](engagement_in_opencare_project.html) in **opencare** project subchapters for more details)
