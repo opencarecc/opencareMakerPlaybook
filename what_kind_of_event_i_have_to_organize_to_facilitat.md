@@ -11,18 +11,18 @@ The first meeting with the citizens has to be an informal event: party, happy ho
 
 Why is a workshop good for the community?
 
-- It makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result
-- It makes people collaborate to solve concrete problems
-- It makes people feel empowered when facing again at issues in their everyday life
+- It makes people share an experience in a informal way, creating a space of trust and making them feeling less isolated as a result;
+- It makes people collaborate to solve concrete problems;
+- It makes people feel empowered when facing again at issues in their everyday life.
 
 Why is a workshop good for you?
 
-- It creates trust in you by the community
-- It makes the people in the community understand the limits of what you are planning to do
-- It gives you an opportunity to spot people interested in developing or testing the project
-- People might share their experience creating a natural amplification channel for the communication of the project
+- It creates trust in you by the community;
+- It makes the people in the community understand the limits of what you are planning to do;
+- It gives you an opportunity to spot people interested in developing or testing the project;
+- People might share their experience creating a natural amplification channel for the communication of the project.
 
-###### See [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.html) subchapter for more details.
+###### See [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.html) subchapter for more insights.
 
 #### // Keep the interest alive - how to keep the people involved?
 
