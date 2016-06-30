@@ -19,7 +19,7 @@ If you are replicating/localizing an existing global project make sure your loca
 
 4. If your project relates to a medical cause, or industrial, or elderly, etc, layout the scope of your project, and reach out to **related organizations**, or groups 
 
-#### // Connecting the dots:
+#### // Connecting the dots
 
 1. Make sure you **build connections** between the community of the makerspace and the new community that your bring for your project;
 2. Ensure that the local community can **work together** nicely;
