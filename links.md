@@ -25,3 +25,5 @@ We already explained a some techniques on how to make your prototype, below are 
 [Fab Academy course](http://archive.fabacademy.org/archives/2016/doc/index_english.html), a great resource to learn about how to use the different fabrication technologies and how to design basic circuits.
 
 [Processing](https://processing.org/tutorials), a very easy programming language, that helps you understand how to work with data, and how to visiualize and build simple effect.  Go through the tutorials step by step, this will be a great asset to you in further understanding about Arduino and programming in general. 
+
+####Open hardware project that made it to the market
