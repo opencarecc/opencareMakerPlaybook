@@ -4,12 +4,12 @@
 
 This will help to start citizen engagement process and create a new local community care-centered:
 
-- Identify the minimum number of people who want to be involved (this shows number of contacts that I will turn on and the kind of promotion that I'll have to activate);
-- The type of citizen who intends to involve (young, female,  with specific characteristics...);
-- The venues of the meetings (one, more than one, openspace, pubblic area... );
-- The type of activity to be made in every place (presentation, needs analysis, solution identification, early design - ideas draft);
-- The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.);
-- The type of output.
+- Identify the minimum number of people who want to be involved (this shows number of contacts that I will turn on and the kind of promotion that I'll have to activate)
+- The type of citizen who intends to involve (young, female,  with specific characteristics...)
+- The venues of the meetings (one, more than one, openspace, pubblic area... )
+- The type of activity to be made in every place (presentation, needs analysis, solution identification, early design - ideas draft)
+- The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
+- The type of output
 
 ###### See [Tips](general_notes.html) subchapters for more details.
 
@@ -23,9 +23,9 @@ The first step to involve citizens of different communities is inform and share 
 
 **opencare** local team ([WeMake](wemake.cc) and [Municipality of Milan](www.comune.milano.it)) contacted four communities:
 
-1. Elderly people with a common passion: dancing;
-2. Parents of disabled childrens;
-3. Migrants;
-4. A “Social street”.
+1. Elderly people with a common passion: dancing
+2. Parents of disabled childrens
+3. Migrants
+4. A “Social street”
 
 ###### See [Engagement](engagement_in_opencare_project.html) in **opencare** project subchapters for more details.
