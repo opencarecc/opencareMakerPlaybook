@@ -20,7 +20,6 @@
        * [Workshop Coaches](workshop_coaches.md)
        * [Workshop Communication](workshop_communication.md)
        * [Workshop Documentation](workshop_documentation.md)
-   * [[NEXT] Workshop categories](workshop_categories.md)
    * [Our workshop experience](our_workshop_experience.md)
 * [How can I structure a co-design session?](how_can_i_structure_a_co-design_session.md)
    * [What is a co-design session?](what_is_a_co-design_session.md)
