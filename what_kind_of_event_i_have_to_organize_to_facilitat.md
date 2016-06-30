@@ -19,7 +19,7 @@ Why is a workshop good for you?
 - it gives you an opportunity to spot people interested in developing or testing the project
 - people might share their experience creating a natural amplification channel for the communication of the project
 
-######*(see "How can I make a workshop happen?" chapter for more details)*
+######*(see [How can I make a workshop happen?](how_can_i_make_a_workshop_happen.html) subchapter for more details)*
 
 
 ##Keep the interest alive - how to keep the people involved?
