@@ -48,5 +48,20 @@ The development of the prototype was indeed a **steady focus point** in the edit
 
 Here you can see ours, that was later enhanced once we defined better our tools:
 
-(our deliverables picture)
+**Deliverables**
+
+* Detailed brief with:
+
+- - references to user needs
+- - and proposed solutions (including the ones that have not been selected)
+
+* Important documents related to the brainstorm session(s):
+
+* * Transcriptions
+* * Sketches
+* * Flow charts
+
+
+* A list of possible testers
+* Eventually a list of people who will participate in the prototyping phase and the skills that they can bring to the table
 
