@@ -9,15 +9,19 @@ We all must be empathic innovators, able to collaborate, create, and act in chan
 
 **opencare** Playbook aka "Co-designing care services: a practical guide" is a little contribute for all innovators who wants to start to make a change in their community.
 
+The Playbook describes a general path for starting collaborative processes that you can adapt as needed. The playbook is related to engagement processes (Local and offline), co-design sessions, prototyping and sharing documentation as parts of the entire process. 
+
+* Engagement as the citizenship involvment on one specific issue (for opencare project is related to care)
+* Co-design as the collective detection of troubles and solutions 
+
+* Prototyping as a the making of a service or a device from a concept
+
+
+* Sharing documentation to facilitate replicability of processes and results
+
 The Playbook is a collection of notes, tools, tips and tricks about the [opencare.cc](http://opencare.cc) project. 
 It is a work in progress and it's organized in such a way so that everyone can start from here to replicate changing process of **opencare** project.
 
-Opencare Playbook describes a general path for starting collaborative processes that you can adapt as needed. the playbook is related to engagement processes (online and offline), co-design sessions, prototyping and sharing documentation as parts of the entire process. 
-
-Engagement as the citizenship involvment on one specific issue (for opencare project is related to care)
-Co-design as the collective detection of troubles and solutions 
-Prototyping as a the making of a service or a device from a concept
-Sharing documentation to facilitate replicability of processes and results
 
 The book has been built on top of the [gitbook](http://gitbook.com) service.
 You can read the full book in your browser at this page: https://wemakecc.gitbooks.io/opencareplaybook/content/
