@@ -141,7 +141,12 @@ This tools was shared with the participants to make them shape their solution in
 
 ![](OC-img_Indicatori.jpg)
 
-At the end of the second session all the groups completed the Project Scheme and presented their solutions in plenary session.
+At the end of the second session all the groups completed the **Project Scheme** and presented their solutions in plenary session through another last tool which is the **Project phrase**.
+
+![](OC-img_frase_progetto.jpg)
+
+This tool aims to **facilitate the explanation** of the group's concepts during the sharing phase. So, participants could easily expound the concepts following the **same format**.
+
 After this all the decisions were depending on us. We took few weeks to **evaluate the projects** and research about existing products solving similar problems. Therefore we elaborated a new tool, used by our team, that we called **Evaluation Rubric**. This document helped us assigning points and understanding which project was the most suitable to be prototyped.
 We then scheduled a third meeting, to communicate our decision and further steps.
 
@@ -153,4 +158,4 @@ For all the above mentioned activities we referred to the **Open Space Technolog
 
 ([https://en.wikipedia.org/wiki/Open_Space_Technology](https://en.wikipedia.org/wiki/Open_Space_Technology))
 
-###### *(See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology)*
+###### See this[ PDF](http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf) if you want to get more information about Open Space Technology
