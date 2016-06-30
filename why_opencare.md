@@ -11,9 +11,9 @@ What if we could come up with a system that combines the access to modern scienc
 
 We are going to attempt to do just that. We are launching **opencare**, a two-year, 1.6 million euro research project to design and prototype new care services. We will:
 
-* Collect experiences of community-driven care services
-* Validate them through open discussion, both online and offline.
-* Augment them with state-of-the-art [maker technology](how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, biohacking…)
+* Collect experiences of community-driven care services;
+* Validate them through open discussion, both online and offline;
+* Augment them with state-of-the-art [maker technology](how_the_maker_movement_is_transforming_care.html) (3D printing, laser cutting, bio-hacking…);
 * Combine everything we learn into the design and prototype of next generation community driven care services.
 
 [Ezio Manzini](ezio_manzini_about_opencare_project.html), one of the world's most prominent experts in design for social innovation, said "Care referred to a special kind of human interaction". 
