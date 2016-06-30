@@ -9,6 +9,6 @@ Honestly, documentation isn't an easy task. Once you are focused on the job you 
 1. The clearer your documentation, the more engaged online community you can grow;
 2. The more you document, the more you tell the story of your product, which is a great asset for media coverage, supporters, and again, your online community;
 3. Documentation helps you (yes, you!) keep track of your thoughts, how and where you have started and how you end now;
-4. If you can't present it, then something is wrong. Being able to organize your thougts and guide your community through replicating how following your project is a skill that you have to master in order for your project to survive.
+4. If you can't present it, then something is wrong. Being able to organize your thoughts and guide your community through replicating how following your project is a skill that you have to master in order for your project to survive.
 
 
