@@ -10,7 +10,7 @@ This will help to start citizen engagement process and create a new local commun
 - The type of activity to be performed and the topics covered by group (more or less experiential, more involved, more frontal etc.)
 - The type of output 
 
-######*(see [Tips](general_notes.html) chapters for more details)*
+######*(see [Tips](general_notes.html) subchapters for more details)*
 
 
 ####How many people I have to contact?
@@ -25,3 +25,5 @@ Opencare local team (WeMake and Municipality of Milan) contacted four communitie
 2. Parents of disabled childrens
 3. Migrants 
 4. A “Social street”
+
+#####see [Engagement](engagement_in_opencare_project.html) in **opencare** project subchapters for more details)
