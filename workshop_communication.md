@@ -1,4 +1,4 @@
-# Workshop Communication
+## Workshop Communication
 
 You are ready to start your workshop, then don't forget to let people know your amazing workshop is taking place!
 When communicating your workshop is always a good idea to make clear:
