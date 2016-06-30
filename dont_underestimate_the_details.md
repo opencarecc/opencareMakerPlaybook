@@ -34,4 +34,4 @@ In our experience, we have tested and used a lot of applications, mainly both fo
 
 Obviously, you have to keep in mind that most of the time not all the registered people will show up in your great event! Then you have to be prepared to extemporize. But just to not be totally lost in this situation it might be very useful, especially a co-design session, a **timing sheet** about who does what, how and when. Of course, it should be written and showed to all the staff members before any kind of event, well in advance and preferably in a relaxed way.
 
-(picture “OC-timing-01/2/3”)
+![](OC-img_Timing_incontro-01-1.jpg)
