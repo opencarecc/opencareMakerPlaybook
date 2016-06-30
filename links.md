@@ -28,10 +28,12 @@ tis a treasure board that empowers anyone to work with sensors, data and devices
 
 ####What is being developed as open hardware?
 
-[Open Satellite](http://opensat.cc/download/DIYSatellite_en.pdf), you can literally plan your space mission, using opensource blue prints and guidelines 
+[Open Satellite](http://opensat.cc/download/DIYSatellite_en.pdf), you can literally send data to space using opensource blue prints and guidelines 
 
 You can build a [Quadcopter,](http://ardupilot.org/planner/index.html) from opensource hardware guides
 
 [Lasersaur,](https://github.com/nortd/lasersaur/wiki) You can build a high power laser machine using opensource technologies, with the cost of nearly $5K !
+
+[Ultimaker 3D printer,](https://ultimaker.com/en/resources/manuals) you can build your personalized version of the world's leading 3D printer, it is opensource.
 
 
