@@ -1,6 +1,6 @@
 # What kind of technologies can I use?
 
-Creating a prototype usually means you are working on an artifact that will soon go through a series of iterations. As a consequence you won't probably focus on small details and finishings (unless they are specifically needed for testing purposes), and you will try to have a working version as soon as possible.
+Creating a prototype usually means you are working on an artifact that will soon go through a series of iterations. As a consequence you won't probably focus on small details and finishing (unless they are specifically needed for testing purposes), and you will try to have a working version as soon as possible.
 
 Most of the time rapid prototyping techniques will do the job to produce your prototype. A series of technologies will come in hand to rapid-prototype your idea:
 * [3D printing](#3d-printing)
