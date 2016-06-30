@@ -4,7 +4,8 @@
 ###a practical guide for empathic explorers 
 
 ---
-You can read the full book in your browser at this page: https://wemakecc.gitbooks.io/opencareplaybook/content/
+You can read the full book in your browser at this page:
+http://playbook.opencare.cc
 
 Or download it as a:
 - [PDF](https://www.gitbook.com/download/pdf/book/wemakecc/opencareplaybook) 
