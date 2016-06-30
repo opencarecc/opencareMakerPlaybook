@@ -12,13 +12,13 @@ So, try to not be afraid about these “innovative” apps that use up your *gig
 
 #### **// In other words**
 
-* Look for **new tools** that help you in organizing your and others’ work
+* Look for **new tools** that help you in organizing your and others’ work;
 
-* **Try and test** these apps with your project managers and then **share** them with all the team
+* **Try and test** these apps with your project managers and then **share** them with all the team;
 
-* Make the **communication** and the **collaboration** between all your team members easy and effective
+* Make the **communication** and the **collaboration** between all your team members easy and effective;
 
-* Write down all the **tasks and roles** of a specific project, dividing them in a **timetable**
+* Write down all the **tasks and roles** of a specific project, dividing them in a **timetable**;
 
 * Handle and hold the team as more **coordinated** as possible.
 
@@ -26,7 +26,7 @@ So, try to not be afraid about these “innovative” apps that use up your *gig
 
 In our experience, we have tested and used a lot of applications, mainly both for smartphone and laptop. Here there is a **list of some tools** that we are still using, keep in mind that it is not a promotion work, it is just a sharing of our successes and failures: 
 
-* **Slack**: we use it to *communicate* to each other. It is very useful because it allows us to organize **different chat channels** according to the key sections of the main project. Within its pros, there is the fact that it is possible to create **bots**, which can send specific *notification* even from other applications. 
+* **Slack**: we use it to *communicate* to each other. It is very useful because it allows us to organize  **different chat channels** according to the key sections of the main project. Within its pros, there is the fact that it is possible to create **bots**, which can send specific *notification* even from other applications. 
 * **Hangout**: at the moment it is the best app to make sync and **video call**. It is especially recommended for *remote working*. It has also a chat window that allows the members to share and type *external links*. 
 * **Google documents**: thanks to **Google Drive**, we are able to share and manage a huge amount of folders and file. We use **Google applications** mostly for everything, from typing a *meeting minutes* to organize a *co-design session*. Therefore we use them as parallel support of other applications. 
 * **Asana**: it is very useful but at the same time it is a bit time consuming, especially at the beginning. But after a while it creates such a kind of *dependence*. It allows people to organize their own **tasks** but even to assignee some tasks to others. Surely, the strength point of this app is that everyone can see and check others’ tasks and set them according to a specific **deadline**. It has still some cons, but we are sure that Asana will be improved. 
