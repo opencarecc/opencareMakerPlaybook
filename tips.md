@@ -19,4 +19,5 @@ KEYWORDS *(regarding the contents)*
 
 The aim of this core section is to give you information and proper knowledge in order to **get familiar** with the **strategic design **and emphatic activities.
 Please, always keep in mind that collaborative design is not an **exact science**, and that every single element may vary depending on a number of factors. Take this as an **inspiration tool**, as a starting point, and then **jump** into the discipline, start testing, experiment, fail and then try again. Only in this way you will find the proper way to accomplish your real goals.
+
 And remember: **have fun**!
