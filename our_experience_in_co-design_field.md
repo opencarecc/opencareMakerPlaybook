@@ -1,4 +1,4 @@
-# Our experience in co-design field
+## Our experience in co-design field
 
 Since January 2016, thanks to **opencare**, we had the great opportunity to launch and spread a two-year research project, aiming to design and prototype new care services in Milan, Italy.
 
