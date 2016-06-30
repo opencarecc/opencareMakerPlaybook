@@ -77,7 +77,13 @@ To achieve this we prepared some **slides** that we decided to present to all th
 
 We also designed 4 **posters** representing:
 * What is opencare
+
+![](OC-img_A2_Poster-1.jpg)
+
 * Who we are and Who you are
+
+
+
 * opencare System Map.
 
 The last poster was about two case studies well representing the spirit and ideology of **open source care solutions**.
