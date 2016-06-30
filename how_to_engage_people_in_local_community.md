@@ -14,6 +14,7 @@ This will help to start citizen engagement process and create a new local commun
 
 
 ####How many people I have to contact?
+
 We recommend to map how many communities there are in your area and what are the characteristics of these communities: aims, age, gender and so on.
 The citizens involved in communities have the greatest skills in listening, and are used to collaborative practices.
 Then you have to choose four or five communities with different characteristics.
