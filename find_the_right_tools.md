@@ -155,7 +155,7 @@ We then scheduled a third meeting, to communicate our decision and further steps
 
 For all the above mentioned activities we referred to the **Open Space Technology**, which was adapted to our tools and can be defined as:
 
-> a process that focuses on expanding time and space for the force of self-organisation to do its thing. Although one can't predict specific outcomes, it's always highly productive for whatever issue people want to attend to. Some of the inspiring side effects that are regularly noted are laughter, hard work which feels like play, surprising results and fascinating new questions.
+> a process that focuses on expanding time and space for the force of self-organization to do its thing. Although one can't predict specific outcomes, it's always highly productive for whatever issue people want to attend to. Some of the inspiring side effects that are regularly noted are laughter, hard work which feels like play, surprising results and fascinating new questions.
 
 
 ([https://en.wikipedia.org/wiki/Open_Space_Technology](https://en.wikipedia.org/wiki/Open_Space_Technology))
