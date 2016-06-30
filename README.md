@@ -28,7 +28,7 @@ The Playbook describes a general path for starting collaborative processes that 
 The Playbook is a collection of notes, tools, tips and tricks about the [opencare.cc](http://opencare.cc) project. 
 It is a work in progress and it's organized in such a way so that everyone can start from here to replicate changing process of **opencare** project.
 
-####Authors:
+####Contributors:
 
 Silvia D'Ambrosio
 
@@ -41,6 +41,10 @@ Moushira Elamrawy
 Alessandro Contini
 
 Costantino Bongiorno
+
+
+
+ [WeMake | fablab makersapace](http://wemake.cc):  is based in Milan (Italy) and provides a series of innovative services and training to the creative community of the region in the field of digital and traditional manufacturing, high-value technologies and access to a fully equipped Fab Lab. We foster the development of a new model of designer-producer (maker) and small-scale company by facilitating the engineering phase, the rapid iteration of design solutions, the on-demand production of physical/digital artifacts.
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" OpenCare è src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" width="50" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
