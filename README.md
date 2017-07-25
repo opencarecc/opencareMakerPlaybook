@@ -44,6 +44,7 @@ Alessandro Contini
 Costantino Bongiorno
 
 
+---
 
  [WeMake | fablab makersapace](http://wemake.cc):  is based in Milan (Italy) and provides a series of innovative services and training to the creative community of the region in the field of digital and traditional manufacturing, high-value technologies and access to a fully equipped Fab Lab. We foster the development of a new model of designer-producer (maker) and small-scale company by facilitating the engineering phase, the rapid iteration of design solutions, the on-demand production of physical/digital artifacts.
 
