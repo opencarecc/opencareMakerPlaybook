@@ -3,8 +3,11 @@
 
 ---
 You can read the full book in your browser at this page:
+
 http://playbook.opencare.cc
+
 http://makerplaybook.opencare.cc
+
 
 Or download it as a:
 - [PDF](https://www.gitbook.com/download/pdf/book/wemakecc/opencareplaybook) 
