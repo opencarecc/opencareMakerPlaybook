@@ -8,7 +8,7 @@
         "include-codeblock",
         "ace",
         "copy-code-button",
-        "image-captions",
+        /* "image-captions", */
         "noembed",
         "embed-pdf",
         "autocover",
