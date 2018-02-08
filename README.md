@@ -8,11 +8,11 @@ http://makerplaybook.opencare.cc
 
 
 Or download it as a:
-- [PDF](https://www.gitbook.com/download/pdf/book/wemakecc/opencareplaybook)
-- [ePub](https://www.gitbook.com/download/epub/book/wemakecc/opencareplaybook)
+- [PDF](https://www.gitbook.com/download/pdf/book/wemakecc/opencaremakerplaybook)
+- [ePub](https://www.gitbook.com/download/epub/book/wemakecc/opencaremakerplaybook)
 ---
 
-![read it online](/cover_small.jpg)
+[![read it online](/cover_small.jpg)](http://makerplaybook.opencare.cc)
 
 ---
 Epochal changes in science, technology and globalization have transformed traditional power structures in the world, opening the way for citizens to participate in society in a way that they could not before. And change is accelerating. While we do not know what tomorrow’s problems are going to be, we know there will be many, and we know we will need everyone equipped to deal with them.
