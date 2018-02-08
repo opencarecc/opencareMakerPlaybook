@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # opencare Playbook
 ### a practical guide for empathic explorers
+=======
+# opencare Maker Playbook
+### co-designing care services: a practical guide 
+>>>>>>> 7c54b0082e6b587def792b79bbc3d5cf625daf2e
 
 ---
 You can read the full book in your browser at this page:
