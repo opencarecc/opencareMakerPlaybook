@@ -1,5 +1,5 @@
 # opencare Maker Playbook
-### co-designing care services: a practical guide 
+### co-designing care services: a practical guide
 
 ---
 You can read the full book in your browser at this page:
@@ -12,7 +12,7 @@ Or download it as a:
 - [ePub](https://www.gitbook.com/download/epub/book/wemakecc/opencareplaybook)
 ---
 
-![](/cover.jpg)
+![read it online](/cover_small.jpg)
 
 ---
 Epochal changes in science, technology and globalization have transformed traditional power structures in the world, opening the way for citizens to participate in society in a way that they could not before. And change is accelerating. While we do not know what tomorrow’s problems are going to be, we know there will be many, and we know we will need everyone equipped to deal with them.
