@@ -1,5 +1,5 @@
-# opencare Playbook
-### a practical guide for empathic explorers 
+# opencare Maker Playbook
+### co-designing care services: a practical guide 
 
 --- 
 You can read the full book in your browser at this page:
