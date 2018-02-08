@@ -1,10 +1,8 @@
 # opencare Playbook
 ### a practical guide for empathic explorers 
 
---- test from github
+--- 
 You can read the full book in your browser at this page:
-
-http://playbook.opencare.cc
 
 http://makerplaybook.opencare.cc
 
