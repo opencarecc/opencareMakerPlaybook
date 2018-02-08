@@ -8,8 +8,8 @@ http://makerplaybook.opencare.cc
 
 
 Or download it as a:
-- [PDF](https://www.gitbook.com/download/pdf/book/wemakecc/opencaremakerplaybook)
-- [ePub](https://www.gitbook.com/download/epub/book/wemakecc/opencaremakerplaybook)
+- [PDF](https://www.gitbook.com/download/pdf/book/opencarecc/opencaremakerplaybook)
+- [ePub](https://www.gitbook.com/download/epub/book/opencarecc/opencaremakerplaybook)
 ---
 
 [![read it online](/cover_small.jpg)](http://makerplaybook.opencare.cc)
