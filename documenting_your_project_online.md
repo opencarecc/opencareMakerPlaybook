@@ -1,6 +1,8 @@
 ## Documenting your project online
 
-
+Here you can find our [InPe tutorial](https://github.com/opencarecc/inpe/wiki), an example of good documentation you can be inspired from.
+[
+![](https://camo.githubusercontent.com/1b4735589f01e275483986a5c9835120ccd6ebd5/68747470733a2f2f6661726d352e737461746963666c69636b722e636f6d2f343530372f32333933363039333231385f393736633930306435342e6a7067)](https://github.com/opencarecc/inpe/wiki)
 
 #### // Tool to use:
 
